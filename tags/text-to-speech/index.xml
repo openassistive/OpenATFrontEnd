@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text To Speech on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/text-to-speech/</link>
+    <description>Recent content in Text To Speech on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AMIS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/projects/amis&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:marisademeglio@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amis.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?atid=581587&amp;amp;group_id=86978&amp;amp;func=browse&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/forum/?group_id=86978&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-amis-setupamis-exe-download&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&#34;&gt;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible BBC Listen Again</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Select programmes and stations with the cursor keys and listen to them at your leisure. You get easy and simple access to hours of programming, including the ever-popular &amp;ldquo;&amp;ldquo;The Archers&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;In Touch&amp;rdquo;&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;The new version (2.1) lets you access all of the Listen Again content among many other improvements (thanks to everyone for their suggestions!) It does still require that you have already installed &lt;a bbc=&#34;&#34; href=&#34;&#34; of=&#34;&#34; realplayer=&#34;&#34; title=&#34;&#34; version=&#34;&#34;&gt;RealPlayer from Real&lt;/a&gt;. The copyright of the BBC recordings is unchanged: you are simply accessing them through a more accessible presentation of their own website. Version 2.1 should work better on more machines: several users contacted me with problems with 2.0&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblebbc/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download.htm&#34;&gt;http://www.webbie.org.uk/download.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible RSS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessible RSS&lt;/strong&gt; is an accessible application that lets you access these RSS feeds. It displays the headlines from web pages that support RSS. At present four sites (the BBC, the Daily Mail, the Guardian and the Daily Telegraph) are supported, but you can add your own if you find a site with an RSS feed. If you have WebbIE you can press return on a story to launch WebbIE with that story page, but you do not need WebbIE to read the feeds. If you do not have WebbIE the story will be shown in Internet Explorer&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblerss=&#34;&#34; and=&#34;&#34; for=&#34;&#34; href=&#34;&#34; installer=&#34;&#34; title=&#34;&#34; webbie=&#34;&#34;&gt;WebbIE 3 Installer&lt;/a&gt; - includes the latest Accessible RSS News Reader.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You are likely to find that some feeds don&amp;rsquo;t work: this may be because the feed is not valid. You can check the feed&amp;rsquo;s validity at the &lt;a href=&#34;&#34;&gt;Feed Validator service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblerss-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblerss/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Radio</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <description>
+
+&lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessibleradio-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;http://www.webbie.org.uk/accessibleradio/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Web Directory</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <description>
+
+&lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessible-web-directory/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblewebdirectory-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AccessiblePodcatcher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessiblepodcatcher/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblepodcatcher/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-accessiblepodcatcher-en-installer1-4-exe&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&#34;&gt;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Calculator</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</guid>
+      <description>
+
+&lt;p&gt;The size of the calculator buttons is determined by the WIDTH of the calculator window.&lt;/p&gt;
+
+&lt;p&gt;Big Calculator will use a &lt;a href=&#34;&#34;&gt;SAPI 4.0 speech&lt;/a&gt; system if you have one installed on your system.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tip: for extra large read-out, set a wide, short window, and input with the numeric keys.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/big-calculator/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sensorysoftware.com/bigcalculator.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-sensorysoftware-com-bigcalculator-html&#34;&gt;Download: &lt;a href=&#34;http://www.sensorysoftware.com/bigcalculator.html&#34;&gt;http://www.sensorysoftware.com/bigcalculator.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHIP Speaking</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/CHIPSpeaking/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CHIPSpeaking/</guid>
+      <description>
+
+&lt;p&gt;Unlike the flagship product, CHIPSpeaking™ , CHIPSpeech™  actually is written to assist PALS to record their voice as it is now, and preserve the phrases and sentences that are needed in everyday life, and recall them in their own voice, and save that speech indefinitely. The recordings are made and saved to disk in small files, which can be saved on diskette or backup media for use on other computers.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:CHIPSpeaking@aol.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aa4pc.tripod.com/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-aa4pc-tripod-com&#34;&gt;Download: &lt;a href=&#34;http://aa4pc.tripod.com/&#34;&gt;http://aa4pc.tripod.com/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLiCk, Speak</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</guid>
+      <description>
+
+&lt;p&gt;Unlike &lt;a href=&#34;&#34;&gt;Fire Vox&lt;/a&gt; which is designed for visually impaired users, CLiCk, Speak is designed for sighted users who want text-to-speech functionality. It doesn&amp;rsquo;t identify elements or announce events - two features that are very important for visually impaired users but very annoying for sighted users. It also has a simplified, mouse driven interface that is designed to be easy for users familiar with point-and-click graphical user interfaces. Like Fire Vox, CLiCk, Speak works on Windows, Macintosh, and Linux; and Fire Vox has multilingual support, making it great for users who are trying to learn a foreign language and need to hear foreign language web sites read out to them for practice.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re a sighted user who wants to have web pages read to you because you have cognitive issues (for example, dyslexia), because you have literacy issues (like me - I can understand spoken Mandarin Chinese just fine, but reading is difficult for me), because you want to reduce eyestrain and listen to a web page being read, etc., then you are likely to prefer CLiCk, Speak over Fire Vox.&lt;/p&gt;
+
+&lt;p&gt;The Core Library Components for Text-To-Speech (CLC-4-TTS) Suite is a set of extensions for Firefox. It consists of a library for doing text-to-speech synthesis (the Core library), a library for navigating the HTML DOM (the Utils library), and an application that uses the libraries to act as a screen reader (Fire Vox).&lt;/p&gt;
+
+&lt;p&gt;While it currently only works on Firefox, it would be possible for me to create versions of this for other Mozilla products such as Thunderbird. I would have to rewrite the application portion, but the libraries would largely remain untouched. These libraries can also be used to construct other extensions that are not necessarily aimed at the visually impaired. Both are directions that I am interested in pursuing in the near future, so stay tuned.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://clc4tts.clcworld.net/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:clc@clcworld.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clickspeak.clcworld.net/index.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clc4tts.clcworld.net/&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-clickspeak-clcworld-net-downloads-html&#34;&gt;Download: &lt;a href=&#34;http://clickspeak.clcworld.net/downloads.html&#34;&gt;http://clickspeak.clcworld.net/downloads.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSpeech</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</guid>
+      <description>
+
+&lt;p&gt;It is specifically designed to quickly and directly provide the functions and improved practical usefulness that are requested by this kind of program. In the meantime, the invasiveness and resource consumption is minimal.&lt;br /&gt;
+(DSpeech does not install itself, is very light, starts in a second and doesn&amp;rsquo;t write anything to the registry). Some notable features of DSpeech are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Allows you to save the output as a .WAV or .MP3 file.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to quickly select different voices, even combine them, or juxtapose them in order to create dialogues between different voices.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;DSpeech integrates a vocal recognition system that, through a simple script language, allows you to create interactive dialogues with the user.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to configure the voices in an independent way.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Thanks to apposite TAGs, it allows you to dynamically change the features of the voices during the playback (speed, volume and frequency), to insert pauses, emphasize specific words, or even to spell them out.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to capture and reproduce the content of the ClipBoard.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;DSpeech is compatible with all vocal engines (SAPI 4-5 compliant).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;AI dialog system. Not really useful, but amusing. It does not work in every language.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;DSpeech interface can be translated in several languages:&lt;/p&gt;
+
+&lt;p&gt;Italian (By Talksina)&lt;/p&gt;
+
+&lt;p&gt;Spanish (By Ricardo Abad &amp;amp; Esteban Mello)&lt;/p&gt;
+
+&lt;p&gt;Spanish Valencian (By Ricardo Abad)&lt;/p&gt;
+
+&lt;p&gt;French (By Adel)&lt;/p&gt;
+
+&lt;p&gt;Portuguese (By Ângelo Miguel)&lt;/p&gt;
+
+&lt;p&gt;Brazilian Portuguese (By Antonio Cezar Locutor)&lt;/p&gt;
+
+&lt;p&gt;Latin American Spanish (By Rafael Lopez Jr.)&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cyberdimio@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dimio.altervista.org/eng/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-dimio-altervista-org-eng&#34;&gt;Download: &lt;a href=&#34;http://dimio.altervista.org/eng/&#34;&gt;http://dimio.altervista.org/eng/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daisy Pipeline</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/dmfc-daisy-multi-format-converter/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.daisy.org/projects/pipeline/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DonnerLaParole</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;This is a software that allows to enter words and sentences easily and make them talk. Which is very useful for people with disabilities.&lt;/p&gt;
+
+&lt;p&gt;“DonnerLaParole” can be translated in “GiveTheWord” …&lt;/p&gt;
+
+&lt;p&gt;There are several key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;several input systems help you if you can’t easily access the computer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;without any clicks, if you do not have enough strength or muscle coordination&lt;/li&gt;
+&lt;li&gt;with a selection block mechanism, if you cannot move,&lt;/li&gt;
+&lt;li&gt;with just the click of a mouse or a switch,&lt;/li&gt;
+&lt;li&gt;with two contactors or 2 buttons if you want to access the buttons at your own pace&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of virtual keyboards:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;computer keyboard&lt;/li&gt;
+&lt;li&gt;style keyboard phone&lt;/li&gt;
+&lt;li&gt;a keyboard for sign language&lt;/li&gt;
+&lt;li&gt;keyboard customizable icons&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of dictionaries to be able to quickly select words without having to enter all the letters (this is called predictive text input).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a manager of common sentences, to avoid having to continually enter the same words and similar phrases.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;voice synthesizers, which will deliver the phrases or words typed in:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the possibility of using voice as Virginia SAPI (Windows only)&lt;/li&gt;
+&lt;li&gt;voices natively on Windows, Apple and Linux&lt;/li&gt;
+&lt;li&gt;regionalization of the French language&lt;/li&gt;
+&lt;li&gt;with the Canadian “accent”&lt;/li&gt;
+&lt;li&gt;with the Belgian “accent”&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a composer of iconic sentences&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;greater accessibility of the interface for those deprived of movement, particularly in settings&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;system ready for monitoring the environment (or home automation) with&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the ability to send messages through serial port&lt;/li&gt;
+&lt;li&gt;the ability to run programs on the user’s computer&lt;/li&gt;
+&lt;li&gt;the ability to send requests to a server
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;oatsoft-comment&#34;&gt;OATSoft comment:&lt;/h2&gt;
+
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Common Public License 1.0&lt;/a&gt;&lt;br /&gt;
+Installation packages are available for different generations of MS Windows, Mac OS X and Linux.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.donnerlaparole.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-donnerlaparole-org-en-telecharger&#34;&gt;Download: &lt;a href=&#34;http://www.donnerlaparole.org/en/telecharger/&#34;&gt;http://www.donnerlaparole.org/en/telecharger/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>E-triloquist</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/E-triloquist/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/E-triloquist/</guid>
+      <description>
+
+&lt;h3 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h3&gt;
+
+&lt;p&gt;E-triloquist, the personal computer augmentative communication aid software formerly known as &amp;ldquo;&amp;ldquo;SpeakEasy&amp;rdquo;&amp;ldquo;, developed as a family project. Dad had amyotrophic lateral sclerosis (ALS) and lost his ability to speak in the course of the disease. Son is particularly versatile in personal computers. Our first version (named &amp;ldquo;&amp;ldquo;SpeakEasy&amp;rdquo;&amp;rdquo; at the time) was made available on the Internet in early 1995. We are now on Version 5.7 with even more new features suggested by current users of the program, and with full support for Windows-ME and Windows-XP operating systems. See the &lt;a href=&#34;&#34;&gt;New Features&lt;/a&gt; page for full details on the enhancements in V5.7. Go to the &lt;a href=&#34;&#34;&gt;Downloads&lt;/a&gt; page to install or upgrade to the latest version of E-triloquist.&lt;/p&gt;
+
+&lt;p&gt;Most users of the program can still use a keyboard, albeit slowly. For those who can no longer type, E-triloquist can easily be teamed-up with on-screen keyboards, scanners, word-predictors, single-switch input, or other assistive input devices such as &lt;a href=&#34;&#34;&gt;Click-N-Type virtual keyboard&lt;/a&gt; from Lake Software, &lt;a href=&#34;&#34;&gt;SofType&lt;/a&gt; from &lt;a href=&#34;&#34;&gt;Origin Instruments&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;WiViK®&lt;/a&gt; on-screen keyboard (virtual keyboard) software, &lt;a href=&#34;&#34;&gt;Virtual On-Screen Keyboard&lt;/a&gt; by &lt;a href=&#34;&#34;&gt;MiloSoft&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;My-T-Mouse&lt;/a&gt; from &lt;a href=&#34;&#34;&gt;IMG&lt;/a&gt;, and a variety of input devices and augmentative communication products from &lt;a href=&#34;&#34;&gt;Prentke Romich Company&lt;/a&gt;. A longer list of devices can be viewed on the &lt;a href=&#34;&#34;&gt;ALS Resources&lt;/a&gt; page. These tools can also be added on at a later time if the need arises. Note: when looking for assistive input devices, be sure to get one that will work with ALL of your Windows programs, (e.g. E-triloquist, word processor, e-mail, web browser, &amp;hellip;) not just one specific software program.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.etriloquist.com/index.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-etriloquist-com-downloads-php&#34;&gt;Download: &lt;a href=&#34;http://www.etriloquist.com/Downloads.php&#34;&gt;http://www.etriloquist.com/Downloads.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

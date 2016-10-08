@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environmental Control on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/environmental-control/</link>
+    <description>Recent content in Environmental Control on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/environmental-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DonnerLaParole</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;This is a software that allows to enter words and sentences easily and make them talk. Which is very useful for people with disabilities.&lt;/p&gt;
+
+&lt;p&gt;“DonnerLaParole” can be translated in “GiveTheWord” …&lt;/p&gt;
+
+&lt;p&gt;There are several key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;several input systems help you if you can’t easily access the computer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;without any clicks, if you do not have enough strength or muscle coordination&lt;/li&gt;
+&lt;li&gt;with a selection block mechanism, if you cannot move,&lt;/li&gt;
+&lt;li&gt;with just the click of a mouse or a switch,&lt;/li&gt;
+&lt;li&gt;with two contactors or 2 buttons if you want to access the buttons at your own pace&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of virtual keyboards:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;computer keyboard&lt;/li&gt;
+&lt;li&gt;style keyboard phone&lt;/li&gt;
+&lt;li&gt;a keyboard for sign language&lt;/li&gt;
+&lt;li&gt;keyboard customizable icons&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of dictionaries to be able to quickly select words without having to enter all the letters (this is called predictive text input).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a manager of common sentences, to avoid having to continually enter the same words and similar phrases.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;voice synthesizers, which will deliver the phrases or words typed in:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the possibility of using voice as Virginia SAPI (Windows only)&lt;/li&gt;
+&lt;li&gt;voices natively on Windows, Apple and Linux&lt;/li&gt;
+&lt;li&gt;regionalization of the French language&lt;/li&gt;
+&lt;li&gt;with the Canadian “accent”&lt;/li&gt;
+&lt;li&gt;with the Belgian “accent”&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a composer of iconic sentences&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;greater accessibility of the interface for those deprived of movement, particularly in settings&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;system ready for monitoring the environment (or home automation) with&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the ability to send messages through serial port&lt;/li&gt;
+&lt;li&gt;the ability to run programs on the user’s computer&lt;/li&gt;
+&lt;li&gt;the ability to send requests to a server
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;oatsoft-comment&#34;&gt;OATSoft comment:&lt;/h2&gt;
+
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Common Public License 1.0&lt;/a&gt;&lt;br /&gt;
+Installation packages are available for different generations of MS Windows, Mac OS X and Linux.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.donnerlaparole.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-donnerlaparole-org-en-telecharger&#34;&gt;Download: &lt;a href=&#34;http://www.donnerlaparole.org/en/telecharger/&#34;&gt;http://www.donnerlaparole.org/en/telecharger/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

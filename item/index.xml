@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/item/</link>
+    <description>Recent content in Items on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/item/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AAC Keys</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
+
+&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
+
+&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
+
+&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-aacinstitute-org-resources-productsandservices-aackeys-aackeys-html&#34;&gt;Download: &lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&#34;&gt;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACollab</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</guid>
+      <description>
+
+&lt;p&gt;ACollab is available as a work groups &lt;strong&gt;addon for ATutor 1.4+&lt;/strong&gt; , and as a standalone collaborative work environment that will run on its own. ACollab is ideal for groups working at a distance developing documentation, collaborating on research, or writing joint papers, and ideal for online educators who wish to add group learning activities to their ATutor courses. A &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;demo&lt;/a&gt; and &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;download&lt;/a&gt; are available if you want to learn more. Or, read on for a list of &lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;ACollab features&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;acollab-features&#34;&gt;ACollab Features:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Document Drafting Room&lt;/strong&gt;: Group members can work within a Web-based document versioning system, collaborating on document development and publication. Documents developed in the Drafting Room can be transferred to the Shared Documents Library once finalized.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared Documents Library&lt;/strong&gt;: Group members can submit documents to the library, from which other group members, or public members, can retrieve those documents for viewing or downloading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Events Calendar&lt;/strong&gt;: Events can be posted to the calendar by all group members, to announce activities, meetings, due dates, or other group related happenings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News &amp;amp; Announcements&lt;/strong&gt;: Group administrators, or system administrators, can post news to be presented to users when they first login to a group.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Membership Index&lt;/strong&gt;: Group members can view other group members&amp;rsquo; profiles and contact information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mail Inbox&lt;/strong&gt;: Members can communicate with each other privately.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AChat-PHP&lt;/strong&gt;: Accessible synchronous communication is possible between group members, ideal for online meetings or group socializing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AForum&lt;/strong&gt;: AForum is an enhanced version for the ATutor forums. Members post message for others to retrieve later. Forums can be set to read only, reply only, as open discussion, or can be hidden from view.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Lingual Interface&lt;/strong&gt;: Language can be modified by system administrators, or new language packs can be created using the ATutor.ca translation tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility Compliance&lt;/strong&gt;: Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Leaders&lt;/strong&gt;: Create chat transcripts, define folders for sorting documents, assign group membership roles, create and manage forums, create mailing lists, post news and announcements, and manage group members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Administrator&lt;/strong&gt;: Create and manage groups, manage the system languages, and manage all users on a system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/docs/howto.php&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forum/16/1.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acollab-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acollab/download.php&#34;&gt;http://www.atutor.ca/acollab/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMIS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/projects/amis&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:marisademeglio@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amis.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?atid=581587&amp;amp;group_id=86978&amp;amp;func=browse&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/forum/?group_id=86978&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-amis-setupamis-exe-download&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&#34;&gt;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARASAAC Pictograms</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;The ARASAAC portal offers graphic resources and materials to facilitate communication for those with some sort of problem in this area.&lt;/p&gt;
+
+&lt;p&gt;OATSoft comment:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This is an increasingly popular and widely used AAC resource, and the symbol file libraries are available with the file names translated into a growing number of languages. The file format provided is 500 pixels high PNG. Though the number of files is quite large, there is a fair amount of redundancy due to numerous duplication of symbols labelled with different names.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.catedu.es/arasaac/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-catedu-es-arasaac-descargas-php&#34;&gt;Download: &lt;a href=&#34;http://www.catedu.es/arasaac/descargas.php&#34;&gt;http://www.catedu.es/arasaac/descargas.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accerciser</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Accerciser/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Accerciser/</guid>
+      <description>
+
+&lt;p&gt;This is to announce the first development release of Accerciser for the 1.4.0 (GNOME 2.24) cycle.&lt;/p&gt;
+
+&lt;p&gt;Accerciser has a simple plug-in framework which you can use to create custom views of accessibility information.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Accerciser is also the first GNOME module, if ordered alphabetically.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;==============&lt;/p&gt;
+
+&lt;p&gt;Version 1.3.1&lt;/p&gt;
+
+&lt;p&gt;==============&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s new&lt;/p&gt;
+
+&lt;p&gt;==========&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Implement save functionality, thanks Brian Merrell.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Quick select works better for finding accessible under mouse.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check pyatspi version.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;New And Updated Translations&lt;/p&gt;
+
+&lt;p&gt;============================&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;David Lodge (en_GB)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jorge González (es)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kjartan Maraas (nb)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laurent Dhima (sq)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Downloading Accerciser&lt;/p&gt;
+
+&lt;p&gt;======================&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.bz2&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.bz2&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;h3 id=&#34;download-http-ftp-gnome-org-pub-gnome-sources-accerciser-1-3-accerciser-1-3-1-tar-gz&#34;&gt;Download: &lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible BBC Listen Again</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Select programmes and stations with the cursor keys and listen to them at your leisure. You get easy and simple access to hours of programming, including the ever-popular &amp;ldquo;&amp;ldquo;The Archers&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;In Touch&amp;rdquo;&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;The new version (2.1) lets you access all of the Listen Again content among many other improvements (thanks to everyone for their suggestions!) It does still require that you have already installed &lt;a bbc=&#34;&#34; href=&#34;&#34; of=&#34;&#34; realplayer=&#34;&#34; title=&#34;&#34; version=&#34;&#34;&gt;RealPlayer from Real&lt;/a&gt;. The copyright of the BBC recordings is unchanged: you are simply accessing them through a more accessible presentation of their own website. Version 2.1 should work better on more machines: several users contacted me with problems with 2.0&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblebbc/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download.htm&#34;&gt;http://www.webbie.org.uk/download.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible RSS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessible RSS&lt;/strong&gt; is an accessible application that lets you access these RSS feeds. It displays the headlines from web pages that support RSS. At present four sites (the BBC, the Daily Mail, the Guardian and the Daily Telegraph) are supported, but you can add your own if you find a site with an RSS feed. If you have WebbIE you can press return on a story to launch WebbIE with that story page, but you do not need WebbIE to read the feeds. If you do not have WebbIE the story will be shown in Internet Explorer&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblerss=&#34;&#34; and=&#34;&#34; for=&#34;&#34; href=&#34;&#34; installer=&#34;&#34; title=&#34;&#34; webbie=&#34;&#34;&gt;WebbIE 3 Installer&lt;/a&gt; - includes the latest Accessible RSS News Reader.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You are likely to find that some feeds don&amp;rsquo;t work: this may be because the feed is not valid. You can check the feed&amp;rsquo;s validity at the &lt;a href=&#34;&#34;&gt;Feed Validator service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblerss-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblerss/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Radio</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <description>
+
+&lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessibleradio-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;http://www.webbie.org.uk/accessibleradio/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Web Directory</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <description>
+
+&lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessible-web-directory/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblewebdirectory-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AccessiblePodcatcher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessiblepodcatcher/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblepodcatcher/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-accessiblepodcatcher-en-installer1-4-exe&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&#34;&gt;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acomm</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</guid>
+      <description>
+
+&lt;h2 id=&#34;acomm-features&#34;&gt;AComm Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User can login to an existing Jabber account or sign up for a new one.&lt;/li&gt;
+&lt;li&gt;Roster provides &amp;ldquo;&amp;ldquo;presence&amp;rdquo;&amp;rdquo; information for contacts.&lt;/li&gt;
+&lt;li&gt;Users can participate in private or group chat/whiteboard sessions&lt;/li&gt;
+&lt;li&gt;Text chat window and optional whiteboard&lt;/li&gt;
+&lt;li&gt;Participant list on demand.&lt;/li&gt;
+&lt;li&gt;A variety of whiteboard drawing tools are available&lt;/li&gt;
+&lt;li&gt;Peer description allows any participant to describe the drawn objects. Anti-collision feature ensures one describer per object.&lt;/li&gt;
+&lt;li&gt;Accessibility options
+
+&lt;ul&gt;
+&lt;li&gt;Option to play sound effect when a new message arrives.&lt;/li&gt;
+&lt;li&gt;Keyboard drawing checkbox&lt;/li&gt;
+&lt;li&gt;Manual refresh checkbox&lt;/li&gt;
+&lt;li&gt;Show only new checkbox&lt;/li&gt;
+&lt;li&gt;Newest message first checkbox&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard enabled drawing lets users use some features of the whiteboard without a mouse.&lt;/li&gt;
+&lt;li&gt;Save and open palette feature lets users create and describe pictures beforehand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AComm is a Java application and requires that a Java Runtime Environment be installed on system it is running on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acomm/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acomm/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acomm-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acomm/download.php&#34;&gt;http://www.atutor.ca/acomm/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acta</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acta/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.a-sharp.com/acta/acta.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-a-sharp-com-acta-download-html&#34;&gt;Download: &lt;a href=&#34;http://www.a-sharp.com/acta/download.html&#34;&gt;http://www.a-sharp.com/acta/download.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agrip</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;Over the past two years, AGRIP has developed an accessible version of Quake and &lt;a href=&#34;&#34; quakeworld=&#34;&#34;&gt;QuakeWorld&lt;/a&gt; which allows both single and multi-player games, including the collection of online player statistics. In the future we will add immersive 3D audio and level editing facilities - in addition to the gameplay modifications that are currently possible. At each milestone in the project, we make public releases of our software.&lt;/p&gt;
+
+&lt;p&gt;This page explains the history of the project and the technology involved in more detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contents:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;About the AGRIP Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;About our Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;The Technology we Use&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;about-the-agrip-project&#34;&gt;About the AGRIP Project&lt;/h2&gt;
+
+&lt;p&gt;Accessible Gaming Rendering Independence Possible (you can see why we shorten it to &amp;ldquo;&amp;ldquo;AGRIP&amp;rdquo;&amp;ldquo;!) was started in May 2003 with the goal of making a mainstream first-person shooter game for the sighted accessible. It was founded by &lt;a href=&#34;&#34; matthewatkinson=&#34;&#34;&gt;MatthewAtkinson&lt;/a&gt; and &lt;a href=&#34;&#34; sabahattingucukoglu=&#34;&#34;&gt;SabahattinGucukoglu&lt;/a&gt;. This section provides all sorts of information about the project. It is split into the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/ProjectRationale&lt;/a&gt; - all about what we&amp;rsquo;re doing and why we&amp;rsquo;re doing it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/TheRoadmap&lt;/a&gt; - our plans for development - posted here so you can contact us with suggestions on how to improve them.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/TheLogo&lt;/a&gt; - description and explanation of the logo, plus an audio version of it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/OnlineShop&lt;/a&gt; - information on how to show your support for the project, by wearing an AGRIP T-Shirt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve got any suggestions for further topics that could be added to this page (or others), feel free to either add them in yourself or &lt;a contactus=&#34;&#34; href=&#34;&#34;&gt;ContactUs&lt;/a&gt; with your suggestions.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-our-games&#34;&gt;About our Games&lt;/h2&gt;
+
+&lt;p&gt;For more information about the software on offer here, you can visit the start pages for each game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblequake=&#34;&#34; href=&#34;&#34;&gt;AccessibleQuake&lt;/a&gt; - the original mainstream game made accessible&lt;/li&gt;
+&lt;li&gt;&lt;a audioquake=&#34;&#34; href=&#34;&#34;&gt;AudioQuake&lt;/a&gt; - the next generation Internet &lt;a audiogame=&#34;&#34; href=&#34;&#34;&gt;AudioGame&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-technology-we-use&#34;&gt;The Technology we Use&lt;/h2&gt;
+
+&lt;p&gt;The world of game technology is a very interesting one. Here are links to some pages on the Wiki that you can use to start exploring and learning about the various bits and pieces fit together:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a gamestructure=&#34;&#34; href=&#34;&#34;&gt;GameStructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a gameengine=&#34;&#34; href=&#34;&#34;&gt;GameEngine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a gamecode=&#34;&#34; href=&#34;&#34;&gt;GameCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; quakec=&#34;&#34;&gt;QuakeC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a audiogame=&#34;&#34; href=&#34;&#34;&gt;AudioGame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; implicitaccessibility=&#34;&#34;&gt;ImplicitAccessibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/DevelopmentSection&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:developer@agrip.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/FrontPage&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/ContactUs&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/CommunityResources/MailingLists&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-agrip-org-uk-downloadpage&#34;&gt;Download: &lt;a href=&#34;http://www.agrip.org.uk/DownloadPage&#34;&gt;http://www.agrip.org.uk/DownloadPage&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amaya</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</guid>
+      <description>
+
+&lt;h2 id=&#34;w3c-s-editor-browser&#34;&gt;W3C&amp;rsquo;s Editor/Browser&lt;/h2&gt;
+
+&lt;p&gt;Amaya is a Web editor, i.e. a tool used to create and update documents directly on the Web. Browsing features are seamlessly integrated with the editing and remote access features in a uniform environment. This follows the original vision of the Web as a space for collaboration and not just a one-way publishing medium.&lt;/p&gt;
+
+&lt;p&gt;Work on Amaya started at W3C in 1996 to showcase Web technologies in a fully-featured Web client. The main motivation for developing Amaya was to provide a framework that can integrate as many W3C technologies as possible. It is used to demonstrate these technologies in action while taking advantage of their combination in a single, consistent environment.&lt;/p&gt;
+
+&lt;p&gt;Amaya started as an HTML + CSS style sheets editor. Since that time it was extended to support XML and an increasing number of XML applications such as the XHTML family, MathML, and SVG. It allows all those vocabularies to be edited simultaneously in compound documents.&lt;/p&gt;
+
+&lt;p&gt;Amaya includes a collaborative annotation application based on Resource Description Framework (&lt;a href=&#34;&#34; rdf=&#34;&#34;&gt;RDF&lt;/a&gt;), XLink, and XPointer. Visit the &lt;a href=&#34;&#34;&gt;Annotea project&lt;/a&gt; home page.&lt;/p&gt;
+
+&lt;h2 id=&#34;amaya-open-source&#34;&gt;Amaya - Open Source&lt;/h2&gt;
+
+&lt;p&gt;Amaya is an &lt;a href=&#34;&#34;&gt;open source&lt;/a&gt; software project hosted by W3C. You are invited to &lt;a actors.html=&#34;&#34; href=&#34;&#34;&gt;contribute&lt;/a&gt; in many forms (documentation, translation, writing code, fixing bugs, porting to other platforms&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;The Amaya software is written in C and is available for Windows, Unix platforms and MacOS X.&lt;/p&gt;
+
+&lt;h2 id=&#34;amaya-team&#34;&gt;Amaya Team&lt;/h2&gt;
+
+&lt;p&gt;The application is jointly developed by W3C and the &lt;a href=&#34;&#34;&gt;WAM&lt;/a&gt; (Web, Adaptation and Multimedia) project at &lt;a href=&#34;&#34;&gt;INRIA&lt;/a&gt;. The core team includes: Irène Vatton (Project lead, INRIA), Laurent Carcone (W3C), Vincent Quint (INRIA).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Overview.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/Overview.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Bugs.html&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Mailing.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-w3-org-amaya-user-bindist-html&#34;&gt;Download: &lt;a href=&#34;http://www.w3.org/Amaya/User/BinDist.html&#34;&gt;http://www.w3.org/Amaya/User/BinDist.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another Lens</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AnotherLens/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AnotherLens/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/another-lens/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.b-zone.de/software/lens.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-b-zone-de-zips-lens-zip&#34;&gt;Download: &lt;a href=&#34;http://www.b-zone.de/zips/lens.zip&#34;&gt;http://www.b-zone.de/zips/lens.zip&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

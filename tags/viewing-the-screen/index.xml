@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewing The Screen on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/viewing-the-screen/</link>
+    <description>Recent content in Viewing The Screen on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/viewing-the-screen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Accessible BBC Listen Again</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Select programmes and stations with the cursor keys and listen to them at your leisure. You get easy and simple access to hours of programming, including the ever-popular &amp;ldquo;&amp;ldquo;The Archers&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;In Touch&amp;rdquo;&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;The new version (2.1) lets you access all of the Listen Again content among many other improvements (thanks to everyone for their suggestions!) It does still require that you have already installed &lt;a bbc=&#34;&#34; href=&#34;&#34; of=&#34;&#34; realplayer=&#34;&#34; title=&#34;&#34; version=&#34;&#34;&gt;RealPlayer from Real&lt;/a&gt;. The copyright of the BBC recordings is unchanged: you are simply accessing them through a more accessible presentation of their own website. Version 2.1 should work better on more machines: several users contacted me with problems with 2.0&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblebbc/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download.htm&#34;&gt;http://www.webbie.org.uk/download.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible RSS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessible RSS&lt;/strong&gt; is an accessible application that lets you access these RSS feeds. It displays the headlines from web pages that support RSS. At present four sites (the BBC, the Daily Mail, the Guardian and the Daily Telegraph) are supported, but you can add your own if you find a site with an RSS feed. If you have WebbIE you can press return on a story to launch WebbIE with that story page, but you do not need WebbIE to read the feeds. If you do not have WebbIE the story will be shown in Internet Explorer&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblerss=&#34;&#34; and=&#34;&#34; for=&#34;&#34; href=&#34;&#34; installer=&#34;&#34; title=&#34;&#34; webbie=&#34;&#34;&gt;WebbIE 3 Installer&lt;/a&gt; - includes the latest Accessible RSS News Reader.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You are likely to find that some feeds don&amp;rsquo;t work: this may be because the feed is not valid. You can check the feed&amp;rsquo;s validity at the &lt;a href=&#34;&#34;&gt;Feed Validator service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblerss-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblerss/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Radio</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <description>
+
+&lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessibleradio-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;http://www.webbie.org.uk/accessibleradio/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Web Directory</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <description>
+
+&lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessible-web-directory/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblewebdirectory-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AccessiblePodcatcher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessiblepodcatcher/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblepodcatcher/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-accessiblepodcatcher-en-installer1-4-exe&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&#34;&gt;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio Enriched Links</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AudioEnrichedLinks/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AudioEnrichedLinks/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/audio-enriched-links-1/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:parente@cs.unc.edu&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.unc.edu/~parente/ael/index.shtml&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?atid=511317&amp;amp;group_id=65529&amp;amp;func=browse&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-uncassist-ael-1-42a-exe-use-mirror-internap&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/uncassist/AEL-1.42a.exe?use_mirror=internap&#34;&gt;http://prdownloads.sourceforge.net/uncassist/AEL-1.42a.exe?use_mirror=internap&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BATS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/BATS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/BATS/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.unc.edu/Research/assist/bats/manual.shtml&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:gb@cs.unc.edu&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.unc.edu/Research/assist/bats/index.shtml&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-uncbats-bats-win32-4-0-exe-download&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/uncbats/BATS-win32-4.0.exe?download&#34;&gt;http://prdownloads.sourceforge.net/uncbats/BATS-win32-4.0.exe?download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daisy Pipeline</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/dmfc-daisy-multi-format-converter/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.daisy.org/projects/pipeline/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

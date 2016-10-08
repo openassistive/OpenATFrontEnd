@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessing The Web on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/accessing-the-web/</link>
+    <description>Recent content in Accessing The Web on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/accessing-the-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Accessible BBC Listen Again</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Select programmes and stations with the cursor keys and listen to them at your leisure. You get easy and simple access to hours of programming, including the ever-popular &amp;ldquo;&amp;ldquo;The Archers&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;In Touch&amp;rdquo;&amp;ldquo;.&lt;/p&gt;
+
+&lt;p&gt;The new version (2.1) lets you access all of the Listen Again content among many other improvements (thanks to everyone for their suggestions!) It does still require that you have already installed &lt;a bbc=&#34;&#34; href=&#34;&#34; of=&#34;&#34; realplayer=&#34;&#34; title=&#34;&#34; version=&#34;&#34;&gt;RealPlayer from Real&lt;/a&gt;. The copyright of the BBC recordings is unchanged: you are simply accessing them through a more accessible presentation of their own website. Version 2.1 should work better on more machines: several users contacted me with problems with 2.0&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblebbc/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download.htm&#34;&gt;http://www.webbie.org.uk/download.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible RSS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accessible RSS&lt;/strong&gt; is an accessible application that lets you access these RSS feeds. It displays the headlines from web pages that support RSS. At present four sites (the BBC, the Daily Mail, the Guardian and the Daily Telegraph) are supported, but you can add your own if you find a site with an RSS feed. If you have WebbIE you can press return on a story to launch WebbIE with that story page, but you do not need WebbIE to read the feeds. If you do not have WebbIE the story will be shown in Internet Explorer&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblerss=&#34;&#34; and=&#34;&#34; for=&#34;&#34; href=&#34;&#34; installer=&#34;&#34; title=&#34;&#34; webbie=&#34;&#34;&gt;WebbIE 3 Installer&lt;/a&gt; - includes the latest Accessible RSS News Reader.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You are likely to find that some feeds don&amp;rsquo;t work: this may be because the feed is not valid. You can check the feed&amp;rsquo;s validity at the &lt;a href=&#34;&#34;&gt;Feed Validator service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblerss-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblerss/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblerss/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Radio</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <description>
+
+&lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessibleradio-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessibleradio/index.htm&#34;&gt;http://www.webbie.org.uk/accessibleradio/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessible Web Directory</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <description>
+
+&lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessible-web-directory/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-accessiblewebdirectory-index-htm&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&#34;&gt;http://www.webbie.org.uk/accessiblewebdirectory/index.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AccessiblePodcatcher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/accessiblepodcatcher/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webbie.org.uk/accessiblepodcatcher/index.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-webbie-org-uk-download-accessiblepodcatcher-en-installer1-4-exe&#34;&gt;Download: &lt;a href=&#34;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&#34;&gt;http://www.webbie.org.uk/download/AccessiblePodcatcher-en-Installer1_4.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acomm</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</guid>
+      <description>
+
+&lt;h2 id=&#34;acomm-features&#34;&gt;AComm Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User can login to an existing Jabber account or sign up for a new one.&lt;/li&gt;
+&lt;li&gt;Roster provides &amp;ldquo;&amp;ldquo;presence&amp;rdquo;&amp;rdquo; information for contacts.&lt;/li&gt;
+&lt;li&gt;Users can participate in private or group chat/whiteboard sessions&lt;/li&gt;
+&lt;li&gt;Text chat window and optional whiteboard&lt;/li&gt;
+&lt;li&gt;Participant list on demand.&lt;/li&gt;
+&lt;li&gt;A variety of whiteboard drawing tools are available&lt;/li&gt;
+&lt;li&gt;Peer description allows any participant to describe the drawn objects. Anti-collision feature ensures one describer per object.&lt;/li&gt;
+&lt;li&gt;Accessibility options
+
+&lt;ul&gt;
+&lt;li&gt;Option to play sound effect when a new message arrives.&lt;/li&gt;
+&lt;li&gt;Keyboard drawing checkbox&lt;/li&gt;
+&lt;li&gt;Manual refresh checkbox&lt;/li&gt;
+&lt;li&gt;Show only new checkbox&lt;/li&gt;
+&lt;li&gt;Newest message first checkbox&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard enabled drawing lets users use some features of the whiteboard without a mouse.&lt;/li&gt;
+&lt;li&gt;Save and open palette feature lets users create and describe pictures beforehand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AComm is a Java application and requires that a Java Runtime Environment be installed on system it is running on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acomm/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acomm/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acomm-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acomm/download.php&#34;&gt;http://www.atutor.ca/acomm/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amaya</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</guid>
+      <description>
+
+&lt;h2 id=&#34;w3c-s-editor-browser&#34;&gt;W3C&amp;rsquo;s Editor/Browser&lt;/h2&gt;
+
+&lt;p&gt;Amaya is a Web editor, i.e. a tool used to create and update documents directly on the Web. Browsing features are seamlessly integrated with the editing and remote access features in a uniform environment. This follows the original vision of the Web as a space for collaboration and not just a one-way publishing medium.&lt;/p&gt;
+
+&lt;p&gt;Work on Amaya started at W3C in 1996 to showcase Web technologies in a fully-featured Web client. The main motivation for developing Amaya was to provide a framework that can integrate as many W3C technologies as possible. It is used to demonstrate these technologies in action while taking advantage of their combination in a single, consistent environment.&lt;/p&gt;
+
+&lt;p&gt;Amaya started as an HTML + CSS style sheets editor. Since that time it was extended to support XML and an increasing number of XML applications such as the XHTML family, MathML, and SVG. It allows all those vocabularies to be edited simultaneously in compound documents.&lt;/p&gt;
+
+&lt;p&gt;Amaya includes a collaborative annotation application based on Resource Description Framework (&lt;a href=&#34;&#34; rdf=&#34;&#34;&gt;RDF&lt;/a&gt;), XLink, and XPointer. Visit the &lt;a href=&#34;&#34;&gt;Annotea project&lt;/a&gt; home page.&lt;/p&gt;
+
+&lt;h2 id=&#34;amaya-open-source&#34;&gt;Amaya - Open Source&lt;/h2&gt;
+
+&lt;p&gt;Amaya is an &lt;a href=&#34;&#34;&gt;open source&lt;/a&gt; software project hosted by W3C. You are invited to &lt;a actors.html=&#34;&#34; href=&#34;&#34;&gt;contribute&lt;/a&gt; in many forms (documentation, translation, writing code, fixing bugs, porting to other platforms&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;The Amaya software is written in C and is available for Windows, Unix platforms and MacOS X.&lt;/p&gt;
+
+&lt;h2 id=&#34;amaya-team&#34;&gt;Amaya Team&lt;/h2&gt;
+
+&lt;p&gt;The application is jointly developed by W3C and the &lt;a href=&#34;&#34;&gt;WAM&lt;/a&gt; (Web, Adaptation and Multimedia) project at &lt;a href=&#34;&#34;&gt;INRIA&lt;/a&gt;. The core team includes: Irène Vatton (Project lead, INRIA), Laurent Carcone (W3C), Vincent Quint (INRIA).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Overview.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/Overview.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Bugs.html&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3.org/Amaya/User/Mailing.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-w3-org-amaya-user-bindist-html&#34;&gt;Download: &lt;a href=&#34;http://www.w3.org/Amaya/User/BinDist.html&#34;&gt;http://www.w3.org/Amaya/User/BinDist.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLiCk, Speak</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</guid>
+      <description>
+
+&lt;p&gt;Unlike &lt;a href=&#34;&#34;&gt;Fire Vox&lt;/a&gt; which is designed for visually impaired users, CLiCk, Speak is designed for sighted users who want text-to-speech functionality. It doesn&amp;rsquo;t identify elements or announce events - two features that are very important for visually impaired users but very annoying for sighted users. It also has a simplified, mouse driven interface that is designed to be easy for users familiar with point-and-click graphical user interfaces. Like Fire Vox, CLiCk, Speak works on Windows, Macintosh, and Linux; and Fire Vox has multilingual support, making it great for users who are trying to learn a foreign language and need to hear foreign language web sites read out to them for practice.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re a sighted user who wants to have web pages read to you because you have cognitive issues (for example, dyslexia), because you have literacy issues (like me - I can understand spoken Mandarin Chinese just fine, but reading is difficult for me), because you want to reduce eyestrain and listen to a web page being read, etc., then you are likely to prefer CLiCk, Speak over Fire Vox.&lt;/p&gt;
+
+&lt;p&gt;The Core Library Components for Text-To-Speech (CLC-4-TTS) Suite is a set of extensions for Firefox. It consists of a library for doing text-to-speech synthesis (the Core library), a library for navigating the HTML DOM (the Utils library), and an application that uses the libraries to act as a screen reader (Fire Vox).&lt;/p&gt;
+
+&lt;p&gt;While it currently only works on Firefox, it would be possible for me to create versions of this for other Mozilla products such as Thunderbird. I would have to rewrite the application portion, but the libraries would largely remain untouched. These libraries can also be used to construct other extensions that are not necessarily aimed at the visually impaired. Both are directions that I am interested in pursuing in the near future, so stay tuned.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://clc4tts.clcworld.net/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:clc@clcworld.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clickspeak.clcworld.net/index.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://clc4tts.clcworld.net/&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-clickspeak-clcworld-net-downloads-html&#34;&gt;Download: &lt;a href=&#34;http://clickspeak.clcworld.net/downloads.html&#34;&gt;http://clickspeak.clcworld.net/downloads.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Coding Framework (CCF)</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ConceptCodingFramework%28CCF%29/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ConceptCodingFramework%28CCF%29/</guid>
+      <description>
+
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+
+&lt;h3 id=&#34;3-february-2011-mats-lundälv&#34;&gt;3 February 2011 - (Mats Lundälv)&lt;/h3&gt;
+
+&lt;p&gt;In spite of nothing appearing at this spot for quite some time, the CCF development continues, currently in the context of the AEGIS project. More to appear here soon after the recent move of the server home of OATS, as well as for the conceptcoding.org domain. More to come - soon hopefully &amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-september-2009-mats-lundälv&#34;&gt;3 September 2009 - (Mats Lundälv)&lt;/h3&gt;
+
+&lt;p&gt;The summer has passed and the work towards the first CCF release is slowly progressing. Will we make it during the 3rd quarter of 2009 as envisaged ? Well - surprise - possibly not :-/ It currently looks uncertain whether we will be ready during this month. It will probably be a bit later this autumn.&lt;/p&gt;
+
+&lt;p&gt;Bengt Farre&amp;rsquo;s completely re-written new SYMBERED version is getting close to completion, but still has some way to go.&lt;/p&gt;
+
+&lt;p&gt;The good news is that Lars Nordberg is well on the way to transfer our CCF databases from MySQL to the &lt;a href=&#34;&#34;&gt;Sun JavaDB&lt;/a&gt; (based on &lt;a href=&#34;&#34;&gt;Apache Derby&lt;/a&gt;) Java database. This will provide another option for providing CCF resources (in addition to the MySQL and RDF resources) in a light weight format that will be easier to deploy, install and use for those who will like to try working with CCF based applications and services.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll keep you updated at this space ..&lt;/p&gt;
+
+&lt;h3 id=&#34;19-june-2009-mats-lundälv&#34;&gt;19 June 2009 - (Mats Lundälv)&lt;/h3&gt;
+
+&lt;p&gt;A first full release of the updated CCF package is now envisaged during the 3rd quarter of 2009. It will cover a set of concepts covering the authorized Blissymbolics vocabulary of around 4450 Bliss-words. These will be organised in a Base Reference Ontology (BRO) with concepts covered by WordNet, and a Complementary Reference Ontology (CRO) for the rest. The Concept Coded concepts in the Reference Ontologies will be linked to an open ended numbers of so called Assistive Ontologies containing the different supported language representations for the concepts - Bliss being the first target for graphical symbol representations, and English and Swedish being the first natural language lexicons fully supported. The structure is already prepared for supporting a number of other symbolic representations, as well as all Scandinavian/Nordic, and a number of other European languages. More will be added as soon as interest and resources will be around.&lt;/p&gt;
+
+&lt;p&gt;In technical terms; the first release will contain a Java based CCF Tool for browsing and managing the CCF resources (&lt;a href=&#34;&#34;&gt;WordNet&lt;/a&gt;, the BRO and CRO, Assistive Ontologies and symbol resources). The data will be stored in or retrieved from either a MySQL database or an RDF/XML based resource.&lt;/p&gt;
+
+&lt;p&gt;The first practical implementation will be an updated version of the &lt;a href=&#34;&#34;&gt;SYMBERED&lt;/a&gt; tool for creating symbol supported web content via a CMS module written in PHP working towards the MySQL database. (This will be a complete re-write of the first SYMBERED version based on the &lt;a href=&#34;&#34;&gt;Papunet &lt;/a&gt;CMS). &lt;/p&gt;
+
+&lt;p&gt;The next practical implementation will be the first prototypes of the envisaged CCF symbol support plugin extension for OpenOffice.org within the AEGIS project - planned for the 4th quarter of 2009.&lt;/p&gt;
+
+&lt;h3 id=&#34;08-june-2009-mats-lundälv&#34;&gt;08 June 2009 - (Mats Lundälv)&lt;/h3&gt;
+
+&lt;p&gt;In the AEGIS project 1:st international workshop (in Slough at RIM 05 June) Dr. Christian Galinski from &lt;a href=&#34;&#34;&gt;Infoterm &lt;/a&gt;gave a very interesting and informative presentation on issues concerning &amp;ldquo;&amp;ldquo;Standards for content in the field of eInclusion - and beyond&amp;rdquo;&amp;rdquo; - with great relevance for the CCF work in particular, and for the &lt;a href=&#34;&#34;&gt;AEGIS &lt;/a&gt;and &lt;a href=&#34;&#34;&gt;Raising The Floor&lt;/a&gt; projects in general. We will have to do some studying about ISO//TC 37 &amp;ldquo;&amp;ldquo;Terminology and other language and content resources&amp;rdquo;&amp;rdquo; ;-)  I hope the presentations will be on-line soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;22-february-2009-mats-lundälv&#34;&gt;&lt;strong&gt;22 February 2009 - (Mats Lundälv)&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The  concept coding work has continued in slow pace as follow up work after the Nordic &lt;a href=&#34;&#34;&gt;SYMBERED project&lt;/a&gt; - which is still ongoing.&lt;br /&gt;
+It is now brought further in relation to a task within the ongoing European and international &lt;a href=&#34;&#34;&gt;AEGIS-project&lt;/a&gt;. Concept coding will be employed in building open source components for graphic symbol support - in OpenOffice.org, as well as in prototype Java based cross-platform AAC applications - for mobile devices and other environments.&lt;/p&gt;
+
+&lt;h3 id=&#34;03-12-2007-andy-judson&#34;&gt;&lt;strong&gt;03/12/2007 - (Andy Judson)&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;With my move from the University of Dundee&amp;rsquo;s School of Computing, I thought it time I ported the old CCF website to the OATS portal. With the Bliss Think Tank in July&amp;rsquo;07 we&amp;rsquo;ve been busy hacking more demonstrators. Mats, Bengt and Lars have been busy fine-tuning the &lt;a coding=&#34;&#34; concept=&#34;&#34; editor=&#34;&#34; href=&#34;&#34; symbered=&#34;&#34; symbol=&#34;&#34; title=&#34;&#34;&gt;SYMBERED&lt;/a&gt; system (CCF support for CMS - using PHP, MySQL, Java). I&amp;rsquo;ve been busy working on a .NET infrastructure and building a central CCF ontology in SQLServer. The database I&amp;rsquo;ve been working with is now populated with around 9000 concepts (based on the STANDUP project ontology) and around 3000 Bliss symbols (some of which are mapped to concept codes). There is an prototype asp.net website where you can search the ontologies, update the bliss-ccf mappings, write ruby annotated bliss messages (then you can copy the source to your own website like I&amp;rsquo;ve done below). This webservice could be used as a portal to manage the ccf, and more excitingly, for use by other software / web applications, e.g. &lt;a foxysymbols=&#34;&#34; href=&#34;&#34; title=&#34;&#34;&gt;FoxySymbols&lt;/a&gt;. I hope to get the webservice &amp;amp; database hosted soon.&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Around the world, people with impaired communication, including difficulties to read or write, may use symbols as an alternative or complement to character based texts. Referencing to, and exchanging these alternatively coded messages over the Internet is difficult due to the lack of standardised encoding schemes and common practises. This site is intended to motivate, describe and promote the introduction and adoption of a common, open and vendor neutral Concept Coding Framework (CCF) to overcome some of these difficulties. In particular will act as a base for all contribution to this work - be it formal documentation or informal discussions.&lt;/p&gt;
+
+&lt;p&gt;The suggested CCF has been carefully designed to be conformant to the standard language technologies that are rapidly developing and penetrating the Internet communities. In this way we believe that the proposed CCF can contribute to a major leap in bridging between different technologies and products developed for AAC users and, more importantly, between these Assistive Technologies (AT) and the main-stream technologies of today&amp;rsquo;s and tomorrow&amp;rsquo;s networked information society.&lt;/p&gt;
+
+&lt;p&gt;The bridging approach also implies that the CCF is not intended to replace and exclude the use and development of current and future proprietary assistive technologies in the AAC field. Instead the CCF and its bridging technology and tools are designed to provide added value for all stake-holders; AAC users, special product developers and service providers, as well as general service and information providers who want to support improved accessibility to their products.&lt;/p&gt;
+
+&lt;p&gt;Designed to be used over the Internet for email, web-based activities, chat and/or other emerging Internet based services, the CCF technology can, however, be used by software manufacturers also to provide additional functionality, enhanced support for, and integration of, software and systems with multi-modal language features mainly intended for local use.&lt;/p&gt;
+
+&lt;p&gt;Although, this work is part of the EU funded WWAAC project, the concept coding work is to be kept open source as we want to collaborate with experts and stakeholders in both the AAC field and internet technologies/accessibility area. Thus we are wanting to use this area to establish an interest group in the concept coding approach. if you are interested in getting involved at whatever level then please contact us.&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;These are some of the most relevant links i can think of to share, if you have others, please add them.&lt;/p&gt;
+
+&lt;h3 id=&#34;research-projects&#34;&gt;research projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;wwaac&lt;/a&gt; project (the eu project that funded this initial work)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;div align=&#34;&#34; left=&#34;&#34;&gt;- &#34;&#34;&lt;a href=&#34;&#34;&gt;Code ofPractice&lt;/a&gt;&#34;&#34; - the WWAAC project deliverable on the Concept Coding Framework (PDF 1.2MB)
+
+&lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;symbered&lt;/a&gt; project (swedish project continuing ccf developments)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;swad-europe&lt;/a&gt; project (semantic web advanced development for europe)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;web-accessibility-resources-general&#34;&gt;web accessibility resources (general)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;w3c-wai&lt;/a&gt; (world wide web consortium - web accessibility initiative)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;w3c-wcag&lt;/a&gt; (world wide web consortium - web content accessibility guidelines working group)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;w3c-wcag 1.0&lt;/a&gt; (world wide web consortium - web content accessibility guidelines 1.0)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;w3c-wcag 2.0 (draft)&lt;/a&gt; (world wide web consortium - web content accessibility guidelines 2.0)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;w3c-wcag 2.0 rdf techniques (draft)&lt;/a&gt; (rdf techniques document for wcag 2.0 (above))&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;dmag&lt;/a&gt; (digital media access group)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;accessify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;alistapart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;diveintoaccessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;jakob nielsen on usability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;web-accessibility-resources-learning-difficulties&#34;&gt;web accessibility resources (learning difficulties)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;ld-web&lt;/a&gt; (web specialists looking into learning difficulties)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;juicystudio article&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;webusability article&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;article by lisa seeman at www2002 conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;article by kanta jiwnani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;webaim article (part1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;webaim article (part2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;uk leading learning difficulties charity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;communicate:webwide&lt;/a&gt; (a commercial symbol browser by widget, an leading AAC company)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;technologies&#34;&gt;technologies&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;rdf&lt;/a&gt; (resource description framework)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;owl&lt;/a&gt; (ontology web language)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;miscellaneous&#34;&gt;miscellaneous&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;semantic web&lt;/a&gt; (a portal to information about the semantic web)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; http:=&#34;&#34; title=&#34;&#34;&gt;isaac&lt;/a&gt; (the international society for augmentative and alternative communication)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links-1&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/concept-coding-framework-ccf/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:Bengt.Farre@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.conceptcoding.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-conceptcoding-org-downloads&#34;&gt;Download: &lt;a href=&#34;http://www.conceptcoding.org/downloads&#34;&gt;http://www.conceptcoding.org/downloads&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSpeech</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</guid>
+      <description>
+
+&lt;p&gt;It is specifically designed to quickly and directly provide the functions and improved practical usefulness that are requested by this kind of program. In the meantime, the invasiveness and resource consumption is minimal.&lt;br /&gt;
+(DSpeech does not install itself, is very light, starts in a second and doesn&amp;rsquo;t write anything to the registry). Some notable features of DSpeech are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Allows you to save the output as a .WAV or .MP3 file.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to quickly select different voices, even combine them, or juxtapose them in order to create dialogues between different voices.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;DSpeech integrates a vocal recognition system that, through a simple script language, allows you to create interactive dialogues with the user.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to configure the voices in an independent way.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Thanks to apposite TAGs, it allows you to dynamically change the features of the voices during the playback (speed, volume and frequency), to insert pauses, emphasize specific words, or even to spell them out.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Allows you to capture and reproduce the content of the ClipBoard.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;DSpeech is compatible with all vocal engines (SAPI 4-5 compliant).&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;AI dialog system. Not really useful, but amusing. It does not work in every language.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;DSpeech interface can be translated in several languages:&lt;/p&gt;
+
+&lt;p&gt;Italian (By Talksina)&lt;/p&gt;
+
+&lt;p&gt;Spanish (By Ricardo Abad &amp;amp; Esteban Mello)&lt;/p&gt;
+
+&lt;p&gt;Spanish Valencian (By Ricardo Abad)&lt;/p&gt;
+
+&lt;p&gt;French (By Adel)&lt;/p&gt;
+
+&lt;p&gt;Portuguese (By Ângelo Miguel)&lt;/p&gt;
+
+&lt;p&gt;Brazilian Portuguese (By Antonio Cezar Locutor)&lt;/p&gt;
+
+&lt;p&gt;Latin American Spanish (By Rafael Lopez Jr.)&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cyberdimio@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dimio.altervista.org/eng/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-dimio-altervista-org-eng&#34;&gt;Download: &lt;a href=&#34;http://dimio.altervista.org/eng/&#34;&gt;http://dimio.altervista.org/eng/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

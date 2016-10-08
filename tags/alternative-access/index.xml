@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternative Access on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/alternative-access/</link>
+    <description>Recent content in Alternative Access on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/alternative-access/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ACollab</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</guid>
+      <description>
+
+&lt;p&gt;ACollab is available as a work groups &lt;strong&gt;addon for ATutor 1.4+&lt;/strong&gt; , and as a standalone collaborative work environment that will run on its own. ACollab is ideal for groups working at a distance developing documentation, collaborating on research, or writing joint papers, and ideal for online educators who wish to add group learning activities to their ATutor courses. A &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;demo&lt;/a&gt; and &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;download&lt;/a&gt; are available if you want to learn more. Or, read on for a list of &lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;ACollab features&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;acollab-features&#34;&gt;ACollab Features:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Document Drafting Room&lt;/strong&gt;: Group members can work within a Web-based document versioning system, collaborating on document development and publication. Documents developed in the Drafting Room can be transferred to the Shared Documents Library once finalized.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared Documents Library&lt;/strong&gt;: Group members can submit documents to the library, from which other group members, or public members, can retrieve those documents for viewing or downloading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Events Calendar&lt;/strong&gt;: Events can be posted to the calendar by all group members, to announce activities, meetings, due dates, or other group related happenings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News &amp;amp; Announcements&lt;/strong&gt;: Group administrators, or system administrators, can post news to be presented to users when they first login to a group.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Membership Index&lt;/strong&gt;: Group members can view other group members&amp;rsquo; profiles and contact information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mail Inbox&lt;/strong&gt;: Members can communicate with each other privately.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AChat-PHP&lt;/strong&gt;: Accessible synchronous communication is possible between group members, ideal for online meetings or group socializing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AForum&lt;/strong&gt;: AForum is an enhanced version for the ATutor forums. Members post message for others to retrieve later. Forums can be set to read only, reply only, as open discussion, or can be hidden from view.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Lingual Interface&lt;/strong&gt;: Language can be modified by system administrators, or new language packs can be created using the ATutor.ca translation tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility Compliance&lt;/strong&gt;: Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Leaders&lt;/strong&gt;: Create chat transcripts, define folders for sorting documents, assign group membership roles, create and manage forums, create mailing lists, post news and announcements, and manage group members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Administrator&lt;/strong&gt;: Create and manage groups, manage the system languages, and manage all users on a system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/docs/howto.php&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forum/16/1.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acollab-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acollab/download.php&#34;&gt;http://www.atutor.ca/acollab/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMIS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/projects/amis&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:marisademeglio@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amis.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?atid=581587&amp;amp;group_id=86978&amp;amp;func=browse&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/forum/?group_id=86978&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-amis-setupamis-exe-download&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&#34;&gt;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acomm</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</guid>
+      <description>
+
+&lt;h2 id=&#34;acomm-features&#34;&gt;AComm Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User can login to an existing Jabber account or sign up for a new one.&lt;/li&gt;
+&lt;li&gt;Roster provides &amp;ldquo;&amp;ldquo;presence&amp;rdquo;&amp;rdquo; information for contacts.&lt;/li&gt;
+&lt;li&gt;Users can participate in private or group chat/whiteboard sessions&lt;/li&gt;
+&lt;li&gt;Text chat window and optional whiteboard&lt;/li&gt;
+&lt;li&gt;Participant list on demand.&lt;/li&gt;
+&lt;li&gt;A variety of whiteboard drawing tools are available&lt;/li&gt;
+&lt;li&gt;Peer description allows any participant to describe the drawn objects. Anti-collision feature ensures one describer per object.&lt;/li&gt;
+&lt;li&gt;Accessibility options
+
+&lt;ul&gt;
+&lt;li&gt;Option to play sound effect when a new message arrives.&lt;/li&gt;
+&lt;li&gt;Keyboard drawing checkbox&lt;/li&gt;
+&lt;li&gt;Manual refresh checkbox&lt;/li&gt;
+&lt;li&gt;Show only new checkbox&lt;/li&gt;
+&lt;li&gt;Newest message first checkbox&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard enabled drawing lets users use some features of the whiteboard without a mouse.&lt;/li&gt;
+&lt;li&gt;Save and open palette feature lets users create and describe pictures beforehand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AComm is a Java application and requires that a Java Runtime Environment be installed on system it is running on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acomm/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acomm/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acomm-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acomm/download.php&#34;&gt;http://www.atutor.ca/acomm/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agrip</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;Over the past two years, AGRIP has developed an accessible version of Quake and &lt;a href=&#34;&#34; quakeworld=&#34;&#34;&gt;QuakeWorld&lt;/a&gt; which allows both single and multi-player games, including the collection of online player statistics. In the future we will add immersive 3D audio and level editing facilities - in addition to the gameplay modifications that are currently possible. At each milestone in the project, we make public releases of our software.&lt;/p&gt;
+
+&lt;p&gt;This page explains the history of the project and the technology involved in more detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contents:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;About the AGRIP Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;About our Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;The Technology we Use&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;about-the-agrip-project&#34;&gt;About the AGRIP Project&lt;/h2&gt;
+
+&lt;p&gt;Accessible Gaming Rendering Independence Possible (you can see why we shorten it to &amp;ldquo;&amp;ldquo;AGRIP&amp;rdquo;&amp;ldquo;!) was started in May 2003 with the goal of making a mainstream first-person shooter game for the sighted accessible. It was founded by &lt;a href=&#34;&#34; matthewatkinson=&#34;&#34;&gt;MatthewAtkinson&lt;/a&gt; and &lt;a href=&#34;&#34; sabahattingucukoglu=&#34;&#34;&gt;SabahattinGucukoglu&lt;/a&gt;. This section provides all sorts of information about the project. It is split into the following sections:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/ProjectRationale&lt;/a&gt; - all about what we&amp;rsquo;re doing and why we&amp;rsquo;re doing it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/TheRoadmap&lt;/a&gt; - our plans for development - posted here so you can contact us with suggestions on how to improve them.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/TheLogo&lt;/a&gt; - description and explanation of the logo, plus an audio version of it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; projectinfosection=&#34;&#34;&gt;/OnlineShop&lt;/a&gt; - information on how to show your support for the project, by wearing an AGRIP T-Shirt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve got any suggestions for further topics that could be added to this page (or others), feel free to either add them in yourself or &lt;a contactus=&#34;&#34; href=&#34;&#34;&gt;ContactUs&lt;/a&gt; with your suggestions.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-our-games&#34;&gt;About our Games&lt;/h2&gt;
+
+&lt;p&gt;For more information about the software on offer here, you can visit the start pages for each game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a accessiblequake=&#34;&#34; href=&#34;&#34;&gt;AccessibleQuake&lt;/a&gt; - the original mainstream game made accessible&lt;/li&gt;
+&lt;li&gt;&lt;a audioquake=&#34;&#34; href=&#34;&#34;&gt;AudioQuake&lt;/a&gt; - the next generation Internet &lt;a audiogame=&#34;&#34; href=&#34;&#34;&gt;AudioGame&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-technology-we-use&#34;&gt;The Technology we Use&lt;/h2&gt;
+
+&lt;p&gt;The world of game technology is a very interesting one. Here are links to some pages on the Wiki that you can use to start exploring and learning about the various bits and pieces fit together:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a gamestructure=&#34;&#34; href=&#34;&#34;&gt;GameStructure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a gameengine=&#34;&#34; href=&#34;&#34;&gt;GameEngine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a gamecode=&#34;&#34; href=&#34;&#34;&gt;GameCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; quakec=&#34;&#34;&gt;QuakeC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a audiogame=&#34;&#34; href=&#34;&#34;&gt;AudioGame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; implicitaccessibility=&#34;&#34;&gt;ImplicitAccessibility&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/DevelopmentSection&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:developer@agrip.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/FrontPage&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/ContactUs&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agrip.org.uk/CommunityResources/MailingLists&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-agrip-org-uk-downloadpage&#34;&gt;Download: &lt;a href=&#34;http://www.agrip.org.uk/DownloadPage&#34;&gt;http://www.agrip.org.uk/DownloadPage&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoHotKey</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AutoHotKey/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AutoHotKey/</guid>
+      <description>
+
+&lt;p&gt;From the authors:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;AutoHotkey is a free, open-source utility for Windows. With it, you can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Automate almost anything by sending keystrokes and mouse clicks. You can write a &lt;a href=&#34;&#34;&gt;mouse or keyboard macro&lt;/a&gt; by hand or use the macro recorder.&lt;/li&gt;
+&lt;li&gt;Create &lt;a href=&#34;&#34;&gt;hotkeys&lt;/a&gt; for keyboard, joystick, and mouse. Virtually any key, button, or combination can become a hotkey.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Expand abbreviations&lt;/a&gt; as you type them. For example, typing &amp;ldquo;&amp;ldquo;btw&amp;rdquo;&amp;rdquo; can automatically produce &amp;ldquo;&amp;ldquo;by the way&amp;rdquo;&amp;ldquo;.&lt;/li&gt;
+&lt;li&gt;Create custom data entry forms, user interfaces, and menu bars. See &lt;a href=&#34;&#34;&gt;GUI&lt;/a&gt; for details.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Remap&lt;/a&gt; keys and buttons on your keyboard, joystick, and mouse.&lt;/li&gt;
+&lt;li&gt;Respond to signals from hand-held remote controls via the &lt;a href=&#34;&#34;&gt;WinLIRC client script&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Run existing AutoIt v2 scripts and enhance them with &lt;a href=&#34;&#34;&gt;new capabilities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Convert any script into an &lt;a href=&#34;&#34;&gt;EXE file&lt;/a&gt; that can be run on computers that don&amp;rsquo;t have AutoHotkey installed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Getting started might be easier than you think. Check out the &lt;a href=&#34;&#34;&gt;quick-start tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comments&#34;&gt;OATS Comments:&lt;/h2&gt;
+
+&lt;p&gt;This is a fantastic resource for assistive technology!  It really unleashes the power of your PC and helps set it up to your exact requirements.  It&amp;rsquo;s a bit technical to get into, but once into it it is easy - there are some great examples too.&lt;/p&gt;
+
+&lt;h2 id=&#34;more-about-hotkeys&#34;&gt;More About Hotkeys&lt;/h2&gt;
+
+&lt;p&gt;AutoHotkey unleashes the full potential of your keyboard, joystick, and mouse. For example, in addition to the typical Control, Alt, and Shift modifiers, you can use the Windows key and the Capslock key as modifiers. In fact, you can make any key or mouse button act as a modifier. For these and other capabilities, see &lt;a href=&#34;&#34;&gt;Advanced Hotkeys&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-features&#34;&gt;Other Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Change the volume, mute, and other &lt;a href=&#34;&#34;&gt;settings&lt;/a&gt; of any soundcard.&lt;/li&gt;
+&lt;li&gt;Make any window &lt;a href=&#34;&#34;&gt;transparent&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;always-on-top&lt;/a&gt;, or alter its &lt;a href=&#34;&#34;&gt;shape&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Use a &lt;a href=&#34;&#34;&gt;joystick&lt;/a&gt; or &lt;a href=&#34;&#34;&gt;keyboard&lt;/a&gt; as a mouse.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Monitor&lt;/a&gt; your system. For example, close unwanted windows the moment they appear.&lt;/li&gt;
+&lt;li&gt;Retrieve and change the &lt;a href=&#34;&#34;&gt;clipboard&amp;rsquo;s contents&lt;/a&gt;, including file names copied from an Explorer window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Disable or override&lt;/a&gt; Windows&amp;rsquo; own shortcut keys such as Win+E and Win+R.&lt;/li&gt;
+&lt;li&gt;Alleviate RSI with substitutes for &lt;a href=&#34;&#34;&gt;Alt-Tab&lt;/a&gt; (using keys, mouse wheel, or buttons).&lt;/li&gt;
+&lt;li&gt;Customize the &lt;a href=&#34;&#34;&gt;tray icon menu&lt;/a&gt; with your own icon, tooltip, menu items, and submenus.&lt;/li&gt;
+&lt;li&gt;Display &lt;a href=&#34;&#34;&gt;dialog boxes&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;tooltips&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;balloon tips&lt;/a&gt;, and &lt;a href=&#34;&#34;&gt;popup menus&lt;/a&gt; to interact with the user.&lt;/li&gt;
+&lt;li&gt;Perform scripted actions in &lt;a href=&#34;&#34;&gt;response&lt;/a&gt; to system shutdown or logoff.&lt;/li&gt;
+&lt;li&gt;Detect how long the user has been &lt;a href=&#34;&#34;&gt;idle&lt;/a&gt;. For example, run CPU intensive tasks only when the user is away.&lt;/li&gt;
+&lt;li&gt;Automate game actions by detecting &lt;a href=&#34;&#34;&gt;images&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;pixel colors&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Read&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;write&lt;/a&gt;, and &lt;a href=&#34;&#34;&gt;parse&lt;/a&gt; text files more easily than in other languages.&lt;/li&gt;
+&lt;li&gt;Perform operation(s) upon a set of files that match a &lt;a href=&#34;&#34;&gt;wildcard pattern&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Work with the &lt;a href=&#34;&#34;&gt;registry&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;INI files&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/docs/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:support@autohotkey.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/forum/&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-autohotkey-com-download&#34;&gt;Download: &lt;a href=&#34;http://www.autohotkey.com/download/&#34;&gt;http://www.autohotkey.com/download/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CCHotKey</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/CCHotKey/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CCHotKey/</guid>
+      <description>
+
+&lt;p&gt;A simple hotkey generator for Mac OSX&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://freshmeat.net/projects/cchotkey/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cchotkeys@coin-c.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coin-c.com/hotkeys.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-coin-c-com-hotkeys-html&#34;&gt;Download: &lt;a href=&#34;http://www.coin-c.com/hotkeys.html&#34;&gt;http://www.coin-c.com/hotkeys.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Click-Catch</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Click-Catch/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Click-Catch/</guid>
+      <description>
+
+&lt;p&gt;Click-Catch&amp;copy; available options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You may choose which button to simulate between left/right/middle mouse buttons.&lt;/li&gt;
+&lt;li&gt;You can also set single or double click.&lt;/li&gt;
+&lt;li&gt;There are two &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; available. You must enable them in settings. &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; are disabled by default.&lt;br /&gt;
+Combination of &amp;ldquo;&amp;ldquo;control&amp;rdquo;&amp;ldquo;+&amp;rdquo;&amp;ldquo;x&amp;rdquo;&amp;rdquo; pressed together at once starts clicking, &amp;ldquo;&amp;ldquo;control&amp;rdquo;&amp;ldquo;+&amp;rdquo;&amp;ldquo;s&amp;rdquo;&amp;rdquo; stops.&lt;/li&gt;
+&lt;li&gt;In cases, when you cannot use &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; to start/stop clicking, there are two buttons implemented.&lt;br /&gt;
+To start simulation press &amp;ldquo;&amp;ldquo;START&amp;rdquo;&amp;rdquo; button or press &amp;ldquo;&amp;ldquo;STOP&amp;rdquo;&amp;rdquo; to stop it&lt;/li&gt;
+&lt;li&gt;You may also need to change time interval between clicks.&lt;br /&gt;
+You can set its value from 10 hours to 100 miliseconds.&lt;br /&gt;
+Minimal step is 50 miliseconds.&lt;/li&gt;
+&lt;li&gt;There is a possiblity to save your settings. Settings are stored in Windows Registry File.&lt;br /&gt;
+Click-Catch&amp;copy; has no instalation procedure (it&amp;rsquo;s only one file after all!)&lt;br /&gt;
+so it can not delete its entry after deinstalation (delete).&lt;br /&gt;
+It has however an option called &amp;ldquo;&amp;ldquo;clear WinRegFile entry&amp;rdquo;&amp;ldquo;.&lt;br /&gt;
+Use it freely, it is harmless.&lt;/li&gt;
+&lt;li&gt;You can check if there is new version available to download easely. Simply chose Help/Check for update!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/click-catch/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:pawel.lang@op.pl&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://langpawel.republika.pl/software.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-langpawel-republika-pl-software-htm&#34;&gt;Download: &lt;a href=&#34;http://langpawel.republika.pl/software.htm&#34;&gt;http://langpawel.republika.pl/software.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Click-N-Type virtual keyboard</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Click-N-Typevirtualkeyboard/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Click-N-Typevirtualkeyboard/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Click-N-Type is an on-screen keyboard which allows you to type with the use of a pointing device (e.g. mouse or tracker ball) rather than the physical computer keyboard. The designers claim it is successful in allowing text to be typed into “those uncooperative places like browser URL &amp;ldquo;&amp;ldquo;Address:&amp;ldquo;&amp;rdquo; fields, Email &amp;ldquo;&amp;ldquo;To:&amp;ldquo;&amp;rdquo; addresses, Email &amp;ldquo;&amp;ldquo;Subject:&amp;ldquo;&amp;rdquo; fields, and dialog boxes like &amp;ldquo;&amp;ldquo;Open&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;Save As&amp;hellip;&amp;rdquo;&amp;ldquo;,” which other virtual keyboards have trouble with. Several custom layouts are available, including QWERTY, ABC and ‘Speed layout’ in which the letters commonly used together are grouped together, reducing the pointer motion required. An English language prediction program is also available for use with the keyboard, available from the same website.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comments&#34;&gt;OATS Comments:&lt;/h2&gt;
+
+&lt;p&gt;This is a flexible and powerful on-screen keyboard.  To customise the keyboards you will need to be fairly computer literate, but other than that it is also quite easy to use.  It includes basic word prediction.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/Click-N-TypeVirtualKeyboard/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cnt@lakefolks.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lakefolks.org/cnt&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-lakefolks-org-cnt-download&#34;&gt;Download: &lt;a href=&#34;http://www.lakefolks.org/cnt/#Download&#34;&gt;http://www.lakefolks.org/cnt/#Download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dasher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Dasher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Dasher/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;Dasher is a zooming interface. You point where you want to go, and the display zooms in wherever you point. The world into which you are zooming is painted with letters, so that any point you zoom in on corresponds to a piece of text. The more you zoom in, the longer the piece of text you have written. You choose what you write by choosing where to zoom.&lt;/p&gt;
+
+&lt;p&gt;To make the interface efficient, we use the predictions of a language model to determine how much of the world is devoted to each piece of text. Probable pieces of text are given more space, so they are quick and easy to select. Improbable pieces of text (for example, text with spelling mistakes) are given less space, so they are harder to write. The language model learns all the time: if you use a novel word once, it is easier to write next time.&lt;/p&gt;
+
+&lt;p&gt;A big advantage of Dasher over other predictive text-entry interfaces that offer word-completions to the user is that it is &lt;strong&gt;mode-free&lt;/strong&gt;: the user does not need to switch from a writing mode to an &amp;ldquo;&amp;ldquo;accept-model-predictions&amp;rdquo;&amp;rdquo; mode.&lt;/p&gt;
+
+&lt;p&gt;Another advantage is that it is easy to train the model on any writing style: simply load up an example file, then write away!&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment:&lt;/h2&gt;
+
+&lt;p&gt;Dasher is an amazing innovation on on-screen keyboards - although at first it might seem difficult, stick with it and you will be astounded at how efficient it is.  Although mainly aimed at users who can use a mouse (or similar device) the Dasher team are working on a switch accessible version.  There is also a version that works well with speech recognition software - &lt;a _self=&#34;&#34; dasher=&#34;&#34; href=&#34;&#34; resolveuid=&#34;&#34; speech=&#34;&#34; target=&#34;&#34; title=&#34;&#34;&gt;Speech Dasher&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;see-dasher-in-action&#34;&gt;See Dasher in action:&lt;/h2&gt;
+
+&lt;p&gt;David MacKay demonstrated Dasher at the Bett 2006 Special Needs Fringe and you can &lt;a _self=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;watch the video&lt;/a&gt; created by Leon Cych.Dasher 4.9.0 is now available for download from:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;  &lt;a href=&#34;&#34;&gt;&lt;a href=&#34;http://download.gnome.org/sources/dasher/4.9/&#34;&gt;http://download.gnome.org/sources/dasher/4.9/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Windows binaries will shortly be available from:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;a href=&#34;&#34;&gt;&lt;a href=&#34;http://www.dasher.org.uk/Download.html&#34;&gt;http://www.dasher.org.uk/Download.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Dasher is a predictive text input system for the GNOME Desktop, suitable for any situation in which a conventional keyboard cannot be used.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;This is the first in a new development series, including a large number of improvements from a wide variety of contributors. As always, thanks to all Dasher developers and contributors. Please file any bug reports in the GNOME Bugzilla, and send any comments and feedback to dasher@mrao.cam.ac.uk&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inference.phy.cam.ac.uk/dasher/DasherSummary2.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:mackay@mrao.cam.ac.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inference.phy.cam.ac.uk/dasher&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inference.phy.cam.ac.uk/cgi-bin/wiki/wiki.pl/DasherProject&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inference.phy.cam.ac.uk/dasher/Develop.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-inference-phy-cam-ac-uk-dasher-download-html&#34;&gt;Download: &lt;a href=&#34;http://www.inference.phy.cam.ac.uk/dasher/Download.html&#34;&gt;http://www.inference.phy.cam.ac.uk/dasher/Download.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DonnerLaParole</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;This is a software that allows to enter words and sentences easily and make them talk. Which is very useful for people with disabilities.&lt;/p&gt;
+
+&lt;p&gt;“DonnerLaParole” can be translated in “GiveTheWord” …&lt;/p&gt;
+
+&lt;p&gt;There are several key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;several input systems help you if you can’t easily access the computer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;without any clicks, if you do not have enough strength or muscle coordination&lt;/li&gt;
+&lt;li&gt;with a selection block mechanism, if you cannot move,&lt;/li&gt;
+&lt;li&gt;with just the click of a mouse or a switch,&lt;/li&gt;
+&lt;li&gt;with two contactors or 2 buttons if you want to access the buttons at your own pace&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of virtual keyboards:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;computer keyboard&lt;/li&gt;
+&lt;li&gt;style keyboard phone&lt;/li&gt;
+&lt;li&gt;a keyboard for sign language&lt;/li&gt;
+&lt;li&gt;keyboard customizable icons&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a set of dictionaries to be able to quickly select words without having to enter all the letters (this is called predictive text input).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a manager of common sentences, to avoid having to continually enter the same words and similar phrases.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;voice synthesizers, which will deliver the phrases or words typed in:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the possibility of using voice as Virginia SAPI (Windows only)&lt;/li&gt;
+&lt;li&gt;voices natively on Windows, Apple and Linux&lt;/li&gt;
+&lt;li&gt;regionalization of the French language&lt;/li&gt;
+&lt;li&gt;with the Canadian “accent”&lt;/li&gt;
+&lt;li&gt;with the Belgian “accent”&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a composer of iconic sentences&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;greater accessibility of the interface for those deprived of movement, particularly in settings&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;system ready for monitoring the environment (or home automation) with&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the ability to send messages through serial port&lt;/li&gt;
+&lt;li&gt;the ability to run programs on the user’s computer&lt;/li&gt;
+&lt;li&gt;the ability to send requests to a server
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;oatsoft-comment&#34;&gt;OATSoft comment:&lt;/h2&gt;
+
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Common Public License 1.0&lt;/a&gt;&lt;br /&gt;
+Installation packages are available for different generations of MS Windows, Mac OS X and Linux.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.donnerlaparole.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-donnerlaparole-org-en-telecharger&#34;&gt;Download: &lt;a href=&#34;http://www.donnerlaparole.org/en/telecharger/&#34;&gt;http://www.donnerlaparole.org/en/telecharger/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dwell Clicker</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DwellClicker/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DwellClicker/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/dwell-click/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sensorysoftware.com/dwellclicker.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-sensorysoftware-com-downloads-dwellclick-exe&#34;&gt;Download: &lt;a href=&#34;http://www.sensorysoftware.com/downloads/DwellClick.exe&#34;&gt;http://www.sensorysoftware.com/downloads/DwellClick.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

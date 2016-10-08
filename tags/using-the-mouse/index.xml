@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Using The Mouse on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/using-the-mouse/</link>
+    <description>Recent content in Using The Mouse on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/using-the-mouse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AAC Keys</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
+
+&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
+
+&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
+
+&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-aacinstitute-org-resources-productsandservices-aackeys-aackeys-html&#34;&gt;Download: &lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&#34;&gt;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AutoHotKey</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AutoHotKey/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AutoHotKey/</guid>
+      <description>
+
+&lt;p&gt;From the authors:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;AutoHotkey is a free, open-source utility for Windows. With it, you can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Automate almost anything by sending keystrokes and mouse clicks. You can write a &lt;a href=&#34;&#34;&gt;mouse or keyboard macro&lt;/a&gt; by hand or use the macro recorder.&lt;/li&gt;
+&lt;li&gt;Create &lt;a href=&#34;&#34;&gt;hotkeys&lt;/a&gt; for keyboard, joystick, and mouse. Virtually any key, button, or combination can become a hotkey.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Expand abbreviations&lt;/a&gt; as you type them. For example, typing &amp;ldquo;&amp;ldquo;btw&amp;rdquo;&amp;rdquo; can automatically produce &amp;ldquo;&amp;ldquo;by the way&amp;rdquo;&amp;ldquo;.&lt;/li&gt;
+&lt;li&gt;Create custom data entry forms, user interfaces, and menu bars. See &lt;a href=&#34;&#34;&gt;GUI&lt;/a&gt; for details.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Remap&lt;/a&gt; keys and buttons on your keyboard, joystick, and mouse.&lt;/li&gt;
+&lt;li&gt;Respond to signals from hand-held remote controls via the &lt;a href=&#34;&#34;&gt;WinLIRC client script&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Run existing AutoIt v2 scripts and enhance them with &lt;a href=&#34;&#34;&gt;new capabilities&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Convert any script into an &lt;a href=&#34;&#34;&gt;EXE file&lt;/a&gt; that can be run on computers that don&amp;rsquo;t have AutoHotkey installed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Getting started might be easier than you think. Check out the &lt;a href=&#34;&#34;&gt;quick-start tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comments&#34;&gt;OATS Comments:&lt;/h2&gt;
+
+&lt;p&gt;This is a fantastic resource for assistive technology!  It really unleashes the power of your PC and helps set it up to your exact requirements.  It&amp;rsquo;s a bit technical to get into, but once into it it is easy - there are some great examples too.&lt;/p&gt;
+
+&lt;h2 id=&#34;more-about-hotkeys&#34;&gt;More About Hotkeys&lt;/h2&gt;
+
+&lt;p&gt;AutoHotkey unleashes the full potential of your keyboard, joystick, and mouse. For example, in addition to the typical Control, Alt, and Shift modifiers, you can use the Windows key and the Capslock key as modifiers. In fact, you can make any key or mouse button act as a modifier. For these and other capabilities, see &lt;a href=&#34;&#34;&gt;Advanced Hotkeys&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-features&#34;&gt;Other Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Change the volume, mute, and other &lt;a href=&#34;&#34;&gt;settings&lt;/a&gt; of any soundcard.&lt;/li&gt;
+&lt;li&gt;Make any window &lt;a href=&#34;&#34;&gt;transparent&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;always-on-top&lt;/a&gt;, or alter its &lt;a href=&#34;&#34;&gt;shape&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Use a &lt;a href=&#34;&#34;&gt;joystick&lt;/a&gt; or &lt;a href=&#34;&#34;&gt;keyboard&lt;/a&gt; as a mouse.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Monitor&lt;/a&gt; your system. For example, close unwanted windows the moment they appear.&lt;/li&gt;
+&lt;li&gt;Retrieve and change the &lt;a href=&#34;&#34;&gt;clipboard&amp;rsquo;s contents&lt;/a&gt;, including file names copied from an Explorer window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Disable or override&lt;/a&gt; Windows&amp;rsquo; own shortcut keys such as Win+E and Win+R.&lt;/li&gt;
+&lt;li&gt;Alleviate RSI with substitutes for &lt;a href=&#34;&#34;&gt;Alt-Tab&lt;/a&gt; (using keys, mouse wheel, or buttons).&lt;/li&gt;
+&lt;li&gt;Customize the &lt;a href=&#34;&#34;&gt;tray icon menu&lt;/a&gt; with your own icon, tooltip, menu items, and submenus.&lt;/li&gt;
+&lt;li&gt;Display &lt;a href=&#34;&#34;&gt;dialog boxes&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;tooltips&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;balloon tips&lt;/a&gt;, and &lt;a href=&#34;&#34;&gt;popup menus&lt;/a&gt; to interact with the user.&lt;/li&gt;
+&lt;li&gt;Perform scripted actions in &lt;a href=&#34;&#34;&gt;response&lt;/a&gt; to system shutdown or logoff.&lt;/li&gt;
+&lt;li&gt;Detect how long the user has been &lt;a href=&#34;&#34;&gt;idle&lt;/a&gt;. For example, run CPU intensive tasks only when the user is away.&lt;/li&gt;
+&lt;li&gt;Automate game actions by detecting &lt;a href=&#34;&#34;&gt;images&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;pixel colors&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Read&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;write&lt;/a&gt;, and &lt;a href=&#34;&#34;&gt;parse&lt;/a&gt; text files more easily than in other languages.&lt;/li&gt;
+&lt;li&gt;Perform operation(s) upon a set of files that match a &lt;a href=&#34;&#34;&gt;wildcard pattern&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Work with the &lt;a href=&#34;&#34;&gt;registry&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;INI files&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/docs/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:support@autohotkey.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.autohotkey.com/forum/&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-autohotkey-com-download&#34;&gt;Download: &lt;a href=&#34;http://www.autohotkey.com/download/&#34;&gt;http://www.autohotkey.com/download/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Click-Catch</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Click-Catch/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Click-Catch/</guid>
+      <description>
+
+&lt;p&gt;Click-Catch&amp;copy; available options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You may choose which button to simulate between left/right/middle mouse buttons.&lt;/li&gt;
+&lt;li&gt;You can also set single or double click.&lt;/li&gt;
+&lt;li&gt;There are two &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; available. You must enable them in settings. &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; are disabled by default.&lt;br /&gt;
+Combination of &amp;ldquo;&amp;ldquo;control&amp;rdquo;&amp;ldquo;+&amp;rdquo;&amp;ldquo;x&amp;rdquo;&amp;rdquo; pressed together at once starts clicking, &amp;ldquo;&amp;ldquo;control&amp;rdquo;&amp;ldquo;+&amp;rdquo;&amp;ldquo;s&amp;rdquo;&amp;rdquo; stops.&lt;/li&gt;
+&lt;li&gt;In cases, when you cannot use &amp;ldquo;&amp;ldquo;hot keys&amp;rdquo;&amp;rdquo; to start/stop clicking, there are two buttons implemented.&lt;br /&gt;
+To start simulation press &amp;ldquo;&amp;ldquo;START&amp;rdquo;&amp;rdquo; button or press &amp;ldquo;&amp;ldquo;STOP&amp;rdquo;&amp;rdquo; to stop it&lt;/li&gt;
+&lt;li&gt;You may also need to change time interval between clicks.&lt;br /&gt;
+You can set its value from 10 hours to 100 miliseconds.&lt;br /&gt;
+Minimal step is 50 miliseconds.&lt;/li&gt;
+&lt;li&gt;There is a possiblity to save your settings. Settings are stored in Windows Registry File.&lt;br /&gt;
+Click-Catch&amp;copy; has no instalation procedure (it&amp;rsquo;s only one file after all!)&lt;br /&gt;
+so it can not delete its entry after deinstalation (delete).&lt;br /&gt;
+It has however an option called &amp;ldquo;&amp;ldquo;clear WinRegFile entry&amp;rdquo;&amp;ldquo;.&lt;br /&gt;
+Use it freely, it is harmless.&lt;/li&gt;
+&lt;li&gt;You can check if there is new version available to download easely. Simply chose Help/Check for update!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/click-catch/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:pawel.lang@op.pl&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://langpawel.republika.pl/software.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-langpawel-republika-pl-software-htm&#34;&gt;Download: &lt;a href=&#34;http://langpawel.republika.pl/software.htm&#34;&gt;http://langpawel.republika.pl/software.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dwell Clicker</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DwellClicker/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DwellClicker/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/dwell-click/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sensorysoftware.com/dwellclicker.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-sensorysoftware-com-downloads-dwellclick-exe&#34;&gt;Download: &lt;a href=&#34;http://www.sensorysoftware.com/downloads/DwellClick.exe&#34;&gt;http://www.sensorysoftware.com/downloads/DwellClick.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Two/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Two/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
+
+&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
+
+&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
+
+&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

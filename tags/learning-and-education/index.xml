@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning And Education on OpenAssistive - Open source Assistive Technology Solutions</title>
+    <link>https://openassistive.github.io/OpenATFrontEnd/tags/learning-and-education/</link>
+    <description>Recent content in Learning And Education on OpenAssistive - Open source Assistive Technology Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/learning-and-education/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ACollab</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</guid>
+      <description>
+
+&lt;p&gt;ACollab is available as a work groups &lt;strong&gt;addon for ATutor 1.4+&lt;/strong&gt; , and as a standalone collaborative work environment that will run on its own. ACollab is ideal for groups working at a distance developing documentation, collaborating on research, or writing joint papers, and ideal for online educators who wish to add group learning activities to their ATutor courses. A &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;demo&lt;/a&gt; and &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;download&lt;/a&gt; are available if you want to learn more. Or, read on for a list of &lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;ACollab features&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;acollab-features&#34;&gt;ACollab Features:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Document Drafting Room&lt;/strong&gt;: Group members can work within a Web-based document versioning system, collaborating on document development and publication. Documents developed in the Drafting Room can be transferred to the Shared Documents Library once finalized.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shared Documents Library&lt;/strong&gt;: Group members can submit documents to the library, from which other group members, or public members, can retrieve those documents for viewing or downloading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Events Calendar&lt;/strong&gt;: Events can be posted to the calendar by all group members, to announce activities, meetings, due dates, or other group related happenings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;News &amp;amp; Announcements&lt;/strong&gt;: Group administrators, or system administrators, can post news to be presented to users when they first login to a group.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Membership Index&lt;/strong&gt;: Group members can view other group members&amp;rsquo; profiles and contact information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mail Inbox&lt;/strong&gt;: Members can communicate with each other privately.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AChat-PHP&lt;/strong&gt;: Accessible synchronous communication is possible between group members, ideal for online meetings or group socializing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AForum&lt;/strong&gt;: AForum is an enhanced version for the ATutor forums. Members post message for others to retrieve later. Forums can be set to read only, reply only, as open discussion, or can be hidden from view.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Lingual Interface&lt;/strong&gt;: Language can be modified by system administrators, or new language packs can be created using the ATutor.ca translation tools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility Compliance&lt;/strong&gt;: Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Group Leaders&lt;/strong&gt;: Create chat transcripts, define folders for sorting documents, assign group membership roles, create and manage forums, create mailing lists, post news and announcements, and manage group members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Administrator&lt;/strong&gt;: Create and manage groups, manage the system languages, and manage all users on a system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/docs/howto.php&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acollab/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forum/16/1.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acollab-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acollab/download.php&#34;&gt;http://www.atutor.ca/acollab/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AMIS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/projects/amis&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:marisademeglio@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amis.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?atid=581587&amp;amp;group_id=86978&amp;amp;func=browse&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/forum/?group_id=86978&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-amis-setupamis-exe-download&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&#34;&gt;http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARASAAC Pictograms</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;The ARASAAC portal offers graphic resources and materials to facilitate communication for those with some sort of problem in this area.&lt;/p&gt;
+
+&lt;p&gt;OATSoft comment:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This is an increasingly popular and widely used AAC resource, and the symbol file libraries are available with the file names translated into a growing number of languages. The file format provided is 500 pixels high PNG. Though the number of files is quite large, there is a fair amount of redundancy due to numerous duplication of symbols labelled with different names.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.catedu.es/arasaac/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-catedu-es-arasaac-descargas-php&#34;&gt;Download: &lt;a href=&#34;http://www.catedu.es/arasaac/descargas.php&#34;&gt;http://www.catedu.es/arasaac/descargas.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acomm</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</guid>
+      <description>
+
+&lt;h2 id=&#34;acomm-features&#34;&gt;AComm Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;User can login to an existing Jabber account or sign up for a new one.&lt;/li&gt;
+&lt;li&gt;Roster provides &amp;ldquo;&amp;ldquo;presence&amp;rdquo;&amp;rdquo; information for contacts.&lt;/li&gt;
+&lt;li&gt;Users can participate in private or group chat/whiteboard sessions&lt;/li&gt;
+&lt;li&gt;Text chat window and optional whiteboard&lt;/li&gt;
+&lt;li&gt;Participant list on demand.&lt;/li&gt;
+&lt;li&gt;A variety of whiteboard drawing tools are available&lt;/li&gt;
+&lt;li&gt;Peer description allows any participant to describe the drawn objects. Anti-collision feature ensures one describer per object.&lt;/li&gt;
+&lt;li&gt;Accessibility options
+
+&lt;ul&gt;
+&lt;li&gt;Option to play sound effect when a new message arrives.&lt;/li&gt;
+&lt;li&gt;Keyboard drawing checkbox&lt;/li&gt;
+&lt;li&gt;Manual refresh checkbox&lt;/li&gt;
+&lt;li&gt;Show only new checkbox&lt;/li&gt;
+&lt;li&gt;Newest message first checkbox&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Keyboard enabled drawing lets users use some features of the whiteboard without a mouse.&lt;/li&gt;
+&lt;li&gt;Save and open palette feature lets users create and describe pictures beforehand.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AComm is a Java application and requires that a Java Runtime Environment be installed on system it is running on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acomm/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/acomm/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-acomm-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/acomm/download.php&#34;&gt;http://www.atutor.ca/acomm/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acta</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/acta/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.a-sharp.com/acta/acta.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-a-sharp-com-acta-download-html&#34;&gt;Download: &lt;a href=&#34;http://www.a-sharp.com/acta/download.html&#34;&gt;http://www.a-sharp.com/acta/download.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atutor</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</guid>
+      <description>
+
+&lt;h2 id=&#34;atutor-features&#34;&gt;ATutor Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility&lt;/strong&gt;: ATutor was designed with accessibility as a priority. A wide range of features ensure assistive technology users can participate fully in learner, instructor, and administrative activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Courses&lt;/strong&gt; : Instructors and students can manage the ATutor courses they teach and/or are enrolled in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adaptive Navigation&lt;/strong&gt;: Learners can move through ATutor content using global, hierarchical, or sequential navigation tools. Navigation elements can be displayed as text, icons, or both text and icons, and they can be hidden to simplify the environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Work Groups&lt;/strong&gt;: When the ACollab add-on is installed on an ATutor system, learners can collaborate with others on course projects, communicate as a group with the forums and chat, share resources using their group library, schedule activities with the events calendar, and work together on project documents through the drafting room. Exercises or assignments can submitted to the group leader, or course instructor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feedback&lt;/strong&gt;: Following an action (such as saving preference settings, or posting a message), feedback is given on the status of the operation. This could be a success message, warnings to consider, or errors to fix.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Preference Settings&lt;/strong&gt;: Learners can control ATutor features and the theme ATutor is presented in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication Tools&lt;/strong&gt;: Learners can communicate with others using ATutor&amp;rsquo;s private mail, the discussion forums, the chat rooms, or the &amp;ldquo;&amp;ldquo;User&amp;rsquo;s Online&amp;rdquo;&amp;rdquo; tool. Threads and messages can be sorted in a variety of ways. Students can communicate with those in other courses through shared forum, or a community forum. Subscribe to forums or topic threads to have forum messages sent by email.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Package Viewer&lt;/strong&gt;: Learners can export content from ATutor as Content Packages that can be viewed offline in the accompanying viewer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Tracker&lt;/strong&gt;: Learners can keep track of the content pages they have visited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test Manager&lt;/strong&gt;: Learners can take tests, review test results, and keep track of their scores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Glossary&lt;/strong&gt;: Words and phrases added to the glossary by the instructor, can be accessed from terms embedded within content pages, or viewed alphabetically in their entirety using the Glossary tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links Database&lt;/strong&gt;: Each course has a tool for collecting links to course related Web-based information. Both students and instructors can add links. Instructors can also manage them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course Search&lt;/strong&gt;: A search engine allows learners to search course content. Search for courses in the course catalogue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TILE Repository Search&lt;/strong&gt;: Learners can &lt;a href=&#34;&#34;&gt;search the TILE learning objects repository&lt;/a&gt; for content related to the topics they are studying, and download content packages for viewing offline.
+Instructors&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/docman/?group_id=21294&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:greggy@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-atutor-ca-atutor-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/atutor/download.php&#34;&gt;http://www.atutor.ca/atutor/download.php&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Calculator</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</guid>
+      <description>
+
+&lt;p&gt;The size of the calculator buttons is determined by the WIDTH of the calculator window.&lt;/p&gt;
+
+&lt;p&gt;Big Calculator will use a &lt;a href=&#34;&#34;&gt;SAPI 4.0 speech&lt;/a&gt; system if you have one installed on your system.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tip: for extra large read-out, set a wide, short window, and input with the numeric keys.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/big-calculator/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sensorysoftware.com/bigcalculator.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-sensorysoftware-com-bigcalculator-html&#34;&gt;Download: &lt;a href=&#34;http://www.sensorysoftware.com/bigcalculator.html&#34;&gt;http://www.sensorysoftware.com/bigcalculator.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blissymbolics Resources</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/BlissymbolicsResources/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/BlissymbolicsResources/</guid>
+      <description>
+
+&lt;p&gt;The complete current authorised lexical resources of Blissymbolics are here available with an overview, tracked changes, lexical source text files (in the unfortunately proprietary WinBliss editor format), export file libraries (in a range of different file formats and sizes (SVG, PNG, BMP and WMF), spreadsheet and PDF lexical documentation files.&lt;/p&gt;
+
+&lt;p&gt;(Note: Registering and login is required for access to the Community Area of the Blissymbolics Communications International (BCI) site where these resources are available.)&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:bci@blissymbolics.org&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.blissymbolics.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-blissymbolics-org-community-index-php-resources&#34;&gt;Download: &lt;a href=&#34;http://www.blissymbolics.org/community/index.php/resources#&#34;&gt;http://www.blissymbolics.org/community/index.php/resources#&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daisy Pipeline</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/dmfc-daisy-multi-format-converter/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.daisy.org/projects/pipeline/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
