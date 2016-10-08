@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "ATutor is an Open Source Web-based Learning Content Management System (LCMS) designed with accessibility and adaptability in mind."
 type: "Software"
 tags: ['Educational and Learning','Learning and Education' ]
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
+image: "images/full/3.png"
+thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.atutor.ca/atutor/download.php"
 ---

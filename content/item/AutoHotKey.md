@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "An open source macro style program that can re-map the mouse, keyboard and joystick functions as well as automate pretty much anything!"
 type: "Software"
 tags: ['Computer Automation','Other function','Using the Mouse','Alternative Access','Other need' ]
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
+image: "images/full/1.png"
+thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.autohotkey.com/download/"
 ---

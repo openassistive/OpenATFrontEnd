@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "You can either click on the buttons with the mouse or use the numeric keypad to perform calculations."
 type: "Software"
 tags: ['Text to Speech','Educational and Learning','Learning and Education','General Tools' ]
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
+image: "images/full/1.png"
+thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.sensorysoftware.com/bigcalculator.html"
 ---

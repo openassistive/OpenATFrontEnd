@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "A free (CC-BY-NC-SA) resource of around 5000 colour and black &amp; white pictographic symbols from Catedu and the Aragonese Portal of Augmentative and Alternative Communication in Spain."
 type: "Software"
 tags: ['Symbol Library','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
+image: "images/full/3.png"
+thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.catedu.es/arasaac/descargas.php"
 ---

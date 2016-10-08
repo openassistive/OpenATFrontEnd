@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: ""
 type: "Software"
 tags: [ ]
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
+image: "images/full/2.png"
+thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: ""
 ---

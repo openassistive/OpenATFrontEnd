@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "Click-Catch(C) is an autoclicker. It means it simulates mouse clicks with constant intervals of time."
 type: "Software"
 tags: ['Computer Automation','Text input Projects','Using the Mouse','Alternative Access' ]
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
+image: "images/full/3.png"
+thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://langpawel.republika.pl/software.htm"
 ---

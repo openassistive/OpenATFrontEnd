@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "Audio Enriched Links provide previews of linked web pages to users with visual impairments."
 type: "Software"
 tags: ['Other function','Viewing the screen' ]
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
+image: "images/full/2.png"
+thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://prdownloads.sourceforge.net/uncassist/AEL-1.42a.exe?use_mirror=internap"
 ---

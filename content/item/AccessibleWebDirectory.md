@@ -4,8 +4,8 @@ date: "2016-06-21"
 description: "This simple program lets you explore the DMOZ web directory, a catalogue of good websites.  NOTE: Accessible Web Directory is now included in the WebbIE3 installation."
 type: "Software"
 tags: ['Text to Speech','Viewing the screen','Accessing the Web' ]
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
+image: "images/full/3.png"
+thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.webbie.org.uk/accessiblewebdirectory/index.htm"
 ---
