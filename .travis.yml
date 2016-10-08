@@ -4,7 +4,7 @@ go:
 env:
   global:
   - SSH_KEY="id_rsa"
-  - GIT_NAME="OpenAssistive"
+  - GIT_NAME="openassistive"
   - GIT_EMAIL="willwade@gmail.com"
   - SOURCE_DIR="public"
   - DEPLOY_BRANCH="gh-pages"
@@ -14,7 +14,8 @@ before_install:
 before_script:
 - go get -u -v github.com/spf13/hugo
 script:
-- git clone https://github.com/rcoedo/hugo-steam-theme ./themes/hugo-steam-theme
+- mkdir ./themes
+- git clone https://github.com/openassistive/openat-hugrid ./themes/openat-hugrid
 - hugo
 after_success:
 - echo "openassistive.com" > ./public/CNAME
