@@ -1,26 +1,21 @@
 language: go
-
 go:
-    - "1.5.1"
-
+- 1.5.1
 env:
-    global:
-        - SSH_KEY="id_rsa"
-        - GIT_NAME="OpenAssistive"
-        - GIT_EMAIL="willwade@gmail.com"
-        - SOURCE_DIR="public"
-        - DEPLOY_BRANCH="gh-pages"
-
+  global:
+  - SSH_KEY="id_rsa"
+  - GIT_NAME="OpenAssistive"
+  - GIT_EMAIL="willwade@gmail.com"
+  - SOURCE_DIR="public"
+  - DEPLOY_BRANCH="gh-pages"
 before_install:
-    - openssl aes-256-cbc -K $encrypted_5badef0aa7c9_key -iv $encrypted_5badef0aa7c9_iv -in id_rsa.enc -out id_rsa -d
-
+- openssl aes-256-cbc -K $encrypted_19d1a4d34ecb_key -iv $encrypted_19d1a4d34ecb_iv
+  -in travis_key.enc -out travis_key -d
 before_script:
-    - go get -u -v github.com/spf13/hugo
-
+- go get -u -v github.com/spf13/hugo
 script:
-    - git clone https://github.com/rcoedo/hugo-steam-theme ./themes/hugo-steam-theme
-    - hugo
-
+- git clone https://github.com/rcoedo/hugo-steam-theme ./themes/hugo-steam-theme
+- hugo
 after_success:
-    - echo "openassistive.com" > ./public/CNAME
-    - ./scripts/deploy.sh
+- echo "openassistive.com" > ./public/CNAME
+- ./scripts/deploy.sh
