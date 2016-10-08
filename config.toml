@@ -2,7 +2,7 @@
 baseurl = "https://openassistive.github.io/OpenATFrontEnd/"
 languageCode = "en-us"
 title = "OpenAssistive - Open source Assistive Technology Solutions"
-theme = "hugrid"
+theme = "openat-hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 

@@ -5,7 +5,7 @@ go:
 
 env:
   global:
-  - SSH_KEY="id_rsa"
+  - SSH_KEY="travis_key"
   - GIT_NAME="openassistive"
   - GIT_EMAIL="willwade@gmail.com"
   - SOURCE_DIR="public"
