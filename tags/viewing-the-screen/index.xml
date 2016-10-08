@@ -181,5 +181,180 @@
 </description>
     </item>
     
+    <item>
+      <title>EmacSpeak</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EmacSpeak/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EmacSpeak/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/home/raman/emacspeak/info/emacspeak.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cornell.edu/home/raman/emacspeak/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.vassar.edu/~priestdo/emacspeak/&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-prdownloads-sourceforge-net-emacspeak-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://prdownloads.sourceforge.net/emacspeak/&#34;&gt;http://prdownloads.sourceforge.net/emacspeak/&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FatBits</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/FatBits/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/FatBits/</guid>
+      <description>
+
+&lt;p&gt;What the authors say:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;FatBits magnifies an area of the screen centered around the mouse pointer and paints the giant pixels into a small, tastefully decorated window. This can be indispensable when you want to see something right down to the last pixel. Once the text has been magnified (up to 20x), Fatbits can also smooth it, and change the colours used. The website contains an online User Manual.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comments&#34;&gt;OATS Comments:&lt;/h2&gt;
+
+&lt;p&gt;FatBits was originally designed for graphic artists or people designing user interfaces, but it may be relevant to some people with visual impairments.  This has not yet been tested by the OATS team.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/FatBits/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fatbits@digitalmantra.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.digitalmantra.com/fatbits/whatis.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-digitalmantra-com-fatbits-download-html&#34;&gt;Download: &lt;a href=&#34;http://www.digitalmantra.com/fatbits/download.html&#34;&gt;http://www.digitalmantra.com/fatbits/download.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fire Vox</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/FireVox/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/FireVox/</guid>
+      <description>
+
+&lt;p&gt;Think of it as a screen reader that is designed especially for Firefox.&lt;/p&gt;
+
+&lt;p&gt;In addition to the basic features that are expected of screen readers, such as being able to identify headings, links, images, etc. and providing navigational assistance, Fire Vox provides support for MathML and CSS speech module properties. It also works on Windows, Macintosh, and Linux.&lt;/p&gt;
+
+&lt;p&gt;CLC-4-TTS is a cross OS compatible (Windows, Mac, Linux) collection of JavaScript functions that can be used for transforming Firefox into a self-voicing browser. This software is open source and is licensed under the terms of the GNU GPL.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.firevox.clcworld.net/developers.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:clc@clcworld.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.firevox.clcworld.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.firevox.clcworld.net/developers.html&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-firevox-clcworld-net-downloads-html&#34;&gt;Download: &lt;a href=&#34;http://www.firevox.clcworld.net/downloads.html&#34;&gt;http://www.firevox.clcworld.net/downloads.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gnopernicus</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Gnopernicus/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Gnopernicus/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;from the Authors&lt;/h2&gt;
+
+&lt;p&gt;By providing automated focus tracking and fullscreen magnification, Gnopernicus aids low-vision Gnome users, and its screen reader features allow low-vision and blind users access to standard GTK+2 and Java-based GUI applications via speech and braille output. By leveraging Gnome 2&amp;rsquo;s built-in accessibility framework, Gnopernicus will make interacting with applications more efficient for these users, and enable use of the Gnome 2 desktop for some users who otherwise would have no access to Gnome.&lt;/p&gt;
+
+&lt;p&gt;Gnopernicus is available from GNOME CVS in pre-release form, but is not yet feature complete. Information on how to build, install, and use Gnopernicus, Gnopernicus features, and project status, is available from &lt;a href=&#34;&#34;&gt;&lt;a href=&#34;http://www.baum.ro/gnopernicus.html&#34;&gt;http://www.baum.ro/gnopernicus.html&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.baum.ro/gnopernicus.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:mp@baum.de&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.baum.ro/index.php?language=en&amp;amp;pagina=produse&amp;amp;subpag=gnopernicus&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-ftp-gnome-org-pub-gnome-sources-gnopernicus-1-1&#34;&gt;Download: &lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/gnopernicus/1.1/&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/gnopernicus/1.1/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jupiter</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Jupiter/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Jupiter/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eklhad.net/linux/jupiter/guide.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eklhad.net/linux/jupiter/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-eklhad-net-linux-jupiter-jupiter-tar-gz-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.eklhad.net/linux/jupiter/jupiter.tar.gz&#34;&gt;http://www.eklhad.net/linux/jupiter/jupiter.tar.gz&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KwikLoupe</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/KwikLoupe/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/KwikLoupe/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fxc@btinternet.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-fxc-btinternet-co-uk-assistive-htm&#34;&gt;Download: &lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;http://www.fxc.btinternet.co.uk/assistive.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAGpie</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MAGpie/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MAGpie/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;h3 id=&#34;a-id-name-newfeatures-new-features-a&#34;&gt;&lt;a id=&#34;&#34; name=&#34;&#34; newfeatures=&#34;&#34;&gt;New Features&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Macintosh Support – MAGpie 2 functions under the OSX operating system as well as on Windows 98/NT/2000/XP&lt;/li&gt;
+&lt;li&gt;Real media playback support for captioning and audio description – MAGpie 2 utilizes the GRiNS player&amp;rsquo;s java interface to enable the captioning and describing of content that displays in the RealPlayer or the RealOne player.&lt;/li&gt;
+&lt;li&gt;Audio description support – users can write, time, and record audio descriptions for digital media&lt;/li&gt;
+&lt;li&gt;Support for Flash, XHTML+SMIL (HTML+TIME), SVG captioning, and collated text transcripts – utilizing MAGpie&amp;rsquo;s XML project file structure and XSLT stylesheets provided, users have additional flexibility in the creation of resources for a variety of media types.&lt;/li&gt;
+&lt;li&gt;Spell check – eliminate typographical errors more easily.&lt;/li&gt;
+&lt;li&gt;Segmented captioning – users can create captions with karaoke-like effects&lt;/li&gt;
+&lt;li&gt;Improved interface – several improvements to the authoring grid have been implemented&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ncam.wgbh.org/webaccess/magpie/magpie_help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/magpie&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ncam.wgbh.org/webaccess/magpie/magpie2_list.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-ncam-wgbh-org-invent-build-web-multimedia-tools-guidelines-download-magpie&#34;&gt;Download: &lt;a href=&#34;http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/download-magpie&#34;&gt;http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/download-magpie&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

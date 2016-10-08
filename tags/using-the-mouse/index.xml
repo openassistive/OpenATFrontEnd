@@ -166,29 +166,347 @@ Use it freely, it is harmless.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Two</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Two/</link>
+      <title>Edgeless</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Edgeless/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Two/</guid>
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Edgeless/</guid>
+      <description>
+
+&lt;p&gt;This application causes the mouse pointer to wrap around the screen instead of stopping at the edges. It can be configured to start at Windows startup if required.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fxc@btinternet.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-fxc-btinternet-co-uk-edgelesssetup-exe&#34;&gt;Download: &lt;a href=&#34;http://www.fxc.btinternet.co.uk/EdgelessSetup.exe&#34;&gt;http://www.fxc.btinternet.co.uk/EdgelessSetup.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enable Viacam</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EnableViacam/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EnableViacam/</guid>
+      <description>
+
+&lt;h2 id=&#34;about-this-project&#34;&gt;About this project&lt;/h2&gt;
+
+&lt;p&gt;Enable Viacam can be used as a full alternative or as a complement to a conventional computer mouse. It is especially useful for people with motor impairments in their hands or their arms (due to bone injuries, ALS, multiple sclerosis, cerebral palsy, spinal cord injuries, muscular dystrophy, amputations, etc.). Enable Viacam provides them with an effective and reliable solution for human-computer interaction.&lt;/p&gt;
+
+&lt;p&gt;Core features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hands-Free:&lt;/strong&gt; Control your computer with intuitive head movements. No need to use your hands — the pointer will obey!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unobtrusive:&lt;/strong&gt; Works with any good webcam. No cables, no dots, no additional hardware required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible:&lt;/strong&gt; Click and choose clicking options by way of either pointer dwelling or by external means.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User-centred:&lt;/strong&gt; Developed and tested in close collaboration with users from the &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;APPC Cerebral Palsy Centre&lt;/a&gt; in Tarragona (Spain).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizable:&lt;/strong&gt; Pointer speed, movement acceleration and smoothness, dwelling time, and many other variables can be adjusted to fit the user&amp;rsquo;s needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mature:&lt;/strong&gt; Based on the award winning &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;Facial Mouse&lt;/a&gt; software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-platform:&lt;/strong&gt; currently, eViacam runs on Windows 2000/XP/Vista and Linux (KDE/GNOME)
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;official-site&#34;&gt;Official site&lt;/h2&gt;
+
+&lt;p&gt;More information and downloads: &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;&lt;a href=&#34;http://viacam.org&#34;&gt;http://viacam.org&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;eViacam is realeased under GNU/GPL license.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cesar@crea-si.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eviacam.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sourceforge-net-projects-eviacam&#34;&gt;Download: &lt;a href=&#34;http://sourceforge.net/projects/eviacam/&#34;&gt;http://sourceforge.net/projects/eviacam/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eventcorder</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Eventcorder/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Eventcorder/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-author&#34;&gt;From the author:&lt;/h2&gt;
+
+&lt;p&gt;Eventcorder allows sequences of keystrokes and mouse-clicks (events) to be recorded, and then played back at the touch of a button. It also allows recorded sequences (known as macros) to be edited. The software matches up events with the window for which they were recorded, and will wait for the correct window to open before implementing a particular event, so that events cannot act in the wrong window.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eventcorder.com/ec_contact.htm&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:eventcorder@eventcorder.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eventcorder.com/eventcorder_moreinfo.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-eventcorder-com-ec-downloads-htm-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.eventcorder.com/ec_downloads.htm&#34;&gt;http://www.eventcorder.com/ec_downloads.htm&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hotspots</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Hotspots/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Hotspots/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:colven@ace-centre.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-hotspots-downloads-2-o-hszipped-zip-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/hotspots/downloads/2.o/HSZipped.zip&#34;&gt;http://www.oatsoft.org/Software/hotspots/downloads/2.o/HSZipped.zip&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JoyToKey</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/JoyToKey/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/JoyToKey/</guid>
+      <description>
+
+&lt;p&gt;JoyToKey is a keyboard and mouse emulator for joysticks. It converts joystick input into keyboard input (and mouse input). Use it when you want to control an application with joysticks that doesn&amp;rsquo;t support joystick input. If you wish, you can control even Word, Excel, etc. with joysticks!&lt;/p&gt;
+
+&lt;p&gt;It is also a way for &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;accessibility switch&lt;/a&gt; users to access PCs when using a switch adapted game controller. These can be &lt;a href=&#34;&#34;&gt;bought&lt;/a&gt; or built following &lt;a href=&#34;&#34;&gt;D.I.Y. guides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oneswitch.org.uk/2/I/JoyToKey/JoyToKey.htm&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oneswitch.org.uk/2/I/JoyToKey/JoyToKey.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oneswitch-org-uk-2-i-joytokey-joytokey-htm&#34;&gt;Download: &lt;a href=&#34;http://www.oneswitch.org.uk/2/I/JoyToKey/JoyToKey.htm&#34;&gt;http://www.oneswitch.org.uk/2/I/JoyToKey/JoyToKey.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joystick 2 Mouse 3</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Joystick2Mouse3/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Joystick2Mouse3/</guid>
+      <description>
+
+&lt;p&gt;Joystick 2 Mouse 3 let&amp;rsquo;s you control the mouse and keyboard using your joystick or gamepad.&lt;/p&gt;
+
+&lt;p&gt;Joystick 2 Mouse has many applications:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Remote controller.&lt;/li&gt;
+&lt;li&gt;Aid to people with physical dissabilities.&lt;/li&gt;
+&lt;li&gt;Alliviate wrist stress to control the mouse&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This program allows you to map your joystick&amp;rsquo;s buttons, axes, and POV and assign each button an action. This program also lets you control each of the axes&amp;rsquo; sensitivity, and threshold. You can enjoy different profiles, and set a number of &amp;ldquo;&amp;ldquo;shift-buttons&amp;rdquo;&amp;rdquo; that can let you assign more than one action to each button, as well as add custom actions to the predefined collection. It supports up to 16 joysticks, with 32 buttons, 6 axes, and POV each.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://atzitznet.no-ip.org/Joy2Mouse3/help.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://atzitznet.no-ip.org/Joy2Mouse3/index.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-atzitznet-no-ip-org-joy2mouse3-index-html&#34;&gt;Download: &lt;a href=&#34;http://atzitznet.no-ip.org/Joy2Mouse3/index.html&#34;&gt;http://atzitznet.no-ip.org/Joy2Mouse3/index.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mouse Smoothing Software</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MouseSmoothingSoftware/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MouseSmoothingSoftware/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-mouse-smoothing-software&#34;&gt;What is Mouse Smoothing Software?&lt;/h2&gt;
+
+&lt;p&gt;Mouse Smoothing Software is assistive software for people with hand tremor. It is intended primarily for individuals with Essential (non-specific) Hand Tremor who have difficulty using a computer mouse. Significant improvement has been found for people who can basically control their hand, apart from a moderate degree of tremor.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h2&gt;
+
+&lt;p&gt;The key element of this software is a device driver program that attaches itself to the regular device driver program used to control the mouse. It intercepts the mouse motion data before it is used by the operating system and applies a low-pass digital filter to smooth out rapid, unwanted motion caused by hand tremor. The smoothed data is then passed along to the operating system, so that any program using the mouse will automatically receive smoothed mouse data. In addition to the device driver, the software includes a control panel program for personalizing the smoothing filter, as well as programs for installing and removing the driver. If the computer has more than one type of mouse connected, one can be left unsmoothed, allowing a user without hand tremor to easily share the computer.&lt;/p&gt;
+
+&lt;p&gt;The device driver works under the Windows® 2000 and XP operating systems. Windows 95, 98, and ME are not supported. Some mouse driver software supplied with certain mice does not work with this device driver. Instructions are supplied for identifying this software and disabling it using Window&amp;rsquo;s device manager, a process that requires some care and a modicum of computer expertise.&lt;/p&gt;
+
+&lt;p&gt;Mouse Smoothing Software has also become available as a hardware implementation (a microprocessor-based adapter connected between the mouse and the PC) called &lt;a _new=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;Assistive Mouse Adapter&lt;/a&gt;. It is manufactured and sold by Montrose-Secam, Ltd., under an agreement with IBM.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/mouse-smoothing-software/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alphaworks.ibm.com/tech/mousesmoothing&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alphaworks.ibm.com/tech/mousesmoothing/forum&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-alphaworks-ibm-com-tech-mousesmoothing-download&#34;&gt;Download: &lt;a href=&#34;http://www.alphaworks.ibm.com/tech/mousesmoothing/download&#34;&gt;http://www.alphaworks.ibm.com/tech/mousesmoothing/download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mouseketeer</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Mouseketeer/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Mouseketeer/</guid>
+      <description>
+
+&lt;p&gt;As summary&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fxc@btinternet.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-fxc-btinternet-co-uk-assistive-htm&#34;&gt;Download: &lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;http://www.fxc.btinternet.co.uk/assistive.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mousetweaks 2.23.2</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Mousetweaks2.23.2/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Mousetweaks2.23.2/</guid>
+      <description>
+
+&lt;div&gt;&lt;/div&gt;&lt;div&gt;The mousetweaks package provides the functions offered by the Accessibility&lt;div&gt; tab of the Mouse control panel of the GNOME Control Center. It also &lt;/div&gt;&lt;div&gt; contains two panel applets related to the mouse accessibility. More&lt;/div&gt;&lt;div&gt; particularly: &lt;/div&gt;  
+&lt;div&gt;  1. It offers a way to perform the various clicks without using any&lt;/div&gt;&lt;div&gt;     hardware button. In this context, the Dwell panel applet can be&lt;/div&gt;&lt;div&gt;     used to choose what click type to perform.&lt;/div&gt;  
+&lt;div&gt;  2. It allows users to perform a secondary click by doing a click&amp;hold&lt;/div&gt;&lt;div&gt;     of the primary mousebutton.&lt;/div&gt;  
+&lt;div&gt;  3. It provides the Pointer Capture panel applet. This applet creates&lt;/div&gt;&lt;div&gt;     an area on the panel into which the pointer can be captured until&lt;/div&gt;&lt;div&gt;     the user releases it with a predefined button and modifier &lt;/div&gt;&lt;div&gt;     combination.&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;The update of mousetweaks to version 2.23.2 has been released and can be downloaded from:
+
+&lt;a href=&#34;&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.23/&lt;/a&gt;
+
+ 
+
+49096e161e2ea5d54fd3996befd0355f  mousetweaks-2.23.2.tar.bz2
+
+b23e7e92ca97e65fe8841b6607506ca5  mousetweaks-2.23.2.tar.gz
+
+ 
+
+ 
+
+    Misc improvements/fixes:
+
+ 
+
+      \* Improve Assistive Technology warning. (# 531693)
+
+     
+
+    New and updated translations:
+
+**The update of mousetweaks to version 2.23.1** has been released and can be downloaded from:
+
+&lt;a href=&#34;&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.23/&lt;/a&gt;
+
+ 
+
+860978f50506ef9e93bbf553bc25c7a2  mousetweaks-2.23.1.tar.bz2
+
+af3bdaee42552ae4e2e43b38353167e3  mousetweaks-2.23.1.tar.gz
+
+=============
+
+What is new ?
+
+=============
+
+   New features:
+
+  \* Cursor animation.
+
+  \* Add simple line drawing for gesture mode.
+
+   Misc improvements/fixes
+
+  \* Move to dbus-glib.
+
+  \* Use new &#39;show-page&#39; option of mouse capplet.
+
+  \* Improve secondary clicks on gnome-panel.
+
+   Bug fixes:
+
+  #525032: Fix --as-needed linking.
+
+   New and updated translations:
+
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:francesco.fumanti@gmx.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-ftp-gnome-org-pub-gnome-sources-mousetweaks-2-21-mousetweaks-2-21-5-tar-gz&#34;&gt;Download: &lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.21/mousetweaks-2.21.5.tar.gz&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.21/mousetweaks-2.21.5.tar.gz&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MyFTC - My Freedom to Communicate</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MyFTC-MyFreedomtoCommunicate/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MyFTC-MyFreedomtoCommunicate/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/myftc/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:Daryl@bigmutty.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://myftc.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sourceforge-net-projects-myftc&#34;&gt;Download: &lt;a href=&#34;http://sourceforge.net/projects/myftc/&#34;&gt;http://sourceforge.net/projects/myftc/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Eyes</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/OpenEyes/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/OpenEyes/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
 
-&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
+&lt;p&gt;The purpose of openEyes is to provide a hardware design and a set of software tools useful for the analysis of eye movement data. The development of openEyes stems from the recognition in the eye tracking and human computer interaction communities that while the cost of hardware for eye tracking has precipitously dropped in the recent past that the there is lack of freely available software to implement even long-established eye-tracking methods. The tools available for this platform include algorithms to measure eye movements from digital videos, techniques to calibrate the eye tracking system, and example software to facilitate real-time eye-tracking application development.&lt;/p&gt;
 
-&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment:&lt;/h2&gt;
 
-&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
+&lt;p&gt;Note that there is no actuall software/hardware deliverables avaliable on this project at the moment. This is provided for information only.&lt;/p&gt;
 
-&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/open-eyes/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thirtysixthspan.com/openEyes/software.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-thirtysixthspan-com-openeyes-software-html&#34;&gt;Download: &lt;a href=&#34;http://thirtysixthspan.com/openEyes/software.html&#34;&gt;http://thirtysixthspan.com/openEyes/software.html&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     

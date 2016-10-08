@@ -351,29 +351,219 @@ Installation packages are available for different generations of MS Windows, Mac
     </item>
     
     <item>
-      <title>Two</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Two/</link>
+      <title>Free Speech for Android</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/FreeSpeechforAndroid/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Two/</guid>
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/FreeSpeechforAndroid/</guid>
       <description>
 
-&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+&lt;p&gt;Free Speech for Android is a free and open source sound board for people who have problems speaking. When you press a button, a sound is played.&lt;/p&gt;
 
-&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
+&lt;p&gt;You can use recorded sounds, record new sounds, or generate sounds using the built-in text-to-speech. All content can be created and edited using your Android device itself.&lt;/p&gt;
 
-&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
+&lt;p&gt;The full source code for free speech is available at:&lt;/p&gt;
 
-&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/duhrer/free-speech-for-android&#34;&gt;https://bitbucket.org/duhrer/free-speech-for-android&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more information and demo videos, check out our listing on the Google Play Store:&lt;/p&gt;
 
-&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.blogspot.tonyatkins.freespeech&#34;&gt;https://play.google.com/store/apps/details?id=com.blogspot.tonyatkins.freespeech&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:duhrer@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaze Talk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;The goal of the GazeTalk project is to develop an eye-tracking based ACC system that supports several languages, facilitates fast text entry, and is both sufficiently feature-complete to be deployed as the primary AAC tool for users, yet sufficiently flexible and technically advanced to be used for research purposes. The system is designed for several target languages, initially Danish, English, Italian, German and Japanese.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;type-to-talk&lt;/li&gt;
+&lt;li&gt;writing&lt;/li&gt;
+&lt;li&gt;email&lt;/li&gt;
+&lt;li&gt;web – browser&lt;/li&gt;
+&lt;li&gt;Multimedia – player&lt;/li&gt;
+&lt;li&gt;PDF – reader&lt;/li&gt;
+&lt;li&gt;letter and word prediction, and word completion&lt;/li&gt;
+&lt;li&gt;speech output&lt;/li&gt;
+&lt;li&gt;can be operated by gaze, headtracking, mouse, joystick, or any other pointing device&lt;/li&gt;
+&lt;li&gt;supports step-scanning (new!)&lt;/li&gt;
+&lt;li&gt;supports users with low precision in their movements, or trackers with low accuracy&lt;/li&gt;
+&lt;li&gt;allows the user to use Dasher inside GazeTalk and to transfer the text written in Dasher back to GazeTalk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GazeTalk 5.0 has been designed and developed by the &lt;a href=&#34;&#34;&gt;Eye Gaze Interaction Group&lt;/a&gt; at the &lt;a href=&#34;&#34;&gt;IT University of Copenhagen&lt;/a&gt; and the IT-Lab at the Royal School of Library and Information Science, Copenhagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment&lt;/h2&gt;
+
+&lt;p&gt;This may also be a useful predictive communication system for literate people who use a mouse to access the computer (as well as eye-gaze).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cogain.org/results/applications/results/applications/gazetalk/Short_manual_for_GazeTalk_5_2%20_2.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gazegroup.org/research/15&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cogain-org-wiki-gazetalk&#34;&gt;Download: &lt;a href=&#34;http://www.cogain.org/wiki/Gazetalk&#34;&gt;http://www.cogain.org/wiki/Gazetalk&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICUTalk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ICUTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ICUTalk/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:andy.judson@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morseall</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</guid>
+      <description>
+
+&lt;p&gt;Morseall allows people with limited mobility to use a computer.&lt;br /&gt;
+Morseall is free software, distrubuted under a licese that guarantees future availability.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Morseall allows you to control your Linux computer by tapping morse code on the mouse buttons.&lt;/li&gt;
+&lt;li&gt;The left button is for dots. Hold it longer for dashes.&lt;br /&gt;
+The right button is for dashes. It is faster than holding down the Left.&lt;br /&gt;
+The middle button is for &amp;ldquo;&amp;ldquo;finishing&amp;rdquo;&amp;rdquo; and repeating characters.&lt;/li&gt;
+&lt;li&gt;If you can control one, two, or three switches, you can use morseall at at your own pace.&lt;/li&gt;
+&lt;li&gt;Morseall can use your existing accessibility switches!&lt;br /&gt;
+Ask a rehabilitation professional to solder a jack onto a &amp;ldquo;&amp;ldquo;sacrificial&amp;rdquo;&amp;rdquo; three-button mouse.&lt;br /&gt;
+It should be easy to hook up your current switch set for long-term morse-code computer use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://freshmeat.net/projects/morseall/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:pehr@alum.mit.edu&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://morseall.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?group_id=808&amp;amp;atid=100808&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-morseall-org&#34;&gt;Download: &lt;a href=&#34;http://morseall.org/&#34;&gt;http://morseall.org/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mulberry symbol set</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Mulberrysymbolset/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Mulberrysymbolset/</guid>
+      <description>
+
+&lt;p&gt;Working locally in Essex, UK. our software is free, but in the past we always had to purchase commercial symbol sets to accompany our products. &lt;/p&gt;
+
+&lt;p&gt;This is a fully funded project to develop the Mulberry Symbol Set.  It will be free of cost to everyone and distributed with a Creative Commons BY-SA license (essentially making these images &amp;ldquo;&amp;ldquo;open source&amp;rdquo;&amp;rdquo; -  that is, the user will be free to copy, distribute or amend these images as they see fit).   You will be able to use them with any software that supports .wmf format.   This includes, with permission, commercial products.&lt;/p&gt;
+
+&lt;p&gt;A team of people are now producing symbols with 2500 now available with a further 1000 in production. &lt;/p&gt;
+
+&lt;p&gt;Prior to publishing each new batch of symbols, they are reviewed by a team of professionals (such as speech and language therapists, teachers and classroom assistants and representatives from suppliers of AAC devices).    If you would like to join the team of people who review these symbols, please let us know at &lt;a href=&#34;&#34; mailto:support=&#34;&#34;&gt;support@straight-street.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;                       &lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/straight-street-symbol-set/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:support@straight-street.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.straight-street.com/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-straight-street-com&#34;&gt;Download: &lt;a href=&#34;http://www.straight-street.com/&#34;&gt;http://www.straight-street.com/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultiMail</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MultiMail/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MultiMail/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deakin.edu.au/buslaw/infosys/multiweb/Training/training.htm&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:susank@deakin.edu.au&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.archive.org/web/20010412031648/http://mis.deakin.edu.au/multiweb/mmindex.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-web-archive-org-web-20010412031648-http-mis-deakin-edu-au-multiweb-mmindex-htm&#34;&gt;Download: &lt;a href=&#34;http://web.archive.org/web/20010412031648/http://mis.deakin.edu.au/multiweb/mmindex.htm&#34;&gt;http://web.archive.org/web/20010412031648/http://mis.deakin.edu.au/multiweb/mmindex.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MyFTC - My Freedom to Communicate</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MyFTC-MyFreedomtoCommunicate/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MyFTC-MyFreedomtoCommunicate/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/myftc/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:Daryl@bigmutty.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://myftc.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sourceforge-net-projects-myftc&#34;&gt;Download: &lt;a href=&#34;http://sourceforge.net/projects/myftc/&#34;&gt;http://sourceforge.net/projects/myftc/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plaphoons</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Plaphoons/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Plaphoons/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lagares.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-xtec-cat-jlagares-eduespe-htm-plaphoons&#34;&gt;Download: &lt;a href=&#34;http://www.xtec.cat/~jlagares/eduespe.htm#PLAPHOONS&#34;&gt;http://www.xtec.cat/~jlagares/eduespe.htm#PLAPHOONS&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     

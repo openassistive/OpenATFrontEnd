@@ -274,5 +274,208 @@ Instructors&lt;br /&gt;&lt;/li&gt;
 </description>
     </item>
     
+    <item>
+      <title>Enable Viacam</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EnableViacam/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EnableViacam/</guid>
+      <description>
+
+&lt;h2 id=&#34;about-this-project&#34;&gt;About this project&lt;/h2&gt;
+
+&lt;p&gt;Enable Viacam can be used as a full alternative or as a complement to a conventional computer mouse. It is especially useful for people with motor impairments in their hands or their arms (due to bone injuries, ALS, multiple sclerosis, cerebral palsy, spinal cord injuries, muscular dystrophy, amputations, etc.). Enable Viacam provides them with an effective and reliable solution for human-computer interaction.&lt;/p&gt;
+
+&lt;p&gt;Core features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hands-Free:&lt;/strong&gt; Control your computer with intuitive head movements. No need to use your hands — the pointer will obey!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unobtrusive:&lt;/strong&gt; Works with any good webcam. No cables, no dots, no additional hardware required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible:&lt;/strong&gt; Click and choose clicking options by way of either pointer dwelling or by external means.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User-centred:&lt;/strong&gt; Developed and tested in close collaboration with users from the &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;APPC Cerebral Palsy Centre&lt;/a&gt; in Tarragona (Spain).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Customizable:&lt;/strong&gt; Pointer speed, movement acceleration and smoothness, dwelling time, and many other variables can be adjusted to fit the user&amp;rsquo;s needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mature:&lt;/strong&gt; Based on the award winning &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;Facial Mouse&lt;/a&gt; software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-platform:&lt;/strong&gt; currently, eViacam runs on Windows 2000/XP/Vista and Linux (KDE/GNOME)
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;official-site&#34;&gt;Official site&lt;/h2&gt;
+
+&lt;p&gt;More information and downloads: &lt;a _blank=&#34;&#34; href=&#34;&#34; target=&#34;&#34;&gt;&lt;a href=&#34;http://viacam.org&#34;&gt;http://viacam.org&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;eViacam is realeased under GNU/GPL license.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cesar@crea-si.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eviacam.sourceforge.net/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sourceforge-net-projects-eviacam&#34;&gt;Download: &lt;a href=&#34;http://sourceforge.net/projects/eviacam/&#34;&gt;http://sourceforge.net/projects/eviacam/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everyday Skills</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EverydaySkills/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EverydaySkills/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/everyday_skills_manual.doc&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/feedback.html&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hark The Sound</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/HarkTheSound/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/HarkTheSound/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-author&#34;&gt;From the author:&lt;/h2&gt;
+
+&lt;h3 id=&#34;what-is-it-like&#34;&gt;What is it like?&lt;/h3&gt;
+
+&lt;p&gt;The object of the game is to name a sound or tune that is presented as a prompt. A typical round in &lt;em&gt;Name That Animal&lt;/em&gt; goes like this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You hear &amp;ldquo;&amp;ldquo;Can you name this animal?&amp;rdquo;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Then an animal sound is played, for example a dog barking.&lt;/li&gt;
+&lt;li&gt;You use the &lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; arrow keys on the keyboard to move through and hear the possible answers. In this case they might be &amp;ldquo;&amp;ldquo;Cat&amp;rdquo;&amp;ldquo;, &amp;ldquo;&amp;ldquo;Dog&amp;rdquo;&amp;ldquo;, &amp;ldquo;&amp;ldquo;Elephant&amp;rdquo;&amp;ldquo;, and &amp;ldquo;&amp;ldquo;Horse&amp;rdquo;&amp;ldquo;.&lt;/li&gt;
+&lt;li&gt;In some games, the &lt;em&gt;down&lt;/em&gt; arrow key will give a hint about the correct answer.&lt;/li&gt;
+&lt;li&gt;When you hear the correct answer, you press the &lt;em&gt;up&lt;/em&gt; arrow key to guess.&lt;/li&gt;
+&lt;li&gt;If the chosen answer is correct, you will hear a &lt;em&gt;reward&lt;/em&gt; sound which might be a crowd cheering, or a musical fan fare. If the answer is incorrect, you will hear &amp;ldquo;&amp;ldquo;Try again.&amp;rdquo;&amp;ldquo;.&lt;/li&gt;
+&lt;li&gt;The process then repeats playing another one of the sounds for the four animals.&lt;/li&gt;
+&lt;li&gt;When all the animals in the group have been played, the game begins another round with four more animals.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When &lt;strong&gt;Hark The Sound&lt;/strong&gt; first starts it says &amp;ldquo;&amp;ldquo;Use the left or right arrow keys to choose a game to play.&amp;rdquo;&amp;rdquo; Using the arrow keys you can move through and hear the choices for games (listed below). When you hear a game you want to play, use the &lt;em&gt;up&lt;/em&gt; arrow key to select it.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Escape&lt;/em&gt; key (often labeled &lt;strong&gt;ESC&lt;/strong&gt; in the upper left corner of the keyboard) will quit the current game and return to the game selections.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-games-are-available&#34;&gt;What games are available?&lt;/h2&gt;
+
+&lt;p&gt;All the games follow the same general pattern as described above of Question, Prompt, Answers, Reward. Games that ship with version 1.2 of &lt;strong&gt;Hark The Sound&lt;/strong&gt; include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Braille Letters: The question is &amp;ldquo;&amp;ldquo;Can you name this Braille letter?&amp;rdquo;&amp;ldquo;. The prompts are the dots of a letter. The answers are the letter along with a word that begins with that letter to make it easier to hear.&lt;/li&gt;
+&lt;li&gt;Braille Whole Word Contractions: The question is &amp;ldquo;&amp;ldquo;Can you name this Braille whole word contraction?&amp;rdquo;&amp;rdquo; The prompts are the dots in a Braille letter that is a whole word contraction. The word is the answer.&lt;/li&gt;
+&lt;li&gt;Counting: Counting repeated animal sounds for numbers one through nine.&lt;/li&gt;
+&lt;li&gt;Multiplication drills: The full multiplication table up to 12 times 12. The question is &amp;ldquo;&amp;ldquo;What is this product?&amp;rdquo;&amp;ldquo;. The prompts are products like &amp;ldquo;&amp;ldquo;2 times 3&amp;rdquo;&amp;rdquo; and the answers are numbers from 0 through 144.&lt;/li&gt;
+&lt;li&gt;Name That Animal: Animal sounds are the prompts. The animal&amp;rsquo;s names are the answers.&lt;/li&gt;
+&lt;li&gt;Name that capital&amp;rsquo;s State: A challenging game of State Capitals. The question is &amp;ldquo;&amp;ldquo;Can you name the state whose capital is&amp;hellip;&amp;rdquo;&amp;ldquo;, the prompts are the names of capital cities. The answers are the names of the 50 states.&lt;/li&gt;
+&lt;li&gt;Name that Classical Tune: Midi versions of famous classical music are the prompts. The composer&amp;rsquo;s name and the name of the work are included in the answer.&lt;/li&gt;
+&lt;li&gt;Name that color: The question is &amp;ldquo;&amp;ldquo;What color is this?&amp;rdquo;&amp;ldquo;, the prompts are common objects, and the answers are their colors.&lt;/li&gt;
+&lt;li&gt;Name That Country Music Tune: Country music classics rendered in Midi. Composer and name are the answer.&lt;/li&gt;
+&lt;li&gt;Name that holiday: Identify holidays from hints.&lt;/li&gt;
+&lt;li&gt;Name that Kids Tune: Midi tunes like &amp;ldquo;&amp;ldquo;Head Shoulders Knees and Toes&amp;rdquo;&amp;ldquo;.&lt;/li&gt;
+&lt;li&gt;Name that Rock and Roll Tune: Classic rock and roll tunes rendered in Midi with the artist and title for the answer.&lt;/li&gt;
+&lt;li&gt;Name that Sound: Environmental sounds, such as &amp;ldquo;&amp;ldquo;clock ticking&amp;rdquo;&amp;rdquo; and &amp;ldquo;&amp;ldquo;glass breaking&amp;rdquo;&amp;rdquo; are the prompts&lt;/li&gt;
+&lt;li&gt;Spelling Words: The prompt is a word spelled out. The answer is the word pronounced.&lt;/li&gt;
+&lt;li&gt;State Nick Names: A challenging game to identify the nick name for a state given its name.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/hark-the-sound/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.unc.edu/Research/assist/Hark/index.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cs-unc-edu-gb-research-hark-the-sound-install-instructions-html&#34;&gt;Download: &lt;a href=&#34;http://www.cs.unc.edu/~gb/research/hark-the-sound/install-instructions.html&#34;&gt;http://www.cs.unc.edu/~gb/research/hark-the-sound/install-instructions.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inclusive CD Player</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/InclusiveCDPlayer/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/InclusiveCDPlayer/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inclusive.co.uk/downloads/inc_cd_readme.doc&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inclusive.co.uk/downloads/downloads.shtml#cdplayer&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-inclusive-co-uk-downloads-inclusive-cd-player-exe&#34;&gt;Download: &lt;a href=&#34;http://www.inclusive.co.uk/downloads/Inclusive_CD_Player.exe&#34;&gt;http://www.inclusive.co.uk/downloads/Inclusive_CD_Player.exe&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MQA Spell Checker</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MQASpellChecker/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MQASpellChecker/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-the-authors-say&#34;&gt;What the authors say:&lt;/h2&gt;
+
+&lt;p&gt;Spell Checker checks the spelling of any edit control in almost any application under Windows 3.1/95/98. The program was designed to run under Windows 3.1. Though it will operate under Windows &lt;sup&gt;95&lt;/sup&gt;&amp;frasl;&lt;sub&gt;98&lt;/sub&gt;, it is &lt;strong&gt;&lt;em&gt;not compatible with&lt;/em&gt;&lt;/strong&gt; later versions (2000, ME, XP). It runs in the background and is brought into use in any edit window by pressing a hot-key combination. Master dictionaries are available in several languages and fully editable and searchable custom dictionaries can be created. The system requirements are modest and it should run on any computer.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/MQASpellChecker/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:mqa@quinion.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quinion.com/mqa/spell.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-quinion-com-mqa-spell-htm&#34;&gt;Download: &lt;a href=&#34;http://www.quinion.com/mqa/spell.htm&#34;&gt;http://www.quinion.com/mqa/spell.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Reader</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/MicrosoftReader/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/MicrosoftReader/</guid>
+      <description>
+
+&lt;p&gt;You must have Microsoft Reader installed on your machine before the Microsoft Reader Text-to-Speech Package can be installed. The Text-to-Speech Package is available in English, French and German.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment:&lt;/h2&gt;
+
+&lt;p&gt;This can be great for people who want to either:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read books but can&amp;rsquo;t turn pages (use in conjunction with a switch-input program)&lt;/li&gt;
+&lt;li&gt;Read books but struggle to see the text&lt;/li&gt;
+&lt;li&gt;Need some support in reading text (e.g. highlighting)
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/reader/info/default.asp&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/reader/default.asp&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-microsoft-com-reader-downloads-pc-aspx&#34;&gt;Download: &lt;a href=&#34;http://www.microsoft.com/reader/downloads/pc.aspx&#34;&gt;http://www.microsoft.com/reader/downloads/pc.aspx&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

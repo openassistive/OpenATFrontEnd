@@ -349,29 +349,273 @@ Installation packages are available for different generations of MS Windows, Mac
     </item>
     
     <item>
-      <title>Two</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Two/</link>
+      <title>EdWord and EdWeb</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Two/</guid>
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</guid>
       <description>
 
-&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
-
-&lt;p&gt;AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and &lt;strong&gt;Macintosh&lt;/strong&gt; computers.&lt;/p&gt;
-
-&lt;p&gt;AAC Keys receives commands through your computer&amp;rsquo;s serial port and translates them into keystrokes and mouse moves, giving you full control of your computer from another device. AAC Keys implements the common &lt;a href=&#34;&#34;&gt;&lt;strong&gt;GIDEI&lt;/strong&gt;&lt;/a&gt; (General Input Device Emulating Interface) commands (see below).&lt;/p&gt;
-
-&lt;p&gt;AAC Keys has been designed to work with Windows 95, Windows 98, Windows Me, Windows NT 4, and Windows 2000 operating systems.&lt;/p&gt;
-
-&lt;p&gt;A Macintosh version was developed following the introduction of OS X . (Earlier Macintosh operating systems included SerialKeys.) The Macintosh version was developed by computer science students at &lt;strong&gt;&lt;a href=&#34;&#34;&gt;Millersville University of Pennsylvania&lt;/a&gt;&lt;/strong&gt; under the supervision of &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Dr. Blaise Liffick&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeysHelp.html&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/software.html#ee&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:Paul.Blenkhorn@manchester.ac.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-edword-and-edweb-downloads-2-0-0-1-sense-edword-edweb-setup-exe-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/edword-and-edweb/downloads/2.0.0.1/Sense_EdWord-EdWeb_setup.exe&#34;&gt;http://www.oatsoft.org/Software/edword-and-edweb/downloads/2.0.0.1/Sense_EdWord-EdWeb_setup.exe&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free Speech for Android</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/FreeSpeechforAndroid/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/FreeSpeechforAndroid/</guid>
+      <description>
+
+&lt;p&gt;Free Speech for Android is a free and open source sound board for people who have problems speaking. When you press a button, a sound is played.&lt;/p&gt;
+
+&lt;p&gt;You can use recorded sounds, record new sounds, or generate sounds using the built-in text-to-speech. All content can be created and edited using your Android device itself.&lt;/p&gt;
+
+&lt;p&gt;The full source code for free speech is available at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/duhrer/free-speech-for-android&#34;&gt;https://bitbucket.org/duhrer/free-speech-for-android&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For more information and demo videos, check out our listing on the Google Play Store:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.blogspot.tonyatkins.freespeech&#34;&gt;https://play.google.com/store/apps/details?id=com.blogspot.tonyatkins.freespeech&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:duhrer@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaze Talk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;The goal of the GazeTalk project is to develop an eye-tracking based ACC system that supports several languages, facilitates fast text entry, and is both sufficiently feature-complete to be deployed as the primary AAC tool for users, yet sufficiently flexible and technically advanced to be used for research purposes. The system is designed for several target languages, initially Danish, English, Italian, German and Japanese.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;type-to-talk&lt;/li&gt;
+&lt;li&gt;writing&lt;/li&gt;
+&lt;li&gt;email&lt;/li&gt;
+&lt;li&gt;web – browser&lt;/li&gt;
+&lt;li&gt;Multimedia – player&lt;/li&gt;
+&lt;li&gt;PDF – reader&lt;/li&gt;
+&lt;li&gt;letter and word prediction, and word completion&lt;/li&gt;
+&lt;li&gt;speech output&lt;/li&gt;
+&lt;li&gt;can be operated by gaze, headtracking, mouse, joystick, or any other pointing device&lt;/li&gt;
+&lt;li&gt;supports step-scanning (new!)&lt;/li&gt;
+&lt;li&gt;supports users with low precision in their movements, or trackers with low accuracy&lt;/li&gt;
+&lt;li&gt;allows the user to use Dasher inside GazeTalk and to transfer the text written in Dasher back to GazeTalk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GazeTalk 5.0 has been designed and developed by the &lt;a href=&#34;&#34;&gt;Eye Gaze Interaction Group&lt;/a&gt; at the &lt;a href=&#34;&#34;&gt;IT University of Copenhagen&lt;/a&gt; and the IT-Lab at the Royal School of Library and Information Science, Copenhagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment&lt;/h2&gt;
+
+&lt;p&gt;This may also be a useful predictive communication system for literate people who use a mouse to access the computer (as well as eye-gaze).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cogain.org/results/applications/results/applications/gazetalk/Short_manual_for_GazeTalk_5_2%20_2.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gazegroup.org/research/15&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cogain-org-wiki-gazetalk&#34;&gt;Download: &lt;a href=&#34;http://www.cogain.org/wiki/Gazetalk&#34;&gt;http://www.cogain.org/wiki/Gazetalk&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hawking Toolbar</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/HawkingToolbar/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/HawkingToolbar/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:brett.clippingdale@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.clippingdale.com/accessibility/hawking/hawking.html&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-clippingdale-com-accessibility-hawking-status-html&#34;&gt;Download: &lt;a href=&#34;http://www.clippingdale.com/accessibility/hawking/status.html&#34;&gt;http://www.clippingdale.com/accessibility/hawking/status.html&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICUTalk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/ICUTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ICUTalk/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:andy.judson@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jambu</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Jambu/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Jambu/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:steve@fullmeasure.co.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/trac/jambu&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/trac/jambu/query&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morseall</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</guid>
+      <description>
+
+&lt;p&gt;Morseall allows people with limited mobility to use a computer.&lt;br /&gt;
+Morseall is free software, distrubuted under a licese that guarantees future availability.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Morseall allows you to control your Linux computer by tapping morse code on the mouse buttons.&lt;/li&gt;
+&lt;li&gt;The left button is for dots. Hold it longer for dashes.&lt;br /&gt;
+The right button is for dashes. It is faster than holding down the Left.&lt;br /&gt;
+The middle button is for &amp;ldquo;&amp;ldquo;finishing&amp;rdquo;&amp;rdquo; and repeating characters.&lt;/li&gt;
+&lt;li&gt;If you can control one, two, or three switches, you can use morseall at at your own pace.&lt;/li&gt;
+&lt;li&gt;Morseall can use your existing accessibility switches!&lt;br /&gt;
+Ask a rehabilitation professional to solder a jack onto a &amp;ldquo;&amp;ldquo;sacrificial&amp;rdquo;&amp;rdquo; three-button mouse.&lt;br /&gt;
+It should be easy to hook up your current switch set for long-term morse-code computer use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://freshmeat.net/projects/morseall/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:pehr@alum.mit.edu&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://morseall.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?group_id=808&amp;amp;atid=100808&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-morseall-org&#34;&gt;Download: &lt;a href=&#34;http://morseall.org/&#34;&gt;http://morseall.org/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mousetweaks 2.23.2</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Mousetweaks2.23.2/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Mousetweaks2.23.2/</guid>
+      <description>
+
+&lt;div&gt;&lt;/div&gt;&lt;div&gt;The mousetweaks package provides the functions offered by the Accessibility&lt;div&gt; tab of the Mouse control panel of the GNOME Control Center. It also &lt;/div&gt;&lt;div&gt; contains two panel applets related to the mouse accessibility. More&lt;/div&gt;&lt;div&gt; particularly: &lt;/div&gt;  
+&lt;div&gt;  1. It offers a way to perform the various clicks without using any&lt;/div&gt;&lt;div&gt;     hardware button. In this context, the Dwell panel applet can be&lt;/div&gt;&lt;div&gt;     used to choose what click type to perform.&lt;/div&gt;  
+&lt;div&gt;  2. It allows users to perform a secondary click by doing a click&amp;hold&lt;/div&gt;&lt;div&gt;     of the primary mousebutton.&lt;/div&gt;  
+&lt;div&gt;  3. It provides the Pointer Capture panel applet. This applet creates&lt;/div&gt;&lt;div&gt;     an area on the panel into which the pointer can be captured until&lt;/div&gt;&lt;div&gt;     the user releases it with a predefined button and modifier &lt;/div&gt;&lt;div&gt;     combination.&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;The update of mousetweaks to version 2.23.2 has been released and can be downloaded from:
+
+&lt;a href=&#34;&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.23/&lt;/a&gt;
+
+ 
+
+49096e161e2ea5d54fd3996befd0355f  mousetweaks-2.23.2.tar.bz2
+
+b23e7e92ca97e65fe8841b6607506ca5  mousetweaks-2.23.2.tar.gz
+
+ 
+
+ 
+
+    Misc improvements/fixes:
+
+ 
+
+      \* Improve Assistive Technology warning. (# 531693)
+
+     
+
+    New and updated translations:
+
+**The update of mousetweaks to version 2.23.1** has been released and can be downloaded from:
+
+&lt;a href=&#34;&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.23/&lt;/a&gt;
+
+ 
+
+860978f50506ef9e93bbf553bc25c7a2  mousetweaks-2.23.1.tar.bz2
+
+af3bdaee42552ae4e2e43b38353167e3  mousetweaks-2.23.1.tar.gz
+
+=============
+
+What is new ?
+
+=============
+
+   New features:
+
+  \* Cursor animation.
+
+  \* Add simple line drawing for gesture mode.
+
+   Misc improvements/fixes
+
+  \* Move to dbus-glib.
+
+  \* Use new &#39;show-page&#39; option of mouse capplet.
+
+  \* Improve secondary clicks on gnome-panel.
+
+   Bug fixes:
+
+  #525032: Fix --as-needed linking.
+
+   New and updated translations:
+
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:francesco.fumanti@gmx.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-ftp-gnome-org-pub-gnome-sources-mousetweaks-2-21-mousetweaks-2-21-5-tar-gz&#34;&gt;Download: &lt;a href=&#34;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.21/mousetweaks-2.21.5.tar.gz&#34;&gt;http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.21/mousetweaks-2.21.5.tar.gz&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     

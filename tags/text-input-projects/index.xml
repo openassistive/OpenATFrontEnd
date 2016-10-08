@@ -371,5 +371,167 @@ Installation packages are available for different generations of MS Windows, Mac
 </description>
     </item>
     
+    <item>
+      <title>EdWord and EdWeb</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/software.html#ee&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:Paul.Blenkhorn@manchester.ac.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.deafblindonline.org.uk/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-edword-and-edweb-downloads-2-0-0-1-sense-edword-edweb-setup-exe-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/edword-and-edweb/downloads/2.0.0.1/Sense_EdWord-EdWeb_setup.exe&#34;&gt;http://www.oatsoft.org/Software/edword-and-edweb/downloads/2.0.0.1/Sense_EdWord-EdWeb_setup.exe&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EdgeWrite</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EdgeWrite/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EdgeWrite/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite/downloads/EwQuick.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cs-cmu-edu-edgewrite-download&#34;&gt;Download: &lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite/#download&#34;&gt;http://www.cs.cmu.edu/~edgewrite/#download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GOK</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GOK/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GOK/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gok.ca/usermanual.shtml&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gok.ca/gok.shtml&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bugzilla.gnome.org/enter_bug.cgi?product=gok&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mail.gnome.org/mailman/listinfo/gnome-accessibility-list&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaze Talk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;The goal of the GazeTalk project is to develop an eye-tracking based ACC system that supports several languages, facilitates fast text entry, and is both sufficiently feature-complete to be deployed as the primary AAC tool for users, yet sufficiently flexible and technically advanced to be used for research purposes. The system is designed for several target languages, initially Danish, English, Italian, German and Japanese.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;type-to-talk&lt;/li&gt;
+&lt;li&gt;writing&lt;/li&gt;
+&lt;li&gt;email&lt;/li&gt;
+&lt;li&gt;web – browser&lt;/li&gt;
+&lt;li&gt;Multimedia – player&lt;/li&gt;
+&lt;li&gt;PDF – reader&lt;/li&gt;
+&lt;li&gt;letter and word prediction, and word completion&lt;/li&gt;
+&lt;li&gt;speech output&lt;/li&gt;
+&lt;li&gt;can be operated by gaze, headtracking, mouse, joystick, or any other pointing device&lt;/li&gt;
+&lt;li&gt;supports step-scanning (new!)&lt;/li&gt;
+&lt;li&gt;supports users with low precision in their movements, or trackers with low accuracy&lt;/li&gt;
+&lt;li&gt;allows the user to use Dasher inside GazeTalk and to transfer the text written in Dasher back to GazeTalk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GazeTalk 5.0 has been designed and developed by the &lt;a href=&#34;&#34;&gt;Eye Gaze Interaction Group&lt;/a&gt; at the &lt;a href=&#34;&#34;&gt;IT University of Copenhagen&lt;/a&gt; and the IT-Lab at the Royal School of Library and Information Science, Copenhagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment&lt;/h2&gt;
+
+&lt;p&gt;This may also be a useful predictive communication system for literate people who use a mouse to access the computer (as well as eye-gaze).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cogain.org/results/applications/results/applications/gazetalk/Short_manual_for_GazeTalk_5_2%20_2.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gazegroup.org/research/15&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cogain-org-wiki-gazetalk&#34;&gt;Download: &lt;a href=&#34;http://www.cogain.org/wiki/Gazetalk&#34;&gt;http://www.cogain.org/wiki/Gazetalk&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KeyCounter</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/KeyCounter/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/KeyCounter/</guid>
+      <description>
+
+&lt;p&gt;This application does not log keystrokes, and provides no reporting facilities. By hovering over the taskbar icon, you can quickly view the total of keypresses to date and for today.&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:fxc@btinternet.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-fxc-btinternet-co-uk-assistive-htm&#34;&gt;Download: &lt;a href=&#34;http://www.fxc.btinternet.co.uk/assistive.htm&#34;&gt;http://www.fxc.btinternet.co.uk/assistive.htm&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morseall</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Morseall/</guid>
+      <description>
+
+&lt;p&gt;Morseall allows people with limited mobility to use a computer.&lt;br /&gt;
+Morseall is free software, distrubuted under a licese that guarantees future availability.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Morseall allows you to control your Linux computer by tapping morse code on the mouse buttons.&lt;/li&gt;
+&lt;li&gt;The left button is for dots. Hold it longer for dashes.&lt;br /&gt;
+The right button is for dashes. It is faster than holding down the Left.&lt;br /&gt;
+The middle button is for &amp;ldquo;&amp;ldquo;finishing&amp;rdquo;&amp;rdquo; and repeating characters.&lt;/li&gt;
+&lt;li&gt;If you can control one, two, or three switches, you can use morseall at at your own pace.&lt;/li&gt;
+&lt;li&gt;Morseall can use your existing accessibility switches!&lt;br /&gt;
+Ask a rehabilitation professional to solder a jack onto a &amp;ldquo;&amp;ldquo;sacrificial&amp;rdquo;&amp;rdquo; three-button mouse.&lt;br /&gt;
+It should be easy to hook up your current switch set for long-term morse-code computer use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://freshmeat.net/projects/morseall/&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:pehr@alum.mit.edu&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://morseall.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/tracker/?group_id=808&amp;amp;atid=100808&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-morseall-org&#34;&gt;Download: &lt;a href=&#34;http://morseall.org/&#34;&gt;http://morseall.org/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

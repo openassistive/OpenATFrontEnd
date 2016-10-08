@@ -200,5 +200,277 @@ Installation packages are available for different generations of MS Windows, Mac
 </description>
     </item>
     
+    <item>
+      <title>GOK</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GOK/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GOK/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gok.ca/usermanual.shtml&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gok.ca/gok.shtml&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bugzilla.gnome.org/enter_bug.cgi?product=gok&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mail.gnome.org/mailman/listinfo/gnome-accessibility-list&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaze Talk</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/GazeTalk/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
+
+&lt;p&gt;The goal of the GazeTalk project is to develop an eye-tracking based ACC system that supports several languages, facilitates fast text entry, and is both sufficiently feature-complete to be deployed as the primary AAC tool for users, yet sufficiently flexible and technically advanced to be used for research purposes. The system is designed for several target languages, initially Danish, English, Italian, German and Japanese.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Main features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;type-to-talk&lt;/li&gt;
+&lt;li&gt;writing&lt;/li&gt;
+&lt;li&gt;email&lt;/li&gt;
+&lt;li&gt;web – browser&lt;/li&gt;
+&lt;li&gt;Multimedia – player&lt;/li&gt;
+&lt;li&gt;PDF – reader&lt;/li&gt;
+&lt;li&gt;letter and word prediction, and word completion&lt;/li&gt;
+&lt;li&gt;speech output&lt;/li&gt;
+&lt;li&gt;can be operated by gaze, headtracking, mouse, joystick, or any other pointing device&lt;/li&gt;
+&lt;li&gt;supports step-scanning (new!)&lt;/li&gt;
+&lt;li&gt;supports users with low precision in their movements, or trackers with low accuracy&lt;/li&gt;
+&lt;li&gt;allows the user to use Dasher inside GazeTalk and to transfer the text written in Dasher back to GazeTalk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;GazeTalk 5.0 has been designed and developed by the &lt;a href=&#34;&#34;&gt;Eye Gaze Interaction Group&lt;/a&gt; at the &lt;a href=&#34;&#34;&gt;IT University of Copenhagen&lt;/a&gt; and the IT-Lab at the Royal School of Library and Information Science, Copenhagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;oats-comment&#34;&gt;OATS Comment&lt;/h2&gt;
+
+&lt;p&gt;This may also be a useful predictive communication system for literate people who use a mouse to access the computer (as well as eye-gaze).&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cogain.org/results/applications/results/applications/gazetalk/Short_manual_for_GazeTalk_5_2%20_2.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gazegroup.org/research/15&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cogain-org-wiki-gazetalk&#34;&gt;Download: &lt;a href=&#34;http://www.cogain.org/wiki/Gazetalk&#34;&gt;http://www.cogain.org/wiki/Gazetalk&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jambu</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Jambu/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Jambu/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:steve@fullmeasure.co.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/trac/jambu&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/trac/jambu/query&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download&#34;&gt;Download:&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plaphoons</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Plaphoons/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Plaphoons/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lagares.org/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-xtec-cat-jlagares-eduespe-htm-plaphoons&#34;&gt;Download: &lt;a href=&#34;http://www.xtec.cat/~jlagares/eduespe.htm#PLAPHOONS&#34;&gt;http://www.xtec.cat/~jlagares/eduespe.htm#PLAPHOONS&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qwriting</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Qwriting/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Qwriting/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:simon.judge@nhs.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mrl.nyu.edu/projects/quikwriting/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-qwriting-downloads-2-1-qw-zip-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/qwriting/downloads/2.1/QW.zip&#34;&gt;http://www.oatsoft.org/Software/qwriting/downloads/2.1/QW.zip&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RapidKeys</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/RapidKeys/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/RapidKeys/</guid>
+      <description>
+
+&lt;p&gt;Also, RapidKeys has user-defined autoexpandable abbreviations. The user can define short sequences of characters that will be replaced with long sequences of characters when they are typed.&lt;/p&gt;
+
+&lt;p&gt;A similar mechanism is used for names. The user can define names and after this he can write them with lower letters, the names being automatically transformed to the proper form.&lt;/p&gt;
+
+&lt;p&gt;Other mechanisms are also used to minimize the number of clicks. An optional AutoCaps mechanism detects the end of sentences and temporarily switches for one capital letter. Buttons can be right-clicked for the alternative meaning.&lt;/p&gt;
+
+&lt;p&gt;RapidKeys is resizable. It is free for personal use (in a non-commercial enviroment). If you need to use it in a commercial enviroment, if you need technical support or if you need additional features (custom keyboard layouts, custom commands and so on), then contact the author.&lt;/p&gt;
+
+&lt;p&gt;Note: The link to the project homepage was broken and removed. An alternative page for information and download is:  &lt;a class=&#34;&#34; generated=&#34;&#34; href=&#34;&#34;&gt;&lt;a href=&#34;http://www.aidis.org/support/rapid_keys.php&#34;&gt;http://www.aidis.org/support/rapid_keys.php&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/rapidkeys-1/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:lucian.velea@softhome.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://groups.yahoo.com/group/rapidkeys/&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-simtel-net-product-download-mirrors-php-id-63957&#34;&gt;Download: &lt;a href=&#34;http://www.simtel.net/product.download.mirrors.php?id=63957&#34;&gt;http://www.simtel.net/product.download.mirrors.php?id=63957&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAW Resources</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/SAWResources/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/SAWResources/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:colven@ace-centre.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-saw-resources-downloads-2-6-saw-6-pdf-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/saw-resources/downloads/2.6/SAW_6.pdf&#34;&gt;http://www.oatsoft.org/Software/saw-resources/downloads/2.6/SAW_6.pdf&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple Control</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/SimpleControl/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/SimpleControl/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:simon.judge@nhs.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-simple-control-downloads-1-0-shortcut-to-simplecontrol1-zip-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/simple-control/downloads/1.0/Shortcut_to_SimpleControl1.zip&#34;&gt;http://www.oatsoft.org/Software/simple-control/downloads/1.0/Shortcut_to_SimpleControl1.zip&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Access To Windows</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/SpecialAccessToWindows/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/SpecialAccessToWindows/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ace-centre.org.uk/index.cfm?pageid=2989F7F8-3048-7290-FE1727AA17BB7C5F&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/SpecialAccessToWindows/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/trac/saw&#34;&gt;Report A Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sourceforge-net-projects-sawat&#34;&gt;Download: &lt;a href=&#34;http://sourceforge.net/projects/sawat/&#34;&gt;http://sourceforge.net/projects/sawat/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WWAAC Web Browser</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/WWAACWebBrowser/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/WWAACWebBrowser/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;From the Authors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The World-Wide Augmentative and Alternative Communication (WWAAC) project is an EU initiative to make web and email-based technology more accessible to people with communication, language and/or cognitive impairment and who use symbol systems.&lt;/p&gt;
+
+&lt;p&gt;The World-Wide Augmentative and Alternative Communication (WWAAC) project is a pan-European initiative to make web and email-based technology more accessible to people with communication, language and/or cognitive impairment and who use symbol systems.&lt;/p&gt;
+
+&lt;p&gt;In the context of these users the project addresses the development and early implementation of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Preliminary guidelines for syntax and semantic concept/text/message encoding.&lt;/li&gt;
+&lt;li&gt;Tools for text support - ie message conversion between symbols and symbols and symbols &amp;amp; text, with speech output.&lt;/li&gt;
+&lt;li&gt;Tools for task support - for web browsing and mail box handling.&lt;/li&gt;
+&lt;li&gt;Guidelines and tools for information presentation on the web for the target users.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Involvement of end users, state-of-the-art developers, and researchers should lead to commercially attractive and close-to-the-market products. A Code of Practice for webmasters and websites interested in symbol users will be drawn up, which, it is hoped, will be included in international standards.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For general information about WWAAC, visit the website at  &lt;a class=&#34;&#34; generated=&#34;&#34; href=&#34;&#34;&gt;&lt;a href=&#34;http://www.wwaac.eu/&#34;&gt;http://www.wwaac.eu/&lt;/a&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding agencies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;European Union Fifth Framework Programme - Telematics&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wwaac.org/products/browser.asp&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:colven@ace-centre.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wwaac.eu/products/browser.asp&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-wwaac-eu-products-browserdownload-asp&#34;&gt;Download: &lt;a href=&#34;http://www.wwaac.eu/products/browserdownload.asp&#34;&gt;http://www.wwaac.eu/products/browserdownload.asp&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WindowCatcher</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/WindowCatcher/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/WindowCatcher/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/windowcatcher/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:colven@ace-centre.org.uk&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-oatsoft-org-software-windowcatcher-downloads-1-02-windowcatchersetup-msi-warning-possible-dead-link&#34;&gt;Download: &lt;a href=&#34;http://www.oatsoft.org/Software/windowcatcher/downloads/1.02/WindowCatcherSetup.msi&#34;&gt;http://www.oatsoft.org/Software/windowcatcher/downloads/1.02/WindowCatcherSetup.msi&lt;/a&gt; (Warning: possible dead-link)&lt;/h3&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

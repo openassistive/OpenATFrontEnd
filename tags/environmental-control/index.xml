@@ -90,5 +90,115 @@ Installation packages are available for different generations of MS Windows, Mac
 </description>
     </item>
     
+    <item>
+      <title>EdgeWrite</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/EdgeWrite/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EdgeWrite/</guid>
+      <description>
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite/downloads/EwQuick.pdf&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-www-cs-cmu-edu-edgewrite-download&#34;&gt;Download: &lt;a href=&#34;http://www.cs.cmu.edu/~edgewrite/#download&#34;&gt;http://www.cs.cmu.edu/~edgewrite/#download&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SITPLUS</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/SITPLUS/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/SITPLUS/</guid>
+      <description>
+
+&lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
+
+&lt;p&gt;SITPLUS is a free software (GNU GPL) framework whose main goal is to provide ludic-therapeutic activities for people with disabilities. It offers new forms of interaction based on computer vision, voice and other peripherals to produce a result in the form of image and sound. Inspired by the cause and effect applications, SITPLUS provides a tool for continuous and remote interaction, attainable to the majority of people with cognitive, sensory and physical disabilities.&lt;/p&gt;
+
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Interaction based on motion picked up using a camera or a Wii Remote controller, and the user&amp;rsquo;s own voice.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Motion can be turned into MIDI sound and graphics. Specifically, a MIDI note player and a simple graphical engine are provided. Both can be customized adding new scores, pictures and behaviours.&lt;/li&gt;
+&lt;li&gt;User&amp;rsquo;s voice can be used to control the graphical output. Additionally, the voice can be processed using digital effects such as reverberation, echo or pitch shift before sending it back to the loudspeakers.&lt;/li&gt;
+&lt;li&gt;Different inputs methods can be used simultaneously.&lt;/li&gt;
+&lt;li&gt;Built-in scores and image banks.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Graphical UI which allows to tune the behaviour of the software in real-time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Modular design which allows to develop new activities using a data-flow based scripting language.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compatible with GNU/Linux and Windows.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:cesar@crea-si.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sitplus.crea-si.com/&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-sitplus-crea-si-com-downloads&#34;&gt;Download: &lt;a href=&#34;http://sitplus.crea-si.com/downloads&#34;&gt;http://sitplus.crea-si.com/downloads&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mouseTrap</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/mouseTrap/</link>
+      <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/mouseTrap/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;1) History:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;mouseTrap started as a simple widgetsTrap (read bellow), while the development advanced new ideas were coming and one of them was the idea of creating an application to move the mouse with the head using a simple and low cost web cam. After doing some research I found OpenCV ( base library of mouseTrap ). After downloading and testing OpenCV I found out that it is capable to do amazing things including face detection. After this I just performed some other tests and apply everything into mouseTrap and so the Web Cam feature became the main function of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2)&lt;/strong&gt; &lt;strong&gt;Project Main Goal:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The main goal of the project is to become a completely accessible application for people with movement impairments and so take care of that important part of accessibility that wasn’t covered until now. With this, It’s possible to expand even more the Assistive Technology and Computer Accessibility and so make the technology accessible for more people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3) What does mouseTrap use to model the head movement into mouse movement?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It calculates the 2D coordinates variation of the face movement on the Web Cam image and after that it executes the required movements with the pointer. It is a really simple calculation that gives an absolute and flexible control. The required movement is completely customizable by the user through the gtk based GUI.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4) Other Important Features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WidgetsTrap&lt;/strong&gt;: The widgetsTrap is a time-out focus executer feature that catches all the selectable and focusable widgets of the current window ( Desktop or any other application ) and if the mouse hasn’t been moved in the setted time-out the nearest selectable or focusable widget will be focused. A demonstration video can be found &lt;a _self=&#34;&#34; demo=&#34;&#34; href=&#34;&#34; target=&#34;&#34; title=&#34;&#34; widgetstrap=&#34;&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HttpServer:&lt;/strong&gt; It is a basic httpServer to communicate with mouseTrap using command line ( wget ) or a simple web browser.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KeyBindings:&lt;/strong&gt; Yes Keybindings! The keybindings let the user perform some extra mouseTrap actions like, re-detect points, enable/disable features and so on…&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mousebindings&lt;/strong&gt;: There are also mousebindings for the main or most important actions ( like re-detect points ) so the can be executed using the Web Cam too requiring less movement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internationalisation:&lt;/strong&gt; multi language support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;5) Future Features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eyetraking:&lt;/strong&gt; This is the most important feature to implement, hopefully in a short future. This will allow the user to move the mouse just with the eyes, just watching the point in the screen where the mouse should be moved.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugins Interface&lt;/strong&gt;: a simple interface for plugins implementations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;More Features to add soon…&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:flaper87@gmail.com&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://live.gnome.org/MouseTrap&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;download-http-git-gnome-org-browse-mousetrap&#34;&gt;Download: &lt;a href=&#34;http://git.gnome.org/browse/mousetrap/&#34;&gt;http://git.gnome.org/browse/mousetrap/&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
