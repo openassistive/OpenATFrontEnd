@@ -1,0 +1,30 @@
+# Site settings
+baseurl = "https://openassistive.github.io/OpenATFrontEnd/"
+languageCode = "en-us"
+title = "OpenAssistive - Open source Assistive Technology Solutions"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+metaDataForma = "yaml"
+
+[params]
+    # Meta
+    title = "OpenAssistive - Open source Assistive Technology Solutions"
+    subtitle = "A site to collate, discuss and find solutions"
+    author = "OpenAT"
+    description = "Hugrid - grid theme for Hugo with an expanding image preview."
+    keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
+
+    # Body background color
+  	bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Get it"
+
+    # Footer text
+    footertext = "Made by ACE Centre"
