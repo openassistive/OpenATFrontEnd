@@ -14,6 +14,19 @@ a front-end to OpenAssistive.
 1. cd OpenATFrontEnd
 2. hugo server --buildDrafts
 
+
+## To create a new item
+
+1. hugo new -k item name-of-item.md
+2. edit content/item/name-of-item.md
+
+or
+
+1. cd content/item
+2. touch name-of-item.md
+3. edit name-of-item.md
+
+
 ## To export the site to gh-pages (linux/mac)
 
 1. hugo -d dist --buildDrafts
