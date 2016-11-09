@@ -24,4 +24,4 @@ script:
 
 after_success:
 - echo "openassistive.com" > ./public/CNAME
-- ./scripts/deploy.sh
+- bash scripts/deploy.sh
