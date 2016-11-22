@@ -1,4 +1,6 @@
 # OpenATFrontEnd
+[![Build Status](https://travis-ci.org/openassistive/OpenATFrontEnd.svg?branch=master)](https://travis-ci.org/openassistive/OpenATFrontEnd)
+
 a front-end to OpenAssistive. 
 
 ## To run locally (for the first time)
