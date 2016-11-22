@@ -17,7 +17,7 @@ a front-end to OpenAssistive.
 
 ## To create a new item
 
-1. hugo new -k item name-of-item.md
+1. hugo new item/name-of-item.md
 2. edit content/item/name-of-item.md
 
 or
