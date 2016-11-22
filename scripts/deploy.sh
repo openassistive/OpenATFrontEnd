@@ -10,6 +10,11 @@ if [ ! -d "$SOURCE_DIR" ]; then
 fi
  
 REPO=$(git config remote.origin.url)
+
+echo "repo: $REPO"
+echo "source dir: $SOURCE_DIR"
+
+
  
 if [ -n "$TRAVIS_BUILD_ID" ]; then
   # When running on Travis we need to use SSH to deploy to GitHub
@@ -31,7 +36,7 @@ if [ -n "$TRAVIS_BUILD_ID" ]; then
   echo GIT_NAME: $GIT_NAME
   echo GIT_EMAIL: $GIT_EMAIL
   if [ "$TRAVIS_BRANCH" != "$DEPLOY_BRANCH" ]; then
-    echo "Travis should only deploy from the DEPLOY_BRANCH ($DEPLOY_BRANCH) branch"
+    echo "Travis should only deploy from the DEPLOY_BRANCH ($DEPLOY_BRANCH) (Travis branch: $TRAVIS_BRANCH) branch"
     exit 0
   else
     if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
