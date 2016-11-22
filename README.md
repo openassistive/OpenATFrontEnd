@@ -30,7 +30,7 @@ or
 ## To export the site to gh-pages (linux/mac)
 
 1. hugo -d dist --buildDrafts
-2. ./scripts/deploy2.sh 
+2. ./scripts/deploy_locally.sh 
 
 ## To export the site to gh-pages (windows or other)
 
