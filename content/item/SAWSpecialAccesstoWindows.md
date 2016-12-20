@@ -7,8 +7,8 @@ datemod:2016-10-22 00:00
 download_url:http://www.sourceforge.net/projects/sawat/files/latest/download
 project_url:http://www.oatsoft.org/Software/SpecialAccessToWindows
 description:SAW - Special Access to Windows download. SAW - Special Access to Windows 2016-10-22 19:28:58 free download. SAW - Special Access to Windows SAW - Special Access to Windows - a programmable on-screen keyboard.
-image:images/.png
-thumb:images/-thumb.png
+image:images/SAWSpecialAccesstoWindows.png
+thumb:images/SAWSpecialAccesstoWindows-thumb.png
 original_url:http://www.sourceforge.net/projects/sawat
 short_title:SAWSpecialAccesstoWindows
 image_download:http://a.fsdn.com/con/app/proj/sawat/screenshots/330961.jpg/182/137
