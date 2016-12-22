@@ -11,7 +11,7 @@ image:images/SAWSpecialAccesstoWindows.png
 thumb:images/SAWSpecialAccesstoWindows-thumb.png
 original_url:http://www.sourceforge.net/projects/sawat
 short_title:SAWSpecialAccesstoWindows
-image_download:http://a.fsdn.com/con/app/proj/sawat/screenshots/330961.jpg/182/137
+image_download:http://a.fsdn.com/con/app/proj/sawat/screenshots/330961.jpg/182/137/1
 
 ---
 SAW - Special Access to Windows - is a programmable on-screen keyboard. It is a powerful tool for providing Access to the Windows operating system for people who need alternative Switch or Pointing device input options.  
