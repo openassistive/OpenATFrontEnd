@@ -18,5 +18,6 @@ thumb:images/SLOPrintedLensCamera-thumb.png
 original_url:http://www.pinshape.com/items/25871-3d-printed-slo-printed-lens-camera
 short_title:SLOPrintedLensCamera
 image_download:http://assets.pinshape.com/uploads/image/file/100675/container_slo-printed-lens-camera-3d-printing-100675.jpg
+tags:alternative and augmentative communication,communication,computer automation
 
 ---
