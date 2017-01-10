@@ -32,11 +32,15 @@ rm -rf out/**/* || exit 0
 
 # Run our compile script
 doCompile
+echo "done compile"
 
 # Now let's go have some fun with the cloned repo
 cd out
+ls
+pwd
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
+
 
 # If there are no changes to the compiled out (e.g. this is a README update) then just bail.
 if [ -z `git diff --exit-code` ]; then
@@ -48,6 +52,7 @@ fi
 # The delta will show diffs between new and old versions.
 git add .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
+echo "done commit"
 
 # Get the deploy key by using Travis's stored variables to decrypt travis_key.enc
 ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
@@ -58,6 +63,8 @@ openssl aes-256-cbc -K $ENCRYPTED_KEY -iv $ENCRYPTED_IV -in ../travis_key.enc -o
 chmod 600 deploy_key
 eval `ssh-agent -s`
 ssh-add deploy_key
+
+echo "done ssh"
 
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
