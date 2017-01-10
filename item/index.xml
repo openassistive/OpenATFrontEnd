@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Items on OpenAssistive - Open source Assistive Technology Solutions</title>
-    <link>https://openassistive.github.io/OpenATFrontEnd/item/index.xml</link>
+    <link>https://openassistive.github.io/OpenATFrontEnd/item/</link>
     <description>Recent content in Items on OpenAssistive - Open source Assistive Technology Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -484,21 +484,43 @@
     </item>
     
     <item>
-      <title>Another Lens</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AnotherLens/</link>
+      <title>Atutor</title>
+      <link>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AnotherLens/</guid>
+      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</guid>
       <description>
+
+&lt;h2 id=&#34;atutor-features&#34;&gt;ATutor Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility&lt;/strong&gt;: ATutor was designed with accessibility as a priority. A wide range of features ensure assistive technology users can participate fully in learner, instructor, and administrative activities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Courses&lt;/strong&gt; : Instructors and students can manage the ATutor courses they teach and/or are enrolled in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adaptive Navigation&lt;/strong&gt;: Learners can move through ATutor content using global, hierarchical, or sequential navigation tools. Navigation elements can be displayed as text, icons, or both text and icons, and they can be hidden to simplify the environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Work Groups&lt;/strong&gt;: When the ACollab add-on is installed on an ATutor system, learners can collaborate with others on course projects, communicate as a group with the forums and chat, share resources using their group library, schedule activities with the events calendar, and work together on project documents through the drafting room. Exercises or assignments can submitted to the group leader, or course instructor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feedback&lt;/strong&gt;: Following an action (such as saving preference settings, or posting a message), feedback is given on the status of the operation. This could be a success message, warnings to consider, or errors to fix.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Preference Settings&lt;/strong&gt;: Learners can control ATutor features and the theme ATutor is presented in.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication Tools&lt;/strong&gt;: Learners can communicate with others using ATutor&amp;rsquo;s private mail, the discussion forums, the chat rooms, or the &amp;ldquo;&amp;ldquo;User&amp;rsquo;s Online&amp;rdquo;&amp;rdquo; tool. Threads and messages can be sorted in a variety of ways. Students can communicate with those in other courses through shared forum, or a community forum. Subscribe to forums or topic threads to have forum messages sent by email.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Package Viewer&lt;/strong&gt;: Learners can export content from ATutor as Content Packages that can be viewed offline in the accompanying viewer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Tracker&lt;/strong&gt;: Learners can keep track of the content pages they have visited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Test Manager&lt;/strong&gt;: Learners can take tests, review test results, and keep track of their scores.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Glossary&lt;/strong&gt;: Words and phrases added to the glossary by the instructor, can be accessed from terms embedded within content pages, or viewed alphabetically in their entirety using the Glossary tool.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links Database&lt;/strong&gt;: Each course has a tool for collecting links to course related Web-based information. Both students and instructors can add links. Instructors can also manage them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Course Search&lt;/strong&gt;: A search engine allows learners to search course content. Search for courses in the course catalogue.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TILE Repository Search&lt;/strong&gt;: Learners can &lt;a href=&#34;&#34;&gt;search the TILE learning objects repository&lt;/a&gt; for content related to the topics they are studying, and download content packages for viewing offline.
+Instructors&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.oatsoft.org/Software/another-lens/help&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.b-zone.de/software/lens.htm&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sourceforge.net/docman/?group_id=21294&#34;&gt;Help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:greggy@users.sourceforge.net&#34;&gt;Contact Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/index.php&#34;&gt;Project Home Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.atutor.ca/forums/index.php&#34;&gt;Support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;download-http-www-b-zone-de-zips-lens-zip&#34;&gt;Download: &lt;a href=&#34;http://www.b-zone.de/zips/lens.zip&#34;&gt;http://www.b-zone.de/zips/lens.zip&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;download-http-www-atutor-ca-atutor-download-php&#34;&gt;Download: &lt;a href=&#34;http://www.atutor.ca/atutor/download.php&#34;&gt;http://www.atutor.ca/atutor/download.php&lt;/a&gt;&lt;/h3&gt;
 </description>
     </item>
     
