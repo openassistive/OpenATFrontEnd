@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text To Speech on OpenAssistive - Open source Assistive Technology Solutions</title>
-    <link>https://openassistive.github.io/OpenATFrontEnd/tags/text-to-speech/</link>
+    <link>https://openassistive.org/tags/text-to-speech/</link>
     <description>Recent content in Text To Speech on OpenAssistive - Open source Assistive Technology Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://openassistive.org/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AMIS</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <link>https://openassistive.org/item/AMIS/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <guid>https://openassistive.org/item/AMIS/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Accessible BBC Listen Again</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <link>https://openassistive.org/item/AccessibleBBCListenAgain/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <guid>https://openassistive.org/item/AccessibleBBCListenAgain/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Accessible RSS</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <link>https://openassistive.org/item/AccessibleRSS/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <guid>https://openassistive.org/item/AccessibleRSS/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Accessible Radio</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <link>https://openassistive.org/item/AccessibleRadio/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <guid>https://openassistive.org/item/AccessibleRadio/</guid>
       <description>
 
 &lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
@@ -105,10 +105,10 @@
     
     <item>
       <title>Accessible Web Directory</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <link>https://openassistive.org/item/AccessibleWebDirectory/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <guid>https://openassistive.org/item/AccessibleWebDirectory/</guid>
       <description>
 
 &lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
@@ -126,10 +126,10 @@
     
     <item>
       <title>AccessiblePodcatcher</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <link>https://openassistive.org/item/AccessiblePodcatcher/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <guid>https://openassistive.org/item/AccessiblePodcatcher/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -145,10 +145,10 @@
     
     <item>
       <title>Big Calculator</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</link>
+      <link>https://openassistive.org/item/BigCalculator/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/BigCalculator/</guid>
+      <guid>https://openassistive.org/item/BigCalculator/</guid>
       <description>
 
 &lt;p&gt;The size of the calculator buttons is determined by the WIDTH of the calculator window.&lt;/p&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>CHIP Speaking</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/CHIPSpeaking/</link>
+      <link>https://openassistive.org/item/CHIPSpeaking/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CHIPSpeaking/</guid>
+      <guid>https://openassistive.org/item/CHIPSpeaking/</guid>
       <description>
 
 &lt;p&gt;Unlike the flagship product, CHIPSpeaking™ , CHIPSpeech™  actually is written to assist PALS to record their voice as it is now, and preserve the phrases and sentences that are needed in everyday life, and recall them in their own voice, and save that speech indefinitely. The recordings are made and saved to disk in small files, which can be saved on diskette or backup media for use on other computers.&lt;/p&gt;
@@ -191,10 +191,10 @@
     
     <item>
       <title>CLiCk, Speak</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</link>
+      <link>https://openassistive.org/item/CLiCk,Speak/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/CLiCk,Speak/</guid>
+      <guid>https://openassistive.org/item/CLiCk,Speak/</guid>
       <description>
 
 &lt;p&gt;Unlike &lt;a href=&#34;&#34;&gt;Fire Vox&lt;/a&gt; which is designed for visually impaired users, CLiCk, Speak is designed for sighted users who want text-to-speech functionality. It doesn&amp;rsquo;t identify elements or announce events - two features that are very important for visually impaired users but very annoying for sighted users. It also has a simplified, mouse driven interface that is designed to be easy for users familiar with point-and-click graphical user interfaces. Like Fire Vox, CLiCk, Speak works on Windows, Macintosh, and Linux; and Fire Vox has multilingual support, making it great for users who are trying to learn a foreign language and need to hear foreign language web sites read out to them for practice.&lt;/p&gt;
@@ -220,10 +220,10 @@
     
     <item>
       <title>DSpeech</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</link>
+      <link>https://openassistive.org/item/DSpeech/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DSpeech/</guid>
+      <guid>https://openassistive.org/item/DSpeech/</guid>
       <description>
 
 &lt;p&gt;It is specifically designed to quickly and directly provide the functions and improved practical usefulness that are requested by this kind of program. In the meantime, the invasiveness and resource consumption is minimal.&lt;br /&gt;
@@ -269,10 +269,10 @@
     
     <item>
       <title>Daisy Pipeline</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</link>
+      <link>https://openassistive.org/item/DaisyPipeline/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DaisyPipeline/</guid>
+      <guid>https://openassistive.org/item/DaisyPipeline/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -288,10 +288,10 @@
     
     <item>
       <title>DonnerLaParole</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</link>
+      <link>https://openassistive.org/item/DonnerLaParole/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/DonnerLaParole/</guid>
+      <guid>https://openassistive.org/item/DonnerLaParole/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -369,10 +369,10 @@ Installation packages are available for different generations of MS Windows, Mac
     
     <item>
       <title>E-triloquist</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/E-triloquist/</link>
+      <link>https://openassistive.org/item/E-triloquist/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/E-triloquist/</guid>
+      <guid>https://openassistive.org/item/E-triloquist/</guid>
       <description>
 
 &lt;h3 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h3&gt;
@@ -393,10 +393,10 @@ Installation packages are available for different generations of MS Windows, Mac
     
     <item>
       <title>EdWord and EdWeb</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</link>
+      <link>https://openassistive.org/item/EdWordandEdWeb/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EdWordandEdWeb/</guid>
+      <guid>https://openassistive.org/item/EdWordandEdWeb/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -413,10 +413,10 @@ Installation packages are available for different generations of MS Windows, Mac
     
     <item>
       <title>EmacSpeak</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/EmacSpeak/</link>
+      <link>https://openassistive.org/item/EmacSpeak/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/EmacSpeak/</guid>
+      <guid>https://openassistive.org/item/EmacSpeak/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;

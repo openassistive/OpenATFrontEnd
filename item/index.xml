@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Items on OpenAssistive - Open source Assistive Technology Solutions</title>
-    <link>https://openassistive.github.io/OpenATFrontEnd/item/</link>
+    <link>https://openassistive.org/item/</link>
     <description>Recent content in Items on OpenAssistive - Open source Assistive Technology Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/item/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://openassistive.org/item/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AAC Keys</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</link>
+      <link>https://openassistive.org/item/AACKeys/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AACKeys/</guid>
+      <guid>https://openassistive.org/item/AACKeys/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>ACollab</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</link>
+      <link>https://openassistive.org/item/ACollab/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ACollab/</guid>
+      <guid>https://openassistive.org/item/ACollab/</guid>
       <description>
 
 &lt;p&gt;ACollab is available as a work groups &lt;strong&gt;addon for ATutor 1.4+&lt;/strong&gt; , and as a standalone collaborative work environment that will run on its own. ACollab is ideal for groups working at a distance developing documentation, collaborating on research, or writing joint papers, and ideal for online educators who wish to add group learning activities to their ATutor courses. A &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;demo&lt;/a&gt; and &lt;a acollab=&#34;&#34; href=&#34;&#34;&gt;download&lt;/a&gt; are available if you want to learn more. Or, read on for a list of &lt;a href=&#34;&#34; portal_factory=&#34;&#34;&gt;ACollab features&lt;/a&gt;.&lt;/p&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>AMIS</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</link>
+      <link>https://openassistive.org/item/AMIS/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AMIS/</guid>
+      <guid>https://openassistive.org/item/AMIS/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -101,10 +101,10 @@
     
     <item>
       <title>ARASAAC Pictograms</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</link>
+      <link>https://openassistive.org/item/ARASAACPictograms/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/ARASAACPictograms/</guid>
+      <guid>https://openassistive.org/item/ARASAACPictograms/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -129,10 +129,10 @@
     
     <item>
       <title>Accerciser</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Accerciser/</link>
+      <link>https://openassistive.org/item/Accerciser/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Accerciser/</guid>
+      <guid>https://openassistive.org/item/Accerciser/</guid>
       <description>
 
 &lt;p&gt;This is to announce the first development release of Accerciser for the 1.4.0 (GNOME 2.24) cycle.&lt;/p&gt;
@@ -193,10 +193,10 @@
     
     <item>
       <title>Accessible BBC Listen Again</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</link>
+      <link>https://openassistive.org/item/AccessibleBBCListenAgain/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleBBCListenAgain/</guid>
+      <guid>https://openassistive.org/item/AccessibleBBCListenAgain/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -217,10 +217,10 @@
     
     <item>
       <title>Accessible RSS</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</link>
+      <link>https://openassistive.org/item/AccessibleRSS/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRSS/</guid>
+      <guid>https://openassistive.org/item/AccessibleRSS/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the authors:&lt;/h2&gt;
@@ -245,10 +245,10 @@
     
     <item>
       <title>Accessible Radio</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</link>
+      <link>https://openassistive.org/item/AccessibleRadio/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleRadio/</guid>
+      <guid>https://openassistive.org/item/AccessibleRadio/</guid>
       <description>
 
 &lt;p&gt;Accessible Radio lets you listen to any of the BBC Radio stations.&lt;/p&gt;
@@ -265,10 +265,10 @@
     
     <item>
       <title>Accessible Web Directory</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</link>
+      <link>https://openassistive.org/item/AccessibleWebDirectory/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessibleWebDirectory/</guid>
+      <guid>https://openassistive.org/item/AccessibleWebDirectory/</guid>
       <description>
 
 &lt;p&gt;This simple program lets you explore the &lt;a href=&#34;&#34;&gt;DMOZ web directory&lt;/a&gt;, a catalogue of good websites. It&amp;rsquo;s an alternative way to find web pages of interest. Simply explore categories of web pages and when you find one you like in the catalogue Accessible Web Directory will open it in your default web browser.&lt;/p&gt;
@@ -286,10 +286,10 @@
     
     <item>
       <title>AccessiblePodcatcher</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</link>
+      <link>https://openassistive.org/item/AccessiblePodcatcher/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/AccessiblePodcatcher/</guid>
+      <guid>https://openassistive.org/item/AccessiblePodcatcher/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -305,10 +305,10 @@
     
     <item>
       <title>Acomm</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</link>
+      <link>https://openassistive.org/item/Acomm/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acomm/</guid>
+      <guid>https://openassistive.org/item/Acomm/</guid>
       <description>
 
 &lt;h2 id=&#34;acomm-features&#34;&gt;AComm Features&lt;/h2&gt;
@@ -354,10 +354,10 @@
     
     <item>
       <title>Acta</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</link>
+      <link>https://openassistive.org/item/Acta/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Acta/</guid>
+      <guid>https://openassistive.org/item/Acta/</guid>
       <description>
 
 &lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
@@ -373,10 +373,10 @@
     
     <item>
       <title>Agrip</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</link>
+      <link>https://openassistive.org/item/Agrip/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Agrip/</guid>
+      <guid>https://openassistive.org/item/Agrip/</guid>
       <description>
 
 &lt;h2 id=&#34;from-the-authors&#34;&gt;From the Authors:&lt;/h2&gt;
@@ -444,10 +444,10 @@
     
     <item>
       <title>Amaya</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</link>
+      <link>https://openassistive.org/item/Amaya/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Amaya/</guid>
+      <guid>https://openassistive.org/item/Amaya/</guid>
       <description>
 
 &lt;h2 id=&#34;w3c-s-editor-browser&#34;&gt;W3C&amp;rsquo;s Editor/Browser&lt;/h2&gt;
@@ -485,10 +485,10 @@
     
     <item>
       <title>Atutor</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</link>
+      <link>https://openassistive.org/item/Atutor/</link>
       <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/item/Atutor/</guid>
+      <guid>https://openassistive.org/item/Atutor/</guid>
       <description>
 
 &lt;h2 id=&#34;atutor-features&#34;&gt;ATutor Features&lt;/h2&gt;

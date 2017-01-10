@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on OpenAssistive - Open source Assistive Technology Solutions</title>
-    <link>https://openassistive.github.io/OpenATFrontEnd/post/</link>
+    <link>https://openassistive.org/post/</link>
     <description>Recent content in Posts on OpenAssistive - Open source Assistive Technology Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Oct 2016 19:21:17 +0100</lastBuildDate>
-    <atom:link href="https://openassistive.github.io/OpenATFrontEnd/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://openassistive.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>good to great</title>
-      <link>https://openassistive.github.io/OpenATFrontEnd/post/good-to-great/</link>
+      <link>https://openassistive.org/post/good-to-great/</link>
       <pubDate>Tue, 04 Oct 2016 19:21:17 +0100</pubDate>
       
-      <guid>https://openassistive.github.io/OpenATFrontEnd/post/good-to-great/</guid>
+      <guid>https://openassistive.org/post/good-to-great/</guid>
       <description></description>
     </item>
     
