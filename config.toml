@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://openassistive.github.io/OpenATFrontEnd/"
+baseurl = "https://openassistive.org"
 languageCode = "en-us"
 title = "OpenAssistive - Open source Assistive Technology Solutions"
 theme = "openat-hugrid"
