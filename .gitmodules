@@ -1,6 +1,3 @@
-[submodule "themes/opeat-hugrid"]
-	path = themes/opeat-hugrid
-	url = git://github.com/openassistive/openat-hugrid
-[submodule "themes/openat-hugrid"]
-	path = themes/openat-hugrid
-	url = git://github.com/openassistive/openat-hugrid
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = git@github.com:openassistive/hugo-tranquilpeak-theme.git
