@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Free Speech is a free and open source augmentative and alternative communication (AAC) program that provides a low-cost alternative to dedicated speech generating devices (SGD)."
 type: "Software"
 tags: ['Text to Speech','Alternative and Augmentative Communication','Communication' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

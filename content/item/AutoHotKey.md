@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "An open source macro style program that can re-map the mouse, keyboard and joystick functions as well as automate pretty much anything!"
 type: "Software"
 tags: ['Computer Automation','Other function','Using the Mouse','Alternative Access','Other need' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

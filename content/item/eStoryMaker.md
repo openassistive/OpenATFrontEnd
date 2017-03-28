@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "A simple means for assembling text, picture and sound files into an e-story that supports multiple access means."
 type: "Software"
 tags: ['Educational and Learning','Learning and Education' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "This is a TTS (Text To Speech) program with functionality of ASR (Automatic Speech Recognition) integrated. It is able to to read aloud the written text and choose the sentences to be pronounced based upon the vocal answers of the user."
 type: "Software"
 tags: ['Text to Speech','Text input Projects','Accessing the Web','General Tools' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

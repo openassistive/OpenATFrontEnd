@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "This software makes Linux accessible to the blind user."
 type: "Software"
 tags: ['Text to Speech','Other function','Viewing the screen', 'Possible-404']
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

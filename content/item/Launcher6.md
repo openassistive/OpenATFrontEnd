@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Launcher6 is a simplified, switch accessible user interface that can launch programs, act as an electronic speech device, or act as a multimedia game spinner for Windows computers. The launcher6 screen completely covers the screen offering 6 choices, but reducing the probability that the user will encounter the perhaps troublesome Windows interface. Multiple access methods and supports like auditory scanning are simultaneously supported. The built in editor saves any changes automatically as they are made."
 type: "Software"
 tags: ['Educational and Learning','Alternative Access' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

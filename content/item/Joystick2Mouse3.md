@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Joystick 2 Mouse lets you control your mouse and keyboard using your joystick or gamepad."
 type: "Software"
 tags: ['Other function','Using the Mouse','Alternative Access' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

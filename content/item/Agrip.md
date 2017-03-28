@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "The of this project aim is to provide access to the mainstream gaming community not by producing specialist \"\"accessible games\"\" but by making mainstream games - and their associated extension and development tools - accessible. Downloads include an accessible version of Quake, the popular PC game."
 type: "Software"
 tags: ['Computer Automation','General Tools','Alternative Access','General Tools' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

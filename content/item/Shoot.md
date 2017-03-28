@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Shoot is a speech recognition program that translates your voice commands into arbitrary keystrokes."
 type: "Software"
 tags: ['Other function','Alternative Access','Other need' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

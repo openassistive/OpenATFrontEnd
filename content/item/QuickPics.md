@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Software application to develop communication and language boards."
 type: "Software"
 tags: ['Alternative and Augmentative Communication','Communication', 'Possible-404']
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

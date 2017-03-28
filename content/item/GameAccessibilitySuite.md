@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Code library and utilities to enhance accessibility to existing and future games (Win32)."
 type: "Software"
 tags: ['General Tools','General Tools' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

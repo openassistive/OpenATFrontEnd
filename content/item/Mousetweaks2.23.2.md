@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Mousetweaks provides mouse accessibility enhancements for the GNOME desktop."
 type: "Software"
 tags: ['Switch Input Software','Alternative and Augmentative Communication','General Tools','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Accerciser is an interactive Python accessibility explorer for the GNOME desktop. It uses AT-SPI to inspect and control widgets, allowing you to check if an application is providing correct information to assistive technologies and automated test frameworks."
 type: "Software"
 tags: ['General Tools','General Tools' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "ACollab is an accessible, open source, multi-group, Web-based collaborative work environment. Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities."
 type: "Software"
 tags: ['Educational and Learning','Text input Projects','Alternative Access','Learning and Education' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

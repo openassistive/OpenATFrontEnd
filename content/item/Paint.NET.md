@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "A free (not open source) accessible painting program with powerful tools."
 type: "Software"
 tags: ['Educational and Learning','General Tools','Learning and Education','General Tools' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

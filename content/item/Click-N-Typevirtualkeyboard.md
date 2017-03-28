@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Click-N-Type is an on-screen virtual keyboard, giving access to the keyboard characters through the use of your mouse or other pointing device."
 type: "Software"
 tags: ['On Screen Keyboard Projects','Text input Projects','Alternative Access' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

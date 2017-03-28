@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Makes the web accessible for users with motor skill impairments"
 type: "Software"
 tags: ['Switch Input Software','Alternative and Augmentative Communication','Accessing the Web' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

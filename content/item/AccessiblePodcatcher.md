@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "AccessiblePodcatcher (formerly AccessiblePodcaster) is a simple way for blind and screen reader users to use podcasts."
 type: "Software"
 tags: ['Text to Speech','Viewing the screen','Accessing the Web' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

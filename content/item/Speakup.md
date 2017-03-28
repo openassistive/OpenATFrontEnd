@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Speakup, written by Kirk Reiser and Andy Berdan, is a screen review package for the Linux operating system."
 type: "Software"
 tags: ['Text to Speech','Other function','Viewing the screen' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

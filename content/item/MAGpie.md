@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "MAGpie 2.01 is a tool for creating closed captions and audio (video) descriptions. Authors can add captions and audio descriptions to QuickTime, Real, or Windows Media Player."
 type: "Software"
 tags: ['Text to Speech','Viewing the screen' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

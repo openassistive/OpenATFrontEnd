@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "mmFollow quite simply adds a cartoon character to the mouse cursor."
 type: "Software"
 tags: ['General Tools','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

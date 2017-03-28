@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Mac OSX CCHotKey is a small and simple application that launches any script you want after clicking any hotkey you want."
 type: "Software"
 tags: ['Computer Automation','Text input Projects','Alternative Access' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

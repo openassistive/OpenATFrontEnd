@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "A resource of 4769 free symbols (pictograms)."
 type: "Software"
 tags: ['Symbol Library','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

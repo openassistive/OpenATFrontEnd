@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via user-customizable combinations of speech, braille, and/or magnification."
 type: "Software"
 tags: ['Text to Speech','General Tools','Viewing the screen','Alternative Access','General Tools' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

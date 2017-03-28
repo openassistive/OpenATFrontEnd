@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "EdWord is a talking word processor that allows you to combine text with symbols.  EdWeb is a talking web browser that can display web pages as a combination of text and symbols."
 type: "Software"
 tags: ['Symbol Library','Text to Speech','Switch Input Software','Alternative and Augmentative Communication','Text input Projects','Accessing the Web','Symbols','Alternative Access', 'Possible-404']
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "My Freedom To Communicate (MyFTC) is Assistive Technology (AT) software that uses text-to-speech technology to enable nonverbal individuals to communicate easily in real life situations."
 type: "Software"
 tags: ['Text to Speech','Alternative and Augmentative Communication','General Tools','Text input Projects','Communication','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

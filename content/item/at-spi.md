@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "at-spi (assistive technology service provider interface) is the primary assistive technology infrastructure for the Solaris and Linux operating environments."
 type: "Software"
 tags: ['General Tools','General Tools' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Whistling-driven mouse pointer.  An alternative way how to control your mouse pointer"
 type: "Software"
 tags: ['Other function','Alternative Access' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

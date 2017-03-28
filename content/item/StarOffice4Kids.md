@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "StarOffice 4 Kids is a product suite for teachers and students that has emerged from a technological research project."
 type: "Software"
 tags: ['Educational and Learning','General Tools','Learning and Eductation','General Tools' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

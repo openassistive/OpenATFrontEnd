@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Shortkeys Lite is a freeware \"\"lite\"\" version of  the closed source ShortKeys text-completion program - it will allow you to use shorthand to type pre-defined text."
 type: "Software"
 tags: ['Computer Automation','Text input Projects' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

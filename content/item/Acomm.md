@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "AComm is an accessible Java-based Instant Messaging and Whiteboard tool. It has been designed to allow assistive technology users to participate in synchronous Internet-based communication activities that have traditionally been inaccessible to them."
 type: "Software"
 tags: ['Educational and Learning','General Tools','Accessing the Web','Alternative Access','Learning and Education' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""
