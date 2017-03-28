@@ -66,10 +66,9 @@ canonifyurls = true
   url = "/#about"
 [[menu.main]]
   weight = 4
-  identifier = "add"
   name = "Add"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
-  url = "/#add"
+  url = "/add"
 [[menu.main]]
   weight = 4
   identifier = "contact"
@@ -168,3 +167,50 @@ canonifyurls = true
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+[params.add]
+selectUrl="/add/"
+submitUrl="/add/submit"
+doneUrl="/add/thankyou"
+
+[[params.add.fields]]
+canEdit = true
+name = "short_title"
+label = "Short Title"
+type = "text"
+required = true
+[[params.add.fields]]
+canEdit = true
+name = "title"
+label = "Title"
+type = "text"
+required = true
+[[params.add.fields]]
+canEdit = true
+name = "type"
+label = "Type"
+type = "name"
+required = true
+[[params.add.fields]]
+canEdit = true
+name = "authors"
+label = "Authors"
+type = "name"
+required = true
+[[params.add.fields]]
+canEdit = true
+name = "license"
+label = "License"
+type = "text"
+required = false
+[[params.add.fields]]
+canEdit = true
+name = "download_url"
+label = "Download URL"
+type = "url"
+required = true
+[[params.add.fields]]
+canEdit = true
+name = "project_url"
+label = "Project URL"
+type = "url"
+required = true
