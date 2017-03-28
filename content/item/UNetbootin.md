@@ -7,8 +7,8 @@ download_url: 'http://www.sourceforge.net/projects/unetbootin/files/latest/downl
 project_url: 'http://unetbootin.sourceforge.net'
 description: 'UNetbootin download. UNetbootin 2016-05-21 11:32:33 free download. UNetbootin Bootable live USB creator for Ubuntu, Fedora, and Linux distributions'
 tags:
-    - alternative-and-augmentative-communication
-    - communication
+    - accessing-the-web
+    - computer-automation
 categories:
     - hardware
 image: images/UNetbootin.png
