@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "These resources are in continual development and will be updated from time to time.  All contributions of new selection sets for SAW with be gratefully received."
 type: "Software"
 tags: ['On Screen Keyboard Projects','Text input Projects','Accessing the Web','Symbols','Alternative Access','Learning and Education', 'Possible-404']
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

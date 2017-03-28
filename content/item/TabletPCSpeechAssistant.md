@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "The Tablet PC Speech Assistant is a program which runs on the Tablet PC or the more portable Ultra-Mobile PC. The software was originally built by Todd Landstad, a software engineer with years of experience with Tablet PC development. He developed the Tablet PC Speech Assistant as an aid for people who have problems speaking. The Tablet PC Speech Assistant can make it fairly easy for some people to have phrases that they often use spoken by the default voice on the Tablet PC. Given that the software require fairly good handwriting ability, and access to specific hardware, it will not be practical for some people."
 type: "Software"
 tags: ['Text to Speech','Alternative and Augmentative Communication','Communication' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

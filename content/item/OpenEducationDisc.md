@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "This software builds on the OpenDisc and is aimed directly at schools and students aged 10-21+ giving the necessary tools to help them complete homework/coursework assignments."
 type: "Software"
 tags: ['Educational and Learning','Learning and Education' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

@@ -3,7 +3,8 @@ title: "atk"
 date: "2016-06-21"
 description: "The interface definitions of accessibility infrastructure.  (GNOME)"
 type: "Software"
-tags: ['General Tools','General Tools' ]
+tags: ['General Tools' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

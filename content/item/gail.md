@@ -3,7 +3,8 @@ title: "gail"
 date: "2016-06-21"
 description: "GAIL provides accessibility support for gtk+ by implementing AtkObjects for widgets in gtk+."
 type: "Software"
-tags: ['General Tools','General Tools' ]
+tags: ['General Tools' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

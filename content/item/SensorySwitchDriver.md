@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Empowering switches connected via USB or serial ports"
 type: "Software"
 tags: ['Switch Input Software','Using the Mouse','Alternative Access' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

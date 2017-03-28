@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Dasher is an information-efficient text-entry interface, driven by natural continuous pointing gestures."
 type: "Software"
 tags: ['On Screen Keyboard Projects','Switch Input Software','Text input Projects','Alternative Access' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

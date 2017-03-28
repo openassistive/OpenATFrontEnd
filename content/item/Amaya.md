@@ -4,6 +4,8 @@ date: "2016-06-21"
 description: "Amaya is a complete Open Source accessible web browsing and authoring environment from WC3"
 type: "Software"
 tags: ['General Tools','Accessing the Web','General Tools' ]
+categories: ['Software']
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

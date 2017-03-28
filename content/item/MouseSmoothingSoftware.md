@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Assistive software for people with hand tremor."
 type: "Software"
 tags: ['Computer Automation','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "openEyes is an open-source open-hardware toolkit for low-cost real-time eye tracking."
 type: "Software"
 tags: ['Other function','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

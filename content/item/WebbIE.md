@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "WebbIE makes surfing the Internet easy. It lets you read web pages as simple text, and navigate them with the arrow keys. You can easily fill in forms, hear a summary of page content and list the links, and copy and paste web page information to your own computer."
 type: "Software"
 tags: ['Text to Speech','Viewing the screen' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

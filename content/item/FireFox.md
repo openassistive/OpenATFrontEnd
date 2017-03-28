@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "The award-winning Web browser is better than ever. Browse the Web with confidence - Firefox protects you from viruses, spyware and pop-ups. Enjoy improvements to performance, ease of use and privacy. It\'s easy to import your favorites and settings and get started. Download Firefox now and get the most out of the Web."
 type: "Software"
 tags: ['General Tools','Other function','General Tools','Other need' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

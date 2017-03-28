@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "WordTalk is a free plug-in developed for use with all versions of Microsoft Word (from Word 97 upwards), which can help people with reading difficulties use Microsoft Word more effectively."
 type: "Software"
 tags: ['Text to Speech','Educational and Learning','Viewing the screen','Learning and Education' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

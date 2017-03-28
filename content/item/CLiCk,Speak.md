@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "CLiCk, Speak is an open source, freely available extension for the Firefox web browser. It is part of the CLC-4-TTS Suite of products, it features a mouse driven interface, and it reads web pages - hence its name."
 type: "Software"
 tags: ['Text to Speech','Accessing the Web' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

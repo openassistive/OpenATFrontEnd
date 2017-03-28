@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "SUITEKeys provides access to a virtual keyboard and mouse through continuous speech input on MS Windows platforms.  See Overview for more information."
 type: "Software"
 tags: ['Other function','Text input Projects' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

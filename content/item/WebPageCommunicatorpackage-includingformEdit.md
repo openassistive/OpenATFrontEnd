@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Web Page Communicator - Use the formEdit program and special web page templates to create dynamic communications screens that run in many of the most popular web browsers. Now improved with better compatibility with most browsers that support HTML5 technology.   Use the Web Page Communicator package to turn any device that can run Internet Explorer, Firefox, Opera, or Safari (direct select only) browsers into a communications device for free!"
 type: "Software"
 tags: ['Alternative and Augmentative Communication','Communication' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

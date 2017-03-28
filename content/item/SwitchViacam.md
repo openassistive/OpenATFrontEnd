@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Switch Viacam (sViacam) is a webcam based switch emulator. Using a web camera, you can configure a particular spot in which motion is detected to trigger a mouse click or a keystroke. As no particular features or shapes are detected, events can be fired using almost any part of the body or object moving in front of the camera. Currently, up to two virtual switches can be emulated. License: GPL v.3"
 type: "Software"
 tags: ['Switch Input Software','Alternative Access' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

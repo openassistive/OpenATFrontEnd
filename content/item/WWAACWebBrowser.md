@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "This is a talking, keyboard, switch and mouse pointer  accessible web browser with page summarising tools.  It has a highly configerable user interface and was developed as part of an EU project."
 type: "Software"
 tags: ['On Screen Keyboard Projects','Text to Speech','Alternative and Augmentative Communication','Accessing the Web','Symbols','Alternative Access' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

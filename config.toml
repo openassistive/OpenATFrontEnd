@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = ""
+baseurl = "https://openassistive.org"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "OpenAssistive"
@@ -52,6 +52,12 @@ canonifyurls = true
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
+[[menu.main]]
+  weight = 1
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
 [[menu.main]]
   weight = 2
   identifier = "all"

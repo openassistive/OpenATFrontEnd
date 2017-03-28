@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Eventcorder records and plays back Windows events. With Eventcorder, a sequence of keystrokes and mouse-clicks can be implemented at the touch of a single button."
 type: "Software"
 tags: ['Computer Automation','Using the Mouse', 'Possible-404']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

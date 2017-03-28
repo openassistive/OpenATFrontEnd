@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "JoyToKey enables PC game controllers to mimic a mouse and the keyboard. It is a freeware utility which can be of great use to disabled users."
 type: "Software"
 tags: ['Other function','Using the Mouse','Alternative Access' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

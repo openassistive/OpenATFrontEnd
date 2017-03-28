@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Provides text entry to hand held devices for people who find writing difficult."
 type: "Software"
 tags: ['Environmental Control','Text input Projects' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

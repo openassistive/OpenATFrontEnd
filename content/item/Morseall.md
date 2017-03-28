@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "Morseall allows you to control your computer using only the mouse buttons. It allows you to produce keystrokes by tapping Morse codes with just a single button or with a three-button mouse for faster entry."
 type: "Software"
 tags: ['Switch Input Software','Alternative and Augmentative Communication','Text input Projects','Communication','Alternative Access' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

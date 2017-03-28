@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "This is an ongoing project aimed at providing people without sight the same rich information and spatial awareness that sighted people get from exploring maps."
 type: "Software"
 tags: ['Other function','Viewing the screen' ]
+categories: ['Software']
 image: "images/full/3.png"
 thumb: "images/thumbs/3.png"
 project_url: ""

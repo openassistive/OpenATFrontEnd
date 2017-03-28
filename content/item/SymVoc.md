@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "SymVoc is aimed to help less able people to communicate with others using symbols and speech synthesis."
 type: "Software"
 tags: ['Symbol Library','Text to Speech','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
+categories: ['Software']
 image: "images/full/4.png"
 thumb: "images/thumbs/4.png"
 project_url: ""

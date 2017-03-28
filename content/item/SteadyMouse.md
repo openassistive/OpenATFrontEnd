@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "SteadyMouse is free software designed to assist people with the hand tremors that commonly go along with Parkinson\'s disease, Multiple sclerosis, etc."
 type: "Software"
 tags: ['General Tools','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

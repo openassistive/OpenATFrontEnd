@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "For those with speech problems who need to talk to a Powerpoint presentation."
 type: "Software"
 tags: ['Text to Speech','Computer Automation','Switch Input Software','Alternative and Augmentative Communication','General Tools','Communication','Learning and Education','General Tools', 'Possible-404']
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "mouseTrap is an application (for Linux) that intends to provide control of the mouse pointer using a Web Cam and face detection. The users can move the pointer using the face or other parts of it."
 type: "Software"
 tags: ['Environmental Control','Using the Mouse' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""

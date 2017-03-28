@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "A very simple switch controlled CD player"
 type: "Software"
 tags: ['Computer Automation','Switch Input Software','Educational and Learning','Other function','Learning and Education','Other need' ]
+categories: ['Software']
 image: "images/full/1.png"
 thumb: "images/thumbs/1.png"
 project_url: ""

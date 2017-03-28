@@ -4,6 +4,7 @@ date: "2016-06-21"
 description: "A unique piece of software, provides an on-screen, slotted ruler."
 type: "Software"
 tags: ['General Tools','Viewing the screen' ]
+categories: ['Software']
 image: "images/full/2.png"
 thumb: "images/thumbs/2.png"
 project_url: ""
