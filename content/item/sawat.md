@@ -2,6 +2,8 @@
 short_title: "sawat" 
 title: "SAW - Special Access to Windows" 
 type: "software" 
+categories:
+- software
 authors: "mlundalv, stuartaw, walsh_jc" 
 license: "GNU General Public License version 3.0 (GPLv3)" 
 datemod: "2016-10-22 00:00" 
