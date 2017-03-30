@@ -29,6 +29,7 @@ canonifyurls = true
   tag = "tags"
   category = "categories"
   archive = "archives"
+  
 
 [author]
   name = "OpenAssistive"
@@ -95,6 +96,7 @@ canonifyurls = true
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
   url = "/index.xml"
+
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -173,49 +175,55 @@ canonifyurls = true
   # Customize copyright value "© 2016 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+[params.contact]
+  card_picture = "/images/logo.png"
+  formspree_email = "contact@openassistive.org"
+
+
 [params.add]
-selectUrl="/add/"
-submitUrl="/add/submit"
-doneUrl="/add/thankyou"
+select_url="/add/"
+submit_url="/add/submit"
+done_url="/add/thankyou"
 
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "short_title"
 label = "Short Title"
 type = "text"
 required = true
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "title"
 label = "Title"
 type = "text"
 required = true
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "type"
 label = "Type"
 type = "name"
 required = true
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "authors"
 label = "Authors"
 type = "name"
 required = true
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "license"
 label = "License"
 type = "text"
 required = false
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "download_url"
 label = "Download URL"
 type = "url"
 required = true
 [[params.add.fields]]
-canEdit = true
+can_edit = true
 name = "project_url"
 label = "Project URL"
 type = "url"
