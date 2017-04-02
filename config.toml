@@ -187,7 +187,7 @@ submit_url="/add/submit"
 done_url="/add/thankyou"
 
 [[params.add.fields]]
-can_edit = true
+can_edit = false
 name = "short_title"
 label = "Short Title"
 type = "text"
@@ -200,10 +200,11 @@ type = "text"
 required = true
 [[params.add.fields]]
 can_edit = true
-name = "type"
+name = "project"
 label = "Type"
-type = "name"
+type = "select"
 required = true
+options = [ "Software", "Hardware" ]
 [[params.add.fields]]
 can_edit = true
 name = "authors"
