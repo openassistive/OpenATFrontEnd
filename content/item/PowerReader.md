@@ -2,11 +2,9 @@
 title: "Power Reader"
 date: "2016-06-21"
 description: "A dyslexic text reader/learning tool, a graphical, interactive text reader integrated with computer text-to-speech whose level of focus, complexity, and detail is adjustable according to the user\'s needs."
-type: "Software"
+project: "Software"
 tags: ['Symbol Library','Text to Speech','Educational and Learning','Symbols','Alternative Access','Learning and Education' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://code.google.com/p/pp-power-reader/downloads/list"
 ---

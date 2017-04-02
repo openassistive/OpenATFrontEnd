@@ -2,11 +2,9 @@
 title: "CHIP Speaking"
 date: "2016-06-21"
 description: "CHIPSPEAKING is a desktop augmentative communication device that supports up to 99 messages. Users can record in their own voice (or care-givers can record the voice of someone else of the same gender and age) or take advantage of computerized voices."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Alternative and Augmentative Communication','Communication' ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://aa4pc.tripod.com/"
 ---

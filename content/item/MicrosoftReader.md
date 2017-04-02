@@ -2,11 +2,9 @@
 title: "Microsoft Reader"
 date: "2016-06-21"
 description: "Microsoft Reader is used to view certain eBooks on your computer. An additional piece of software, \'Microsoft Reader Text-to-Speech Package\' can be downloaded in order to speak your eBooks to you, giving you access to all manner of novels and non-fiction eBooks without the need to read them from the screen."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Educational and Learning','Viewing the screen','Learning and Education','Other need' ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://www.microsoft.com/reader/downloads/pc.aspx"
 ---

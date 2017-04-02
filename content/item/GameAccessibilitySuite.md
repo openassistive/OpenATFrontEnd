@@ -2,11 +2,9 @@
 title: "Game Accessibility Suite"
 date: "2016-06-21"
 description: "Code library and utilities to enhance accessibility to existing and future games (Win32)."
-type: "Software"
+project: "Software"
 tags: ['General Tools' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://sourceforge.net/project/showfiles.php?group_id=212119&amp;package_id=258851"
 ---

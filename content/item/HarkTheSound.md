@@ -2,11 +2,9 @@
 title: "Hark The Sound"
 date: "2016-06-21"
 description: "Hark The Sound is a really simple sound game intended for young kids who are visually impaired. It was inspired by my friend and colleague Diane Brauner and was written by Gary Bishop. It is free for educational and fun use."
-type: "Software"
+project: "Software"
 tags: ['Educational and Learning','Learning and Education' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.cs.unc.edu/~gb/research/hark-the-sound/install-instructions.html"
 ---

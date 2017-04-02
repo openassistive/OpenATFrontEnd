@@ -2,11 +2,9 @@
 title: "Symbol &amp; Concept Coding Editor (aka SYMBERED)"
 date: "2016-06-21"
 description: "Building a Symbol and Concept Coding Editor for CMS, based on CCF(ConceptCodingFramework)."
-type: "Software"
+project: "Software"
 tags: ['Symbol Library','Alternative and Augmentative Communication','Other function','Text input Projects','Communication','Symbols','Alternative Access','Learning and Education' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: ""
 ---

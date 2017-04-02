@@ -2,11 +2,9 @@
 title: "Vu-Bar 4"
 date: "2016-06-21"
 description: "A unique piece of software, provides an on-screen, slotted ruler."
-type: "Software"
+project: "Software"
 tags: ['General Tools','Viewing the screen' ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://www.fxc.btinternet.co.uk/assistive.htm"
 ---

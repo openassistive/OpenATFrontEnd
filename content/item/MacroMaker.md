@@ -2,11 +2,9 @@
 title: "MacroMaker"
 date: "2016-06-21"
 description: "MacroMaker allows you to build a macro to simulate a series of keystrokes and mouse clicks, execute built-in functions or play back a previous recording with just a keystroke. Therefore sequences of keystrokes and mouse clicks can be activated with minimal movement."
-type: "Software"
+project: "Software"
 tags: ['Computer Automation','Other need' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://members.ij.net/anthonymathews/MacroMaker.htm"
 ---

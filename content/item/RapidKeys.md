@@ -2,11 +2,9 @@
 title: "RapidKeys"
 date: "2016-06-21"
 description: "RapidKeys - Intelligent virtual keyboard.  Itis a virtual keyboard with word prediction that learns from what the user types and contextually suggests words that can be typed with a single click. The purpose of this feature is to obtain a greater speed of typing."
-type: "Software"
+project: "Software"
 tags: ['On Screen Keyboard Projects','Text input Projects','Alternative Access' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.simtel.net/product.download.mirrors.php?id=63957"
 ---

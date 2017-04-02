@@ -2,11 +2,9 @@
 title: "Mousetweaks 2.23.2"
 date: "2016-06-21"
 description: "Mousetweaks provides mouse accessibility enhancements for the GNOME desktop."
-type: "Software"
+project: "Software"
 tags: ['Switch Input Software','Alternative and Augmentative Communication','General Tools','Using the Mouse' ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://ftp.gnome.org/pub/GNOME/sources/mousetweaks/2.21/mousetweaks-2.21.5.tar.gz"
 ---

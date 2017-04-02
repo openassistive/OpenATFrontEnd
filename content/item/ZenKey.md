@@ -2,11 +2,9 @@
 title: "Zen Key"
 date: "2016-06-21"
 description: "This program allows you to control almost all aspects of your computer via the keyboard by creating new keyboard shortcuts.  It can also control the mouse pointer, including its speed from keyboard shortcuts."
-type: "Software"
+project: "Software"
 tags: ['Computer Automation','General Tools','Using the Mouse','Accessing the Web','Alternative Access','General Tools' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://www.camiweb.com/zenkey/"
 ---

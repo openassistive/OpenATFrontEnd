@@ -2,11 +2,9 @@
 title: "Enable Viacam"
 date: "2016-06-21"
 description: "Enable Viacam (aka eViacam) is a mouse replacement software that moves the pointer as you move your head. It works on standard PCs equipped with a web camera. No additional hardware is required. Runs over Windows and Linux and is released under GNU/GPL license."
-type: "Software"
+project: "Software"
 tags: ['Other function','Using the Mouse','Accessing the Web','Alternative Access','Learning and Education' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://sourceforge.net/projects/eviacam/"
 ---

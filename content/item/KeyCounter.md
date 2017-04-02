@@ -2,11 +2,9 @@
 title: "KeyCounter"
 date: "2016-06-21"
 description: "This package counts the number of key depressions, and can be set to suggest breaks are taken after a set number are carried out."
-type: "Software"
+project: "Software"
 tags: ['General Tools','Text input Projects' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.fxc.btinternet.co.uk/assistive.htm"
 ---

@@ -2,11 +2,9 @@
 title: "eSpeak text to speech"
 date: "2016-06-21"
 description: "eSpeak is a compact free and open source software speech synthesizer for English and other languages, for Linux and Windows."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','General Tools','Communication','Accessing the Web','Alternative Access','Learning and Education','General Tools' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://espeak.sourceforge.net/download.html"
 ---

@@ -2,11 +2,9 @@
 title: "FatBits"
 date: "2016-06-21"
 description: "Fatbits magnifies an area of the screen and paints the giant pixels into a new window, which may be useful if you have a visual impairment. To make the screen even more accessible, you can modify the colours it displays."
-type: "Software"
+project: "Software"
 tags: ['Other function','Viewing the screen' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.digitalmantra.com/fatbits/download.html"
 ---

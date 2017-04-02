@@ -2,11 +2,9 @@
 title: "Mouse Gestures"
 date: "2016-06-21"
 description: "Use mouse gestures to control the Firefox web browser to allow \'mouse only\' internet browsing."
-type: "Software"
+project: "Software"
 tags: ['Other function','Accessing the Web','Alternative Access' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://optimoz.mozdev.org/gestures/installation.html"
 ---

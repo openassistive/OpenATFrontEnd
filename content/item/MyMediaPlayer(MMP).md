@@ -2,11 +2,9 @@
 title: "MyMediaPlayer (MMP)"
 date: "2016-06-21"
 description: "MyMediaPlayer is a simple switch accessible media player with a delay-to-pause feature to encourage repeated interations. MMP allows for a video file and an audio file (if desired) to be played simultaneously. File locations are stored on playlists for convenience, and the playlists and most recent setup are saved automatically. When MMP is restarted the most recent setup is loaded automatically."
-type: "Software"
+project: "Software"
 tags: ['Educational and Learning','Learning and Education' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://sites.google.com/site/jamjolu/Home/mymediaplayer"
 ---

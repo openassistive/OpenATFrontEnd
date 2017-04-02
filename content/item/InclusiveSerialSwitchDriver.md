@@ -2,11 +2,9 @@
 title: "Inclusive Serial Switch Driver"
 date: "2016-06-21"
 description: "A stand-alone serial switch driver for Windows, programmed to send the standard keys of Space and Return."
-type: "Software"
+project: "Software"
 tags: ['Switch Input Software','Alternative Access' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.inclusive.co.uk/downloads/downloads.shtml#serialdriver"
 ---

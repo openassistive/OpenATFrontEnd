@@ -2,11 +2,9 @@
 title: "Virtual Magnifying Glass"
 date: "2016-06-21"
 description: "Virtual Magnifying Glass is an easy-to-use screen magnification tool for Windows."
-type: "Software"
+project: "Software"
 tags: ['Other function','Viewing the screen' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://prdownloads.sourceforge.net/magnifier/Mg236_install.exe?download"
 ---

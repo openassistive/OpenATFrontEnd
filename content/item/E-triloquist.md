@@ -2,11 +2,9 @@
 title: "E-triloquist"
 date: "2016-06-21"
 description: "The program has an input area on the screen for entering a text or audio phrase which is to be spoken or played. With the touch of the \"\"Enter\"\" key or a mouse click, the text is converted to speech and sent to a voice synthesizer which conveys the message in mellifluous tones. Audio phrases are played as recorded."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Communication' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://www.etriloquist.com/Downloads.php"
 ---

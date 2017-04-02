@@ -2,11 +2,9 @@
 title: "DonnerLaParole"
 date: "2016-06-21"
 description: "DonnerLaParole is a primarily text based communicator for people with speech and physical impairments - including word prediction, text-to-speech support etc. Best support for French - cross-platform Java application."
-type: "Software"
+project: "Software"
 tags: ['On Screen Keyboard Projects','Text to Speech','Switch Input Software','Alternative and Augmentative Communication','Environmental Control','Text input Projects','Communication','Alternative Access' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.donnerlaparole.org/en/telecharger/"
 ---

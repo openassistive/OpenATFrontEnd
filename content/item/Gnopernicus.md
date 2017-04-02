@@ -2,11 +2,9 @@
 title: "Gnopernicus"
 date: "2016-06-21"
 description: "The Gnopernicus project aims to enable users with limited vision, or no vision, to use the Gnome 2 desktop and Gnome/GTK+-2 applications effectively."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Viewing the screen','Accessing the Web','Alternative Access' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://ftp.gnome.org/pub/GNOME/sources/gnopernicus/1.1/"
 ---

@@ -2,11 +2,9 @@
 title: "Daisy Pipeline"
 date: "2016-06-21"
 description: "The Daisy Multi Format Converter allows conversion of DAISY books between different formats."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Viewing the screen','Learning and Education' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: ""
 ---

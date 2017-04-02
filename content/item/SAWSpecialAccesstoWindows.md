@@ -1,6 +1,6 @@
 ---
 title: 'SAW - Special Access to Windows'
-type: software
+project: "software"
 authors: 'mlundalv, stuartaw, walsh_jc'
 License: 'GNU General Public License version 3.0 (GPLv3)'
 datemod: '2016-10-22 00:00'
@@ -11,8 +11,8 @@ tags:
     - accessing-the-web
 categories:
     - hardware
-image: images/SAWSpecialAccesstoWindows.png
-thumb: images/SAWSpecialAccesstoWindows-thumb.png
+image: files/images/SAWSpecialAccesstoWindows.png
+thumb: files/images/SAWSpecialAccesstoWindows-thumb.png
 original_url: 'http://www.sourceforge.com/projects/sawat'
 short_title: SAWSpecialAccesstoWindows
 image_download: 'http://a.fsdn.com/con/app/proj/sawat/screenshots/330961.jpg/182/137/1'

@@ -2,11 +2,9 @@
 title: "Fire Vox"
 date: "2016-06-21"
 description: "Fire Vox is an open source, freely available talking browser extension for the Firefox web browser."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Viewing the screen','Accessing the Web' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://www.firevox.clcworld.net/downloads.html"
 ---

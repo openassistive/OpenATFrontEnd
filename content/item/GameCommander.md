@@ -2,11 +2,9 @@
 title: "Game Commander"
 date: "2016-06-21"
 description: "Game Commander is a voice recognition program designed for games commands, but which can be used for general voice commands."
-type: "Software"
+project: "Software"
 tags: ['Other function','Alternative Access','Other need' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://www.tucows.com/preview/364262"
 ---

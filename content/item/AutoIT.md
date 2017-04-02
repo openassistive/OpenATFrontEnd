@@ -2,11 +2,9 @@
 title: "AutoIT"
 date: "2016-06-21"
 description: "AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting.  It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages (e.g. VBScript and SendKeys).  AutoIt is also very small, self-contained and will run on 95, 98, ME, NT4, 2000, XP, 2003 out of the box with no annoying \"\"runtimes\"\" required!  You can even make compiled executable scripts that can run without AutoIt being installed!"
-type: "Software"
+project: "Software"
 tags: ['Computer Automation','Other need' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://www.autoitscript.com/autoit3/downloads.php"
 ---

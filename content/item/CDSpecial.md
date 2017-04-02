@@ -2,11 +2,9 @@
 title: "CDSpecial"
 date: "2016-06-21"
 description: ""
-type: "Software"
+project: "Software"
 tags: [ ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: ""
 ---

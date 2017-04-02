@@ -2,12 +2,10 @@
 title: "AMIS"
 date: "2016-06-21"
 description: "AMIS is a software program that you can use to read DAISY books.  AMIS is a multilingual player for reading books complying with DAISY standards."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Alternative Access','Learning and Education' ]
 categories: ['Software']
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://prdownloads.sourceforge.net/amis/SetupAMIS.exe?download"
 ---

@@ -1,6 +1,6 @@
 ---
 title: UNetbootin
-type: software
+project: software
 authors: gezakovacs
 datemod: '2016-05-21 00:00'
 download_url: 'http://www.sourceforge.net/projects/unetbootin/files/latest/download'
@@ -10,8 +10,8 @@ tags:
     - alternative-access
 categories:
     - hardware
-image: images/UNetbootin.png
-thumb: images/UNetbootin-thumb.png
+image: files/images/UNetbootin.png
+thumb: files/images/UNetbootin-thumb.png
 original_url: 'http://www.sourceforge.com/projects/unetbootin'
 short_title: UNetbootin
 image_download: 'http://a.fsdn.com/con/app/proj/unetbootin/screenshots/300347.jpg/182/137/1'

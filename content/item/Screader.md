@@ -2,11 +2,9 @@
 title: "Screader"
 date: "2016-06-21"
 description: "A screen reader using software or hardware speech synthesizer."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Other function','Viewing the screen' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://www.jlemmens.nl/homepage/uk/screader.html"
 ---

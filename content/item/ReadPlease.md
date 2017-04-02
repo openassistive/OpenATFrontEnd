@@ -2,11 +2,9 @@
 title: "ReadPlease"
 date: "2016-06-21"
 description: "Reads any text you see on your screen - all purpose text-to-speech software.  Available in a freeware version, and a payed plus version.  This is not open source."
-type: "Software"
+project: "Software"
 tags: ['Text to Speech','Viewing the screen' ]
 categories: ['Software']
-image: "images/full/2.png"
-thumb: "images/thumbs/2.png"
 project_url: ""
 download_url: "http://www.readplease.com/downloads/setupreadplease2003.exe"
 ---

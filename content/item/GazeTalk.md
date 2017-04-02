@@ -2,11 +2,9 @@
 title: "Gaze Talk"
 date: "2016-06-21"
 description: "GazeTalk is a predictive text entry system that has a restricted on-screen keyboard with ambiguous layout for severely disabled people. The main reason for using such a keyboard layout is that it enables the use of an eye tracker with a low spatial resolution (e.g., a web-camera based eye tracker)."
-type: "Software"
+project: "Software"
 tags: ['On Screen Keyboard Projects','Text to Speech','Alternative and Augmentative Communication','Text input Projects','Communication' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.cogain.org/wiki/Gazetalk"
 ---

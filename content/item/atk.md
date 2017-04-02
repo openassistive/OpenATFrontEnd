@@ -2,11 +2,9 @@
 title: "atk"
 date: "2016-06-21"
 description: "The interface definitions of accessibility infrastructure.  (GNOME)"
-type: "Software"
+project: "Software"
 tags: ['General Tools' ]
 categories: ['Software']
-image: "images/full/1.png"
-thumb: "images/thumbs/1.png"
 project_url: ""
 download_url: "http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.bz2"
 ---

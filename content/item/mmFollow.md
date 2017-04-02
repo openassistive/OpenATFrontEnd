@@ -2,11 +2,9 @@
 title: "mmFollow"
 date: "2016-06-21"
 description: "mmFollow quite simply adds a cartoon character to the mouse cursor."
-type: "Software"
+project: "Software"
 tags: ['General Tools','Using the Mouse' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://www.fxc.btinternet.co.uk/assistive.htm"
 ---

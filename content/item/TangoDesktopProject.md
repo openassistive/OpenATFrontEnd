@@ -2,11 +2,9 @@
 title: "Tango Desktop Project"
 date: "2016-06-21"
 description: "The Tango Desktop Project exists to help create a consistent graphical user interface experience for free and Open Source software."
-type: "Software"
+project: "Software"
 tags: ['Symbol Library','General Tools','Symbols','General Tools' ]
 categories: ['Software']
-image: "images/full/3.png"
-thumb: "images/thumbs/3.png"
 project_url: ""
 download_url: "http://tango.freedesktop.org/Tango_Icon_Library#Download"
 ---

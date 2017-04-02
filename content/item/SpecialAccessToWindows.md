@@ -2,11 +2,9 @@
 title: "Special Access To Windows"
 date: "2016-06-21"
 description: "Free software that enables Windows to be controlled by one or two switches, a trackerball or a headpointer. The new SAW 6 version - supported by the AEGIS project - is now available. It is fully Windows 7 compatible, supports Unicode, includes its own \"\"Blade\"\" word prediction and abbreviation expansion engine, can interact with the CCF-SymbolServer for graphic symbol support (http://www.conceptcoding.org/), and adds several other feautures to make creating interfaces easy for those who use alternative inputs."
-type: "Software"
+project: "Software"
 tags: ['On Screen Keyboard Projects','Text to Speech','Computer Automation','Switch Input Software','Alternative and Augmentative Communication','Educational and Learning','Text input Projects','Communication','Using the Mouse','Symbols','Alternative Access' ]
 categories: ['Software']
-image: "images/full/4.png"
-thumb: "images/thumbs/4.png"
 project_url: ""
 download_url: "http://sourceforge.net/projects/sawat/"
 ---
