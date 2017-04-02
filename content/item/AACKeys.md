@@ -5,8 +5,7 @@ description: "AAC Keys is a keyboard and mouse emulation program for Microsoft W
 project: "Software"
 tags: ['Alternative and Augmentative Communication','Communication','Using the Mouse' ]
 categories:
-- tranquilpeak
-- releases
+- software
 project_url: ""
 download_url: "http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html"
 ---
