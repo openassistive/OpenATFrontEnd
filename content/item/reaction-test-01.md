@@ -6,7 +6,7 @@ datemod: '2017-02-21T18:03:46Z'
 download_url: 'https://github.com/hosseinamin/reaction-test-01/releases'
 project_url: 'https://github.com/hosseinamin/reaction-test-01'
 tags:
-    - learning-and-education
+    - accessing-the-web
 original_url: 'https://github.com/hosseinamin/reaction-test-01'
 image_download: 'https://avatars3.githubusercontent.com/u/21030850?v=3&s=40'
 license: ""
