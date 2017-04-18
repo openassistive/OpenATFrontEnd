@@ -1,12 +1,16 @@
 ---
-title: "Mouse Smoothing Software"
-date: "2016-06-21"
-description: "Assistive software for people with hand tremor."
-project: "Software"
-tags: ['Computer Automation','Using the Mouse' ]
-categories: ['Software']
+title: 'Mouse Smoothing Software'
+date: '2016-06-21'
+description: 'Assistive software for people with hand tremor.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Using the Mouse'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.alphaworks.ibm.com/tech/mousesmoothing/download"
+download_url: 'http://www.alphaworks.ibm.com/tech/mousesmoothing/download'
+moderated: true
 ---
 What is Mouse Smoothing Software? 
 ----------------------------------

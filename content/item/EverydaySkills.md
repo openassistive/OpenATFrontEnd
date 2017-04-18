@@ -1,12 +1,17 @@
 ---
-title: "Everyday Skills"
-date: "2016-06-21"
-description: "Switch-activated software that supports teachers in teaching the young people who are deafblind in learning everyday skills."
-project: "Software"
-tags: ['Switch Input Software','Educational and Learning','Learning and Education' ]
-categories: ['Software']
+title: 'Everyday Skills'
+date: '2016-06-21'
+description: 'Switch-activated software that supports teachers in teaching the young people who are deafblind in learning everyday skills.'
+project: Software
+tags:
+    - 'Switch Input Software'
+    - 'Educational and Learning'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
 download_url: ""
+moderated: true
 ---
 
 

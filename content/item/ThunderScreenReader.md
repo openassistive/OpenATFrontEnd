@@ -1,12 +1,17 @@
 ---
-title: "Thunder Screen Reader"
-date: "2016-06-21"
-description: "Thunder is free screenreader talking software for blind and visually impaired people."
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen' ]
-categories: ['Software']
+title: 'Thunder Screen Reader'
+date: '2016-06-21'
+description: 'Thunder is free screenreader talking software for blind and visually impaired people.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.screenreader.net/index.php?pageid=2"
+download_url: 'http://www.screenreader.net/index.php?pageid=2'
+moderated: true
 ---
 From the Authors:
 -----------------

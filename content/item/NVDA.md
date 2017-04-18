@@ -1,12 +1,17 @@
 ---
-title: "NVDA"
-date: "2016-06-21"
-description: "Non Visual Desktop Access"
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen' ]
-categories: ['Software']
+title: NVDA
+date: '2016-06-21'
+description: 'Non Visual Desktop Access'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.nvaccess.org/download/"
+download_url: 'http://www.nvaccess.org/download/'
+moderated: true
 ---
 From the Authors:
 -----------------

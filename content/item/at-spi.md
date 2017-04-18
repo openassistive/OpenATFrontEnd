@@ -1,13 +1,15 @@
 ---
-title: "at-spi"
-date: "2016-06-21"
-description: "at-spi (assistive technology service provider interface) is the primary assistive technology infrastructure for the Solaris and Linux operating environments."
-project: "Software"
-tags: ['General Tools' ]
-categories: ['Software']
-categories: ['Software']
+title: at-spi
+date: '2016-06-21'
+description: 'at-spi (assistive technology service provider interface) is the primary assistive technology infrastructure for the Solaris and Linux operating environments.'
+project: Software
+tags:
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://ftp.gnome.org/pub/GNOME/sources/at-spi/1.21/at-spi-1.21.5.tar.gz"
+download_url: 'http://ftp.gnome.org/pub/GNOME/sources/at-spi/1.21/at-spi-1.21.5.tar.gz'
+moderated: true
 ---
  Applications and toolkits supporting the AT-SPI include the GNOME GTK+ toolkit, the Java platform's Swing toolkit, OpenOffice, and Mozilla.
 

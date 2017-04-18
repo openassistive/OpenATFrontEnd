@@ -1,12 +1,16 @@
 ---
-title: "MQA Spell Checker"
-date: "2016-06-21"
-description: "Spell Checker checks the spelling of any edit control in almost any application under Windows 3.1/95/98. The program was designed to run under Windows 3.1. Though it will operate under Windows 95/98, it is not compatible with later versions (2000, ME, XP)."
-project: "Software"
-tags: ['Educational and Learning','Learning and Education' ]
-categories: ['Software']
+title: 'MQA Spell Checker'
+date: '2016-06-21'
+description: 'Spell Checker checks the spelling of any edit control in almost any application under Windows 3.1/95/98. The program was designed to run under Windows 3.1. Though it will operate under Windows 95/98, it is not compatible with later versions (2000, ME, XP).'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.quinion.com/mqa/spell.htm"
+download_url: 'http://www.quinion.com/mqa/spell.htm'
+moderated: true
 ---
 What the authors say:
 ---------------------

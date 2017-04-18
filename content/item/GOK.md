@@ -1,12 +1,16 @@
 ---
-title: "GOK"
-date: "2016-06-21"
-description: "gok: gnome onscreen  keyboard, an open source project."
-project: "Software"
-tags: ['On Screen Keyboard Projects','Text input Projects' ]
-categories: ['Software']
+title: GOK
+date: '2016-06-21'
+description: 'gok: gnome onscreen  keyboard, an open source project.'
+project: Software
+tags:
+    - 'On Screen Keyboard Projects'
+    - 'Text input Projects'
+categories:
+    - Software
 project_url: ""
 download_url: ""
+moderated: true
 ---
 
 

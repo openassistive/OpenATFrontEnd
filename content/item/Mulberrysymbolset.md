@@ -1,12 +1,20 @@
 ---
-title: "Mulberry symbol set"
-date: "2016-06-21"
-description: "A symbol set designed by professionals that is free of cost.  Image format is .wmf (colour &amp; black \'n white), plus other formats such as .svg, .png, .jpg, and .pdf.   You will need to login to our website (www.straight-street.com) to download the symbols"
-project: "Software"
-tags: ['Symbol Library','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
-categories: ['Software']
+title: 'Mulberry symbol set'
+date: '2016-06-21'
+description: 'A symbol set designed by professionals that is free of cost.  Image format is .wmf (colour &amp; black \''n white), plus other formats such as .svg, .png, .jpg, and .pdf.   You will need to login to our website (www.straight-street.com) to download the symbols'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Alternative and Augmentative Communication'
+    - 'Educational and Learning'
+    - Communication
+    - Symbols
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.straight-street.com/"
+download_url: 'http://www.straight-street.com/'
+moderated: true
 ---
 Working locally in Essex, UK. our software is free, but in the past we always had to purchase commercial symbol sets to accompany our products. 
 

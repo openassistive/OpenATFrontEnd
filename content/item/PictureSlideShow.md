@@ -1,12 +1,17 @@
 ---
-title: "PictureSlideShow"
-date: "2016-06-21"
-description: "Picture Slide Show lets you continuously displays all the pictures in a folder. You can tell in which folder to look at and how long to display a picture for."
-project: "Software"
-tags: ['Other function','Learning and Eductation','Other need' ]
-categories: ['Software']
+title: PictureSlideShow
+date: '2016-06-21'
+description: 'Picture Slide Show lets you continuously displays all the pictures in a folder. You can tell in which folder to look at and how long to display a picture for.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Learning and Eductation'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.kaptech.pwp.blueyonder.co.uk/downloads/PictureSlideShow.zip"
+download_url: 'http://www.kaptech.pwp.blueyonder.co.uk/downloads/PictureSlideShow.zip'
+moderated: true
 ---
 
 

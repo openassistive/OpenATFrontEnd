@@ -1,12 +1,22 @@
 ---
-title: "Hotspots"
-date: "2016-06-21"
-description: "Hotspots is now open source and public domain or free software. It may be used by a number of users on one computer or by one user on a number of different computers."
-project: "Software"
-tags: ['Text to Speech','Computer Automation','Switch Input Software','General Tools','Using the Mouse','Alternative Access','General Tools', 'Possible-404']
-categories: ['Software']
+title: Hotspots
+date: '2016-06-21'
+description: 'Hotspots is now open source and public domain or free software. It may be used by a number of users on one computer or by one user on a number of different computers.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Computer Automation'
+    - 'Switch Input Software'
+    - 'General Tools'
+    - 'Using the Mouse'
+    - 'Alternative Access'
+    - 'General Tools'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.oatsoft.org/Software/hotspots/downloads/2.o/HSZipped.zip"
+download_url: 'http://www.oatsoft.org/Software/hotspots/downloads/2.o/HSZipped.zip'
+moderated: true
 ---
 
 

@@ -1,12 +1,16 @@
 ---
-title: "WebbIE"
-date: "2016-06-21"
-description: "WebbIE makes surfing the Internet easy. It lets you read web pages as simple text, and navigate them with the arrow keys. You can easily fill in forms, hear a summary of page content and list the links, and copy and paste web page information to your own computer."
-project: "Software"
-tags: ['Text to Speech','Viewing the screen' ]
-categories: ['Software']
+title: WebbIE
+date: '2016-06-21'
+description: 'WebbIE makes surfing the Internet easy. It lets you read web pages as simple text, and navigate them with the arrow keys. You can easily fill in forms, hear a summary of page content and list the links, and copy and paste web page information to your own computer.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.webbie.org.uk/"
+download_url: 'http://www.webbie.org.uk/'
+moderated: true
 ---
 From the authors:
 -----------------

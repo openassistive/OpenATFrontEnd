@@ -1,12 +1,16 @@
 ---
-title: "CLiCk, Speak"
-date: "2016-06-21"
-description: "CLiCk, Speak is an open source, freely available extension for the Firefox web browser. It is part of the CLC-4-TTS Suite of products, it features a mouse driven interface, and it reads web pages - hence its name."
-project: "Software"
-tags: ['Text to Speech','Accessing the Web' ]
-categories: ['Software']
+title: 'CLiCk, Speak'
+date: '2016-06-21'
+description: 'CLiCk, Speak is an open source, freely available extension for the Firefox web browser. It is part of the CLC-4-TTS Suite of products, it features a mouse driven interface, and it reads web pages - hence its name.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Accessing the Web'
+categories:
+    - Software
 project_url: ""
-download_url: "http://clickspeak.clcworld.net/downloads.html"
+download_url: 'http://clickspeak.clcworld.net/downloads.html'
+moderated: true
 ---
 Unlike <a href="">Fire Vox</a> which is designed for visually impaired users, CLiCk, Speak is designed for sighted users who want text-to-speech functionality. It doesn't identify elements or announce events - two features that are very important for visually impaired users but very annoying for sighted users. It also has a simplified, mouse driven interface that is designed to be easy for users familiar with point-and-click graphical user interfaces. Like Fire Vox, CLiCk, Speak works on Windows, Macintosh, and Linux; and Fire Vox has multilingual support, making it great for users who are trying to learn a foreign language and need to hear foreign language web sites read out to them for practice.
 

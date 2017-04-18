@@ -1,12 +1,18 @@
 ---
-title: "Jupiter"
-date: "2016-06-21"
-description: "This software makes Linux accessible to the blind user."
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen', 'Possible-404']
-categories: ['Software']
+title: Jupiter
+date: '2016-06-21'
+description: 'This software makes Linux accessible to the blind user.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.eklhad.net/linux/jupiter/jupiter.tar.gz"
+download_url: 'http://www.eklhad.net/linux/jupiter/jupiter.tar.gz'
+moderated: true
 ---
 
 

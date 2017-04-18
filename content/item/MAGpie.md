@@ -1,12 +1,16 @@
 ---
-title: "MAGpie"
-date: "2016-06-21"
-description: "MAGpie 2.01 is a tool for creating closed captions and audio (video) descriptions. Authors can add captions and audio descriptions to QuickTime, Real, or Windows Media Player."
-project: "Software"
-tags: ['Text to Speech','Viewing the screen' ]
-categories: ['Software']
+title: MAGpie
+date: '2016-06-21'
+description: 'MAGpie 2.01 is a tool for creating closed captions and audio (video) descriptions. Authors can add captions and audio descriptions to QuickTime, Real, or Windows Media Player.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/download-magpie"
+download_url: 'http://ncam.wgbh.org/invent_build/web_multimedia/tools-guidelines/download-magpie'
+moderated: true
 ---
 From the authors:
 -----------------

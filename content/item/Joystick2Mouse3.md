@@ -1,12 +1,17 @@
 ---
-title: "Joystick 2 Mouse 3"
-date: "2016-06-21"
-description: "Joystick 2 Mouse lets you control your mouse and keyboard using your joystick or gamepad."
-project: "Software"
-tags: ['Other function','Using the Mouse','Alternative Access' ]
-categories: ['Software']
+title: 'Joystick 2 Mouse 3'
+date: '2016-06-21'
+description: 'Joystick 2 Mouse lets you control your mouse and keyboard using your joystick or gamepad.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Using the Mouse'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://atzitznet.no-ip.org/Joy2Mouse3/index.html"
+download_url: 'http://atzitznet.no-ip.org/Joy2Mouse3/index.html'
+moderated: true
 ---
 Joystick 2 Mouse 3 let's you control the mouse and keyboard using your joystick or gamepad.  
   

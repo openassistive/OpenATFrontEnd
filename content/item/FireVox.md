@@ -1,12 +1,17 @@
 ---
-title: "Fire Vox"
-date: "2016-06-21"
-description: "Fire Vox is an open source, freely available talking browser extension for the Firefox web browser."
-project: "Software"
-tags: ['Text to Speech','Viewing the screen','Accessing the Web' ]
-categories: ['Software']
+title: 'Fire Vox'
+date: '2016-06-21'
+description: 'Fire Vox is an open source, freely available talking browser extension for the Firefox web browser.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Viewing the screen'
+    - 'Accessing the Web'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.firevox.clcworld.net/downloads.html"
+download_url: 'http://www.firevox.clcworld.net/downloads.html'
+moderated: true
 ---
 Think of it as a screen reader that is designed especially for Firefox.
 

@@ -1,12 +1,20 @@
 ---
-title: "Zen Key"
-date: "2016-06-21"
-description: "This program allows you to control almost all aspects of your computer via the keyboard by creating new keyboard shortcuts.  It can also control the mouse pointer, including its speed from keyboard shortcuts."
-project: "Software"
-tags: ['Computer Automation','General Tools','Using the Mouse','Accessing the Web','Alternative Access','General Tools' ]
-categories: ['Software']
+title: 'Zen Key'
+date: '2016-06-21'
+description: 'This program allows you to control almost all aspects of your computer via the keyboard by creating new keyboard shortcuts.  It can also control the mouse pointer, including its speed from keyboard shortcuts.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'General Tools'
+    - 'Using the Mouse'
+    - 'Accessing the Web'
+    - 'Alternative Access'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.camiweb.com/zenkey/"
+download_url: 'http://www.camiweb.com/zenkey/'
+moderated: true
 ---
 Using keystrokes that work no matter what program you are in, you can do actions like launch a program or bring it back into focus; open a document, folder or Internet resource; perform an Internet search; minimize or maximize a window; issue a Media command. You can add any program, add or alter any menu, and assign any keystroke to perform any action.
 

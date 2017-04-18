@@ -1,13 +1,20 @@
 ---
-title: "ARASAAC Pictograms"
-date: "2016-06-21"
-description: "A free (CC-BY-NC-SA) resource of around 5000 colour and black &amp; white pictographic symbols from Catedu and the Aragonese Portal of Augmentative and Alternative Communication in Spain."
-project: "Software"
-tags: ['Symbol Library','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
-categories: ['Software']
-categories: ['Software']
+title: 'ARASAAC Pictograms'
+date: '2016-06-21'
+description: 'A free (CC-BY-NC-SA) resource of around 5000 colour and black &amp; white pictographic symbols from Catedu and the Aragonese Portal of Augmentative and Alternative Communication in Spain.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Alternative and Augmentative Communication'
+    - 'Educational and Learning'
+    - Communication
+    - Symbols
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.catedu.es/arasaac/descargas.php"
+download_url: 'http://www.catedu.es/arasaac/descargas.php'
+moderated: true
 ---
 From the authors:
 -----------------

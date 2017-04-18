@@ -1,12 +1,21 @@
 ---
-title: "SymVoc"
-date: "2016-06-21"
-description: "SymVoc is aimed to help less able people to communicate with others using symbols and speech synthesis."
-project: "Software"
-tags: ['Symbol Library','Text to Speech','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
-categories: ['Software']
+title: SymVoc
+date: '2016-06-21'
+description: 'SymVoc is aimed to help less able people to communicate with others using symbols and speech synthesis.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Text to Speech'
+    - 'Alternative and Augmentative Communication'
+    - 'Educational and Learning'
+    - Communication
+    - Symbols
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://symvoc.googlepages.com/download"
+download_url: 'http://symvoc.googlepages.com/download'
+moderated: true
 ---
 Symbols in the screenshot are just an example - contents can be fully configured.
 

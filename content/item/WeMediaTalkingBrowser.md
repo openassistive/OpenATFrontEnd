@@ -1,12 +1,19 @@
 ---
-title: "WeMedia Talking Browser"
-date: "2016-06-21"
-description: "A talking browser designed for vision- and learning-impaired Web surfers."
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen','Accessing the Web','Other need' ]
-categories: ['Software']
+title: 'WeMedia Talking Browser'
+date: '2016-06-21'
+description: 'A talking browser designed for vision- and learning-impaired Web surfers.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+    - 'Accessing the Web'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://browsers.evolt.org/download.php?/talking_browser/win32/1.2/WeMedia_TB.exe"
+download_url: 'http://browsers.evolt.org/download.php?/talking_browser/win32/1.2/WeMedia_TB.exe'
+moderated: true
 ---
 From the browser archive at 'evolt.org':
 ----------------------------------------

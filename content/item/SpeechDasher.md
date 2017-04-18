@@ -1,12 +1,17 @@
 ---
-title: "Speech Dasher"
-date: "2016-06-21"
-description: "Speech Dasher is a novel interface for the input of text using a combination of speech and gestures. A speech recognizer provides the initial guess of the user\'s desired text while a gesture-based interface allows the user to confirm and correct the recognizer\'s output."
-project: "Software"
-tags: ['Computer Automation','Text input Projects','Alternative Access' ]
-categories: ['Software']
+title: 'Speech Dasher'
+date: '2016-06-21'
+description: 'Speech Dasher is a novel interface for the input of text using a combination of speech and gestures. A speech recognizer provides the initial guess of the user\''s desired text while a gesture-based interface allows the user to confirm and correct the recognizer\''s output.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Text input Projects'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.keithv.com/software/speechdasher/"
+download_url: 'http://www.keithv.com/software/speechdasher/'
+moderated: true
 ---
 It is hoped that Speech Dasher will provide a text input interface which is:
 

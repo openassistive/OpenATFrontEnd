@@ -1,12 +1,17 @@
 ---
-title: "Speakup"
-date: "2016-06-21"
-description: "Speakup, written by Kirk Reiser and Andy Berdan, is a screen review package for the Linux operating system."
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen' ]
-categories: ['Software']
+title: Speakup
+date: '2016-06-21'
+description: 'Speakup, written by Kirk Reiser and Andy Berdan, is a screen review package for the Linux operating system.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.linux-speakup.org/download.html"
+download_url: 'http://www.linux-speakup.org/download.html'
+moderated: true
 ---
 From the authors:
 -----------------

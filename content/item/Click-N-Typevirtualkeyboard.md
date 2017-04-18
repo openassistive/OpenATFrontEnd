@@ -1,12 +1,17 @@
 ---
-title: "Click-N-Type virtual keyboard"
-date: "2016-06-21"
-description: "Click-N-Type is an on-screen virtual keyboard, giving access to the keyboard characters through the use of your mouse or other pointing device."
-project: "Software"
-tags: ['On Screen Keyboard Projects','Text input Projects','Alternative Access' ]
-categories: ['Software']
+title: 'Click-N-Type virtual keyboard'
+date: '2016-06-21'
+description: 'Click-N-Type is an on-screen virtual keyboard, giving access to the keyboard characters through the use of your mouse or other pointing device.'
+project: Software
+tags:
+    - 'On Screen Keyboard Projects'
+    - 'Text input Projects'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.lakefolks.org/cnt/#Download"
+download_url: 'http://www.lakefolks.org/cnt/#Download'
+moderated: true
 ---
 From the authors:
 -----------------

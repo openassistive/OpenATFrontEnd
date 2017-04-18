@@ -1,12 +1,16 @@
 ---
-title: "Edgeless"
-date: "2016-06-21"
-description: "This application causes the mouse pointer to wrap around the screen instead of stopping at the edges."
-project: "Software"
-tags: ['Other function','Using the Mouse' ]
-categories: ['Software']
+title: Edgeless
+date: '2016-06-21'
+description: 'This application causes the mouse pointer to wrap around the screen instead of stopping at the edges.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Using the Mouse'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.fxc.btinternet.co.uk/EdgelessSetup.exe"
+download_url: 'http://www.fxc.btinternet.co.uk/EdgelessSetup.exe'
+moderated: true
 ---
 This application causes the mouse pointer to wrap around the screen instead of stopping at the edges. It can be configured to start at Windows startup if required.
 

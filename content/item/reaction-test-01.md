@@ -16,5 +16,6 @@ original_url: 'https://github.com/hosseinamin/reaction-test-01'
 image_download: 'https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif'
 project: Software
 license: ""
+moderated: true
 ---
 Reaction test for human to find difference in set of images

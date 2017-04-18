@@ -1,12 +1,17 @@
 ---
-title: "Eventcorder"
-date: "2016-06-21"
-description: "Eventcorder records and plays back Windows events. With Eventcorder, a sequence of keystrokes and mouse-clicks can be implemented at the touch of a single button."
-project: "Software"
-tags: ['Computer Automation','Using the Mouse', 'Possible-404']
-categories: ['Software']
+title: Eventcorder
+date: '2016-06-21'
+description: 'Eventcorder records and plays back Windows events. With Eventcorder, a sequence of keystrokes and mouse-clicks can be implemented at the touch of a single button.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Using the Mouse'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.eventcorder.com/ec_downloads.htm"
+download_url: 'http://www.eventcorder.com/ec_downloads.htm'
+moderated: true
 ---
 From the author:
 ----------------

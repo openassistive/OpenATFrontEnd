@@ -1,12 +1,16 @@
 ---
-title: "Inclusive Serial Switch Driver"
-date: "2016-06-21"
-description: "A stand-alone serial switch driver for Windows, programmed to send the standard keys of Space and Return."
-project: "Software"
-tags: ['Switch Input Software','Alternative Access' ]
-categories: ['Software']
+title: 'Inclusive Serial Switch Driver'
+date: '2016-06-21'
+description: 'A stand-alone serial switch driver for Windows, programmed to send the standard keys of Space and Return.'
+project: Software
+tags:
+    - 'Switch Input Software'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.inclusive.co.uk/downloads/downloads.shtml#serialdriver"
+download_url: 'http://www.inclusive.co.uk/downloads/downloads.shtml#serialdriver'
+moderated: true
 ---
 - For single or two switch access.
 - Option to send a continuous stream of keypresses or a single keypress.

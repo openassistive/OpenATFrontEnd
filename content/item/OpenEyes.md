@@ -1,12 +1,16 @@
 ---
-title: "Open Eyes"
-date: "2016-06-21"
-description: "openEyes is an open-source open-hardware toolkit for low-cost real-time eye tracking."
-project: "Software"
-tags: ['Other function','Using the Mouse' ]
-categories: ['Software']
+title: 'Open Eyes'
+date: '2016-06-21'
+description: 'openEyes is an open-source open-hardware toolkit for low-cost real-time eye tracking.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Using the Mouse'
+categories:
+    - Software
 project_url: ""
-download_url: "http://thirtysixthspan.com/openEyes/software.html"
+download_url: 'http://thirtysixthspan.com/openEyes/software.html'
+moderated: true
 ---
 From the authors:
 -----------------

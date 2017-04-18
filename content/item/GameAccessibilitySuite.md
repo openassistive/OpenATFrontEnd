@@ -1,12 +1,15 @@
 ---
-title: "Game Accessibility Suite"
-date: "2016-06-21"
-description: "Code library and utilities to enhance accessibility to existing and future games (Win32)."
-project: "Software"
-tags: ['General Tools' ]
-categories: ['Software']
+title: 'Game Accessibility Suite'
+date: '2016-06-21'
+description: 'Code library and utilities to enhance accessibility to existing and future games (Win32).'
+project: Software
+tags:
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://sourceforge.net/project/showfiles.php?group_id=212119&amp;package_id=258851"
+download_url: 'http://sourceforge.net/project/showfiles.php?group_id=212119&amp;package_id=258851'
+moderated: true
 ---
 The Game Accessibility Suite [GAS] is a collection of utilities built to make video games more accessible. The current focus is the Win32 platform (esp. Windows XP).  It is released under an MIT-style license.
 

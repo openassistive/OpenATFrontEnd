@@ -1,12 +1,20 @@
 ---
-title: "Symbol Set Maker"
-date: "2016-06-21"
-description: "An accessory for making symbol sets for use in EdWord and EdWeb. It will instantly convert a file full of images into the correct format to be used in EdWord and EdWeb."
-project: "Software"
-tags: ['Symbol Library','Educational and Learning','Accessing the Web','Symbols','Learning and Education', 'Possible-404']
-categories: ['Software']
+title: 'Symbol Set Maker'
+date: '2016-06-21'
+description: 'An accessory for making symbol sets for use in EdWord and EdWeb. It will instantly convert a file full of images into the correct format to be used in EdWord and EdWeb.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Educational and Learning'
+    - 'Accessing the Web'
+    - Symbols
+    - 'Learning and Education'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.oatsoft.org/Software/symbol-set-maker/downloads/1.0/Sense_SymbolSetMaker_setup.exe"
+download_url: 'http://www.oatsoft.org/Software/symbol-set-maker/downloads/1.0/Sense_SymbolSetMaker_setup.exe'
+moderated: true
 ---
 
 

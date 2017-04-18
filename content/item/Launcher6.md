@@ -1,12 +1,16 @@
 ---
-title: "Launcher6"
-date: "2016-06-21"
-description: "Launcher6 is a simplified, switch accessible user interface that can launch programs, act as an electronic speech device, or act as a multimedia game spinner for Windows computers. The launcher6 screen completely covers the screen offering 6 choices, but reducing the probability that the user will encounter the perhaps troublesome Windows interface. Multiple access methods and supports like auditory scanning are simultaneously supported. The built in editor saves any changes automatically as they are made."
-project: "Software"
-tags: ['Educational and Learning','Alternative Access' ]
-categories: ['Software']
+title: Launcher6
+date: '2016-06-21'
+description: 'Launcher6 is a simplified, switch accessible user interface that can launch programs, act as an electronic speech device, or act as a multimedia game spinner for Windows computers. The launcher6 screen completely covers the screen offering 6 choices, but reducing the probability that the user will encounter the perhaps troublesome Windows interface. Multiple access methods and supports like auditory scanning are simultaneously supported. The built in editor saves any changes automatically as they are made.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://sites.google.com/site/jamjolu/Home/launcher6"
+download_url: 'http://sites.google.com/site/jamjolu/Home/launcher6'
+moderated: true
 ---
 <meta charset="windows-1252""" content="" content-type="" http-equiv="" text=""></meta><meta content="" generator="" microsoft="" name="" word=""></meta><title>Launcher Help Information:</title><meta c:="" content="" files="" name="" office="" template=""></meta>Launcher Help Information:
 

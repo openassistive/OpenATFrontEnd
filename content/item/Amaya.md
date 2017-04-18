@@ -1,13 +1,17 @@
 ---
-title: "Amaya"
-date: "2016-06-21"
-description: "Amaya is a complete Open Source accessible web browsing and authoring environment from WC3"
-project: "Software"
-tags: ['General Tools','Accessing the Web','General Tools' ]
-categories: ['Software']
-categories: ['Software']
+title: Amaya
+date: '2016-06-21'
+description: 'Amaya is a complete Open Source accessible web browsing and authoring environment from WC3'
+project: Software
+tags:
+    - 'General Tools'
+    - 'Accessing the Web'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.w3.org/Amaya/User/BinDist.html"
+download_url: 'http://www.w3.org/Amaya/User/BinDist.html'
+moderated: true
 ---
 W3C's Editor/Browser
 --------------------

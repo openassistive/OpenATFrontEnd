@@ -1,12 +1,17 @@
 ---
-title: "Number Navigator"
-date: "2016-06-21"
-description: "A program that assists those with fine motor problems to set out columnar arithmetic, without the need for a spreadsheet."
-project: "Software"
-tags: ['Educational and Learning','Alternative Access','Learning and Education' ]
-categories: ['Software']
+title: 'Number Navigator'
+date: '2016-06-21'
+description: 'A program that assists those with fine motor problems to set out columnar arithmetic, without the need for a spreadsheet.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Alternative Access'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://prdownloads.sourceforge.net/numnavigator/Number-Navigator-2-21a.exe?download"
+download_url: 'http://prdownloads.sourceforge.net/numnavigator/Number-Navigator-2-21a.exe?download'
+moderated: true
 ---
 
 

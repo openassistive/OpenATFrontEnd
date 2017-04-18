@@ -1,13 +1,18 @@
 ---
-title: "ACollab"
-date: "2016-06-21"
-description: "ACollab is an accessible, open source, multi-group, Web-based collaborative work environment. Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities."
-project: "Software"
-tags: ['Educational and Learning','Text input Projects','Alternative Access','Learning and Education' ]
-categories: ['Software']
-categories: ['Software']
+title: ACollab
+date: '2016-06-21'
+description: 'ACollab is an accessible, open source, multi-group, Web-based collaborative work environment. Group member, group administrator, and system administrator tools are all compliant with international accessibility standards (WCAG 1.0, Section 508 US) so people with disabilities can participate fully in collaborative and administrative activities.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Text input Projects'
+    - 'Alternative Access'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.atutor.ca/acollab/download.php"
+download_url: 'http://www.atutor.ca/acollab/download.php'
+moderated: true
 ---
 ACollab is available as a work groups **addon for ATutor 1.4+** , and as a standalone collaborative work environment that will run on its own. ACollab is ideal for groups working at a distance developing documentation, collaborating on research, or writing joint papers, and ideal for online educators who wish to add group learning activities to their ATutor courses. A <a acollab="" href="">demo</a> and <a acollab="" href="">download</a> are available if you want to learn more. Or, read on for a list of <a href="" portal_factory="">ACollab features</a>.
 

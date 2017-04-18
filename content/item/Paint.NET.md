@@ -1,12 +1,18 @@
 ---
-title: "Paint.NET"
-date: "2016-06-21"
-description: "A free (not open source) accessible painting program with powerful tools."
-project: "Software"
-tags: ['Educational and Learning','General Tools','Learning and Education','General Tools' ]
-categories: ['Software']
+title: Paint.NET
+date: '2016-06-21'
+description: 'A free (not open source) accessible painting program with powerful tools.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'General Tools'
+    - 'Learning and Education'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.getpaint.net/"
+download_url: 'http://www.getpaint.net/'
+moderated: true
 ---
 ##### **About**  
 Paint.NET is free image and <a _top="" class="" href="" id="" klink="" konalink0="" target="">photo editing software</a> for computers that run Windows. It <a href="">features</a> an intuitive and innovative user interface with support for layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. An active and growing <a href="">online community</a> provides friendly help, <a href="">tutorials</a>, and <a href="">plugins</a>.

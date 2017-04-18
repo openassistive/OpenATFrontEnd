@@ -1,12 +1,21 @@
 ---
-title: "SAW Resources"
-date: "2016-06-21"
-description: "These resources are in continual development and will be updated from time to time.  All contributions of new selection sets for SAW with be gratefully received."
-project: "Software"
-tags: ['On Screen Keyboard Projects','Text input Projects','Accessing the Web','Symbols','Alternative Access','Learning and Education', 'Possible-404']
-categories: ['Software']
+title: 'SAW Resources'
+date: '2016-06-21'
+description: 'These resources are in continual development and will be updated from time to time.  All contributions of new selection sets for SAW with be gratefully received.'
+project: Software
+tags:
+    - 'On Screen Keyboard Projects'
+    - 'Text input Projects'
+    - 'Accessing the Web'
+    - Symbols
+    - 'Alternative Access'
+    - 'Learning and Education'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.oatsoft.org/Software/saw-resources/downloads/2.6/SAW_6.pdf"
+download_url: 'http://www.oatsoft.org/Software/saw-resources/downloads/2.6/SAW_6.pdf'
+moderated: true
 ---
 
 

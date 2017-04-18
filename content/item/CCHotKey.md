@@ -1,12 +1,17 @@
 ---
-title: "CCHotKey"
-date: "2016-06-21"
-description: "Mac OSX CCHotKey is a small and simple application that launches any script you want after clicking any hotkey you want."
-project: "Software"
-tags: ['Computer Automation','Text input Projects','Alternative Access' ]
-categories: ['Software']
+title: CCHotKey
+date: '2016-06-21'
+description: 'Mac OSX CCHotKey is a small and simple application that launches any script you want after clicking any hotkey you want.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Text input Projects'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.coin-c.com/hotkeys.html"
+download_url: 'http://www.coin-c.com/hotkeys.html'
+moderated: true
 ---
 A simple hotkey generator for Mac OSX
 

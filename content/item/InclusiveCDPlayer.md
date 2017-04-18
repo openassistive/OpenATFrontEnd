@@ -1,12 +1,16 @@
 ---
-title: "Inclusive CD Player"
-date: "2016-06-21"
-description: "A free, switch accessible CD player for Windows 95 onwards."
-project: "Software"
-tags: ['Educational and Learning','Learning and Education' ]
-categories: ['Software']
+title: 'Inclusive CD Player'
+date: '2016-06-21'
+description: 'A free, switch accessible CD player for Windows 95 onwards.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.inclusive.co.uk/downloads/Inclusive_CD_Player.exe"
+download_url: 'http://www.inclusive.co.uk/downloads/Inclusive_CD_Player.exe'
+moderated: true
 ---
 
 

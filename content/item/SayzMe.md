@@ -1,12 +1,17 @@
 ---
-title: "Sayz Me"
-date: "2016-06-21"
-description: "Sayz Me is a free text-to-speech reader for Windows. Text is typed in or copied from the clipboard and then read aloud."
-project: "Software"
-tags: ['Text to Speech','Communication','Viewing the screen' ]
-categories: ['Software']
+title: 'Sayz Me'
+date: '2016-06-21'
+description: 'Sayz Me is a free text-to-speech reader for Windows. Text is typed in or copied from the clipboard and then read aloud.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - Communication
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://sourceforge.net/projects/sayzme/"
+download_url: 'http://sourceforge.net/projects/sayzme/'
+moderated: true
 ---
 Words are highlighted as they are spoken. Select voice, adjust reading speed, voice pitch, font, font size and color. Hides in the system tray. Very simple and easy to use. Freeware. BSD style license.
 

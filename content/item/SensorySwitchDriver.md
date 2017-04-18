@@ -1,12 +1,17 @@
 ---
-title: "Sensory Switch Driver"
-date: "2016-06-21"
-description: "Empowering switches connected via USB or serial ports"
-project: "Software"
-tags: ['Switch Input Software','Using the Mouse','Alternative Access' ]
-categories: ['Software']
+title: 'Sensory Switch Driver'
+date: '2016-06-21'
+description: 'Empowering switches connected via USB or serial ports'
+project: Software
+tags:
+    - 'Switch Input Software'
+    - 'Using the Mouse'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.sensorysoftware.com/switchdriver.html"
+download_url: 'http://www.sensorysoftware.com/switchdriver.html'
+moderated: true
 ---
 The authors say:
 ----------------

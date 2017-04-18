@@ -1,13 +1,17 @@
 ---
-title: "Accessible RSS"
-date: "2016-06-21"
-description: "Interested in keeping up with the headlines and newspapers? A new technology called RSS has recently taken the Internet by storm. Websites provide \"\"feeds\"\" of their latest stories and headlines, and you can get these simple lists, updated every few minutes.  Accessible RSS is an accessible application that lets you access these RSS feeds.  NOTE: Accessible RSS is now included in the WebbIE3 installation."
-project: "Software"
-tags: ['Text to Speech','Viewing the screen','Accessing the Web' ]
-categories: ['Software']
-categories: ['Software']
+title: 'Accessible RSS'
+date: '2016-06-21'
+description: 'Interested in keeping up with the headlines and newspapers? A new technology called RSS has recently taken the Internet by storm. Websites provide ""feeds"" of their latest stories and headlines, and you can get these simple lists, updated every few minutes.  Accessible RSS is an accessible application that lets you access these RSS feeds.  NOTE: Accessible RSS is now included in the WebbIE3 installation.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Viewing the screen'
+    - 'Accessing the Web'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.webbie.org.uk/accessiblerss/index.htm"
+download_url: 'http://www.webbie.org.uk/accessiblerss/index.htm'
+moderated: true
 ---
 From the authors:
 -----------------

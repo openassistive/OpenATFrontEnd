@@ -1,12 +1,17 @@
 ---
-title: "Grid Maker"
-date: "2016-06-21"
-description: "An accessory for producing grids for use in EdWord and EdWeb. This can provide a list of words or symbols for the user to choose from when writing, as well as pictures, effects and web addresses."
-project: "Software"
-tags: ['Other function','Other need', 'Possible-404']
-categories: ['Software']
+title: 'Grid Maker'
+date: '2016-06-21'
+description: 'An accessory for producing grids for use in EdWord and EdWeb. This can provide a list of words or symbols for the user to choose from when writing, as well as pictures, effects and web addresses.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Other need'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.oatsoft.org/Software/grid-maker/downloads/2.x/Sense_GridMaker_setup.exe"
+download_url: 'http://www.oatsoft.org/Software/grid-maker/downloads/2.x/Sense_GridMaker_setup.exe'
+moderated: true
 ---
 
 

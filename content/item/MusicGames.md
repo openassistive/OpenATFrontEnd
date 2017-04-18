@@ -1,12 +1,16 @@
 ---
-title: "Music Games"
-date: "2016-06-21"
-description: "Music Games is a collection of early learning musical activities, ideal for Key Stage 1."
-project: "Software"
-tags: ['Educational and Learning','Learning and Education' ]
-categories: ['Software']
+title: 'Music Games'
+date: '2016-06-21'
+description: 'Music Games is a collection of early learning musical activities, ideal for Key Stage 1.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.inclusive.co.uk/downloads/downloads.shtml#musicgames"
+download_url: 'http://www.inclusive.co.uk/downloads/downloads.shtml#musicgames'
+moderated: true
 ---
 
 

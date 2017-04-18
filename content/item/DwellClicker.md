@@ -1,12 +1,17 @@
 ---
-title: "Dwell Clicker"
-date: "2016-06-21"
-description: "Dwelling is resting the mouse over one area of the screen for a specified time. The dwell click software allows you to perform left-click, right-click and double clicks, and even drag things around the screen."
-project: "Software"
-tags: ['Other function','Using the Mouse','Alternative Access' ]
-categories: ['Software']
+title: 'Dwell Clicker'
+date: '2016-06-21'
+description: 'Dwelling is resting the mouse over one area of the screen for a specified time. The dwell click software allows you to perform left-click, right-click and double clicks, and even drag things around the screen.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Using the Mouse'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.sensorysoftware.com/downloads/DwellClick.exe"
+download_url: 'http://www.sensorysoftware.com/downloads/DwellClick.exe'
+moderated: true
 ---
 
 

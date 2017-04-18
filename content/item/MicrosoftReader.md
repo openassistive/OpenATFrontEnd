@@ -1,12 +1,19 @@
 ---
-title: "Microsoft Reader"
-date: "2016-06-21"
-description: "Microsoft Reader is used to view certain eBooks on your computer. An additional piece of software, \'Microsoft Reader Text-to-Speech Package\' can be downloaded in order to speak your eBooks to you, giving you access to all manner of novels and non-fiction eBooks without the need to read them from the screen."
-project: "Software"
-tags: ['Text to Speech','Educational and Learning','Viewing the screen','Learning and Education','Other need' ]
-categories: ['Software']
+title: 'Microsoft Reader'
+date: '2016-06-21'
+description: 'Microsoft Reader is used to view certain eBooks on your computer. An additional piece of software, \''Microsoft Reader Text-to-Speech Package\'' can be downloaded in order to speak your eBooks to you, giving you access to all manner of novels and non-fiction eBooks without the need to read them from the screen.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Educational and Learning'
+    - 'Viewing the screen'
+    - 'Learning and Education'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.microsoft.com/reader/downloads/pc.aspx"
+download_url: 'http://www.microsoft.com/reader/downloads/pc.aspx'
+moderated: true
 ---
 You must have Microsoft Reader installed on your machine before the Microsoft Reader Text-to-Speech Package can be installed. The Text-to-Speech Package is available in English, French and German.
 

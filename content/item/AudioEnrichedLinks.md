@@ -1,12 +1,16 @@
 ---
-title: "Audio Enriched Links"
-date: "2016-06-21"
-description: "Audio Enriched Links provide previews of linked web pages to users with visual impairments."
-project: "Software"
-tags: ['Other function','Viewing the screen' ]
-categories: ['Software']
+title: 'Audio Enriched Links'
+date: '2016-06-21'
+description: 'Audio Enriched Links provide previews of linked web pages to users with visual impairments.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://prdownloads.sourceforge.net/uncassist/AEL-1.42a.exe?use_mirror=internap"
+download_url: 'http://prdownloads.sourceforge.net/uncassist/AEL-1.42a.exe?use_mirror=internap'
+moderated: true
 ---
 
 

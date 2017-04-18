@@ -1,12 +1,18 @@
 ---
-title: "EmacSpeak"
-date: "2016-06-21"
-description: "Emacspeak is a speech interface that allows visually impaired users to interact independently and efficiently with the computer."
-project: "Software"
-tags: ['Text to Speech','Other function','Viewing the screen', 'Possible-404']
-categories: ['Software']
+title: EmacSpeak
+date: '2016-06-21'
+description: 'Emacspeak is a speech interface that allows visually impaired users to interact independently and efficiently with the computer.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Other function'
+    - 'Viewing the screen'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://prdownloads.sourceforge.net/emacspeak/"
+download_url: 'http://prdownloads.sourceforge.net/emacspeak/'
+moderated: true
 ---
 
 

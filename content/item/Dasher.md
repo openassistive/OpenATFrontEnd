@@ -1,12 +1,18 @@
 ---
-title: "Dasher"
-date: "2016-06-21"
-description: "Dasher is an information-efficient text-entry interface, driven by natural continuous pointing gestures."
-project: "Software"
-tags: ['On Screen Keyboard Projects','Switch Input Software','Text input Projects','Alternative Access' ]
-categories: ['Software']
+title: Dasher
+date: '2016-06-21'
+description: 'Dasher is an information-efficient text-entry interface, driven by natural continuous pointing gestures.'
+project: Software
+tags:
+    - 'On Screen Keyboard Projects'
+    - 'Switch Input Software'
+    - 'Text input Projects'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.inference.phy.cam.ac.uk/dasher/Download.html"
+download_url: 'http://www.inference.phy.cam.ac.uk/dasher/Download.html'
+moderated: true
 ---
 From the authors:
 -----------------

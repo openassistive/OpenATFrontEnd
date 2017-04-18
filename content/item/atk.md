@@ -1,12 +1,15 @@
 ---
-title: "atk"
-date: "2016-06-21"
-description: "The interface definitions of accessibility infrastructure.  (GNOME)"
-project: "Software"
-tags: ['General Tools' ]
-categories: ['Software']
+title: atk
+date: '2016-06-21'
+description: 'The interface definitions of accessibility infrastructure.  (GNOME)'
+project: Software
+tags:
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.bz2"
+download_url: 'http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.bz2'
+moderated: true
 ---
 Second download at
 

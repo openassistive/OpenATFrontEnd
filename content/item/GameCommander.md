@@ -1,12 +1,17 @@
 ---
-title: "Game Commander"
-date: "2016-06-21"
-description: "Game Commander is a voice recognition program designed for games commands, but which can be used for general voice commands."
-project: "Software"
-tags: ['Other function','Alternative Access','Other need' ]
-categories: ['Software']
+title: 'Game Commander'
+date: '2016-06-21'
+description: 'Game Commander is a voice recognition program designed for games commands, but which can be used for general voice commands.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Alternative Access'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.tucows.com/preview/364262"
+download_url: 'http://www.tucows.com/preview/364262'
+moderated: true
 ---
 What the authors say:  
 

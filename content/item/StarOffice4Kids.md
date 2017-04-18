@@ -1,12 +1,18 @@
 ---
-title: "StarOffice 4 Kids"
-date: "2016-06-21"
-description: "StarOffice 4 Kids is a product suite for teachers and students that has emerged from a technological research project."
-project: "Software"
-tags: ['Educational and Learning','General Tools','Learning and Eductation','General Tools' ]
-categories: ['Software']
+title: 'StarOffice 4 Kids'
+date: '2016-06-21'
+description: 'StarOffice 4 Kids is a product suite for teachers and students that has emerged from a technological research project.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'General Tools'
+    - 'Learning and Eductation'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://so4k.kippdata.com/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=31&amp;MMN_position=93:93"
+download_url: 'http://so4k.kippdata.com/index.php?module=pagemaster&amp;PAGE_user_op=view_page&amp;PAGE_id=31&amp;MMN_position=93:93'
+moderated: true
 ---
 From the authors:
 -----------------

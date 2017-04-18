@@ -1,12 +1,20 @@
 ---
-title: "Sclera's Pictos"
-date: "2016-06-21"
-description: "A resource of 4769 free symbols (pictograms)."
-project: "Software"
-tags: ['Symbol Library','Alternative and Augmentative Communication','Educational and Learning','Communication','Symbols','Learning and Education' ]
-categories: ['Software']
+title: 'Sclera''s Pictos'
+date: '2016-06-21'
+description: 'A resource of 4769 free symbols (pictograms).'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Alternative and Augmentative Communication'
+    - 'Educational and Learning'
+    - Communication
+    - Symbols
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.sclera.be/index.php?page=download"
+download_url: 'http://www.sclera.be/index.php?page=download'
+moderated: true
 ---
 From the authors:
 -----------------

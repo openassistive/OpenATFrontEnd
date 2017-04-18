@@ -1,12 +1,16 @@
 ---
-title: "SteadyMouse"
-date: "2016-06-21"
-description: "SteadyMouse is free software designed to assist people with the hand tremors that commonly go along with Parkinson\'s disease, Multiple sclerosis, etc."
-project: "Software"
-tags: ['General Tools','Using the Mouse' ]
-categories: ['Software']
+title: SteadyMouse
+date: '2016-06-21'
+description: 'SteadyMouse is free software designed to assist people with the hand tremors that commonly go along with Parkinson\''s disease, Multiple sclerosis, etc.'
+project: Software
+tags:
+    - 'General Tools'
+    - 'Using the Mouse'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.steadymouse.com/downloads/SetupSteadyMouse1.3.exe"
+download_url: 'http://www.steadymouse.com/downloads/SetupSteadyMouse1.3.exe'
+moderated: true
 ---
 <div class="" features="">Major Features: </div><div class="" features="">1. Anti-tremor mouse filtering
 </div>3. Removal of accidental mouse clicks

@@ -1,12 +1,19 @@
 ---
-title: "Morseall"
-date: "2016-06-21"
-description: "Morseall allows you to control your computer using only the mouse buttons. It allows you to produce keystrokes by tapping Morse codes with just a single button or with a three-button mouse for faster entry."
-project: "Software"
-tags: ['Switch Input Software','Alternative and Augmentative Communication','Text input Projects','Communication','Alternative Access' ]
-categories: ['Software']
+title: Morseall
+date: '2016-06-21'
+description: 'Morseall allows you to control your computer using only the mouse buttons. It allows you to produce keystrokes by tapping Morse codes with just a single button or with a three-button mouse for faster entry.'
+project: Software
+tags:
+    - 'Switch Input Software'
+    - 'Alternative and Augmentative Communication'
+    - 'Text input Projects'
+    - Communication
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://morseall.org/"
+download_url: 'http://morseall.org/'
+moderated: true
 ---
 Morseall allows people with limited mobility to use a computer.   
 Morseall is free software, distrubuted under a licese that guarantees future availability.

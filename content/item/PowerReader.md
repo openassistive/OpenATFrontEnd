@@ -1,12 +1,20 @@
 ---
-title: "Power Reader"
-date: "2016-06-21"
-description: "A dyslexic text reader/learning tool, a graphical, interactive text reader integrated with computer text-to-speech whose level of focus, complexity, and detail is adjustable according to the user\'s needs."
-project: "Software"
-tags: ['Symbol Library','Text to Speech','Educational and Learning','Symbols','Alternative Access','Learning and Education' ]
-categories: ['Software']
+title: 'Power Reader'
+date: '2016-06-21'
+description: 'A dyslexic text reader/learning tool, a graphical, interactive text reader integrated with computer text-to-speech whose level of focus, complexity, and detail is adjustable according to the user\''s needs.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Text to Speech'
+    - 'Educational and Learning'
+    - Symbols
+    - 'Alternative Access'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://code.google.com/p/pp-power-reader/downloads/list"
+download_url: 'http://code.google.com/p/pp-power-reader/downloads/list'
+moderated: true
 ---
 The dyslexic community accounts for 15-20% of the U.S. population. Our goal is to build a dyslexic text reader/learning tool, a graphical, interactive text reader integrated with computer text-to-speech whose level of focus, complexity, and detail is adjustable according to the user's needs.
 

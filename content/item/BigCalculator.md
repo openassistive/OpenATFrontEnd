@@ -1,12 +1,18 @@
 ---
-title: "Big Calculator"
-date: "2016-06-21"
-description: "You can either click on the buttons with the mouse or use the numeric keypad to perform calculations."
-project: "Software"
-tags: ['Text to Speech','Educational and Learning','Learning and Education','General Tools' ]
-categories: ['Software']
+title: 'Big Calculator'
+date: '2016-06-21'
+description: 'You can either click on the buttons with the mouse or use the numeric keypad to perform calculations.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Educational and Learning'
+    - 'Learning and Education'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.sensorysoftware.com/bigcalculator.html"
+download_url: 'http://www.sensorysoftware.com/bigcalculator.html'
+moderated: true
 ---
 The size of the calculator buttons is determined by the WIDTH of the calculator window.  
   

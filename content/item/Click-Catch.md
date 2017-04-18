@@ -1,12 +1,18 @@
 ---
-title: "Click-Catch"
-date: "2016-06-21"
-description: "Click-Catch(C) is an autoclicker. It means it simulates mouse clicks with constant intervals of time."
-project: "Software"
-tags: ['Computer Automation','Text input Projects','Using the Mouse','Alternative Access' ]
-categories: ['Software']
+title: Click-Catch
+date: '2016-06-21'
+description: 'Click-Catch(C) is an autoclicker. It means it simulates mouse clicks with constant intervals of time.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Text input Projects'
+    - 'Using the Mouse'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://langpawel.republika.pl/software.htm"
+download_url: 'http://langpawel.republika.pl/software.htm'
+moderated: true
 ---
 Click-Catch(C) available options:
 

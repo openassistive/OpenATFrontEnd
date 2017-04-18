@@ -1,12 +1,17 @@
 ---
-title: "Qwriting"
-date: "2016-06-21"
-description: "Based on Ken Perlin\'s Quikwriting, this is a novel on-screen keyboard that works on mouse gestures.  Moving your mouse in gestures across the Qwriting window turns the gestures into letters. This can be a very efficient way of typing for people who can only use a mouse and don\'t want to move the mouse much..."
-project: "Software"
-tags: ['On Screen Keyboard Projects','Text input Projects', 'Possible-404']
-categories: ['Software']
+title: Qwriting
+date: '2016-06-21'
+description: 'Based on Ken Perlin\''s Quikwriting, this is a novel on-screen keyboard that works on mouse gestures.  Moving your mouse in gestures across the Qwriting window turns the gestures into letters. This can be a very efficient way of typing for people who can only use a mouse and don\''t want to move the mouse much...'
+project: Software
+tags:
+    - 'On Screen Keyboard Projects'
+    - 'Text input Projects'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.oatsoft.org/Software/qwriting/downloads/2.1/QW.zip"
+download_url: 'http://www.oatsoft.org/Software/qwriting/downloads/2.1/QW.zip'
+moderated: true
 ---
 
 

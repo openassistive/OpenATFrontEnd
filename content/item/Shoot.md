@@ -1,12 +1,17 @@
 ---
-title: "Shoot"
-date: "2016-06-21"
-description: "Shoot is a speech recognition program that translates your voice commands into arbitrary keystrokes."
-project: "Software"
-tags: ['Other function','Alternative Access','Other need' ]
-categories: ['Software']
+title: Shoot
+date: '2016-06-21'
+description: 'Shoot is a speech recognition program that translates your voice commands into arbitrary keystrokes.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Alternative Access'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://clans.gameclubcentral.com/shoot/downloads.php"
+download_url: 'http://clans.gameclubcentral.com/shoot/downloads.php'
+moderated: true
 ---
 
 

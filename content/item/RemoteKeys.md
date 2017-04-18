@@ -1,12 +1,16 @@
 ---
-title: "RemoteKeys"
-date: "2016-06-21"
-description: "RemoteKeys can automate complex control systems, but also simple jobs like inserting text passages into Word and Emails. Automation allows complex sequences of keystrokes and mouse clicks to be carried out at the touch of a button. Note: Freeware. The original homepage and download links broken, removed and replaced respectively."
-project: "Software"
-tags: ['Computer Automation','Alternative Access' ]
-categories: ['Software']
+title: RemoteKeys
+date: '2016-06-21'
+description: 'RemoteKeys can automate complex control systems, but also simple jobs like inserting text passages into Word and Emails. Automation allows complex sequences of keystrokes and mouse clicks to be carried out at the touch of a button. Note: Freeware. The original homepage and download links broken, removed and replaced respectively.'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Alternative Access'
+categories:
+    - Software
 project_url: ""
-download_url: "http://download.cnet.com/RemoteKeys/3000-2094_4-10037533.html"
+download_url: 'http://download.cnet.com/RemoteKeys/3000-2094_4-10037533.html'
+moderated: true
 ---
 From the author:  
 

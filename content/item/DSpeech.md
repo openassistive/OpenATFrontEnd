@@ -1,12 +1,18 @@
 ---
-title: "DSpeech"
-date: "2016-06-21"
-description: "This is a TTS (Text To Speech) program with functionality of ASR (Automatic Speech Recognition) integrated. It is able to to read aloud the written text and choose the sentences to be pronounced based upon the vocal answers of the user."
-project: "Software"
-tags: ['Text to Speech','Text input Projects','Accessing the Web','General Tools' ]
-categories: ['Software']
+title: DSpeech
+date: '2016-06-21'
+description: 'This is a TTS (Text To Speech) program with functionality of ASR (Automatic Speech Recognition) integrated. It is able to to read aloud the written text and choose the sentences to be pronounced based upon the vocal answers of the user.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Text input Projects'
+    - 'Accessing the Web'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://dimio.altervista.org/eng/"
+download_url: 'http://dimio.altervista.org/eng/'
+moderated: true
 ---
 It is specifically designed to quickly and directly provide the functions and improved practical usefulness that are requested by this kind of program. In the meantime, the invasiveness and resource consumption is minimal.  
 (DSpeech does not install itself, is very light, starts in a second and doesn't write anything to the registry). Some notable features of DSpeech are:  

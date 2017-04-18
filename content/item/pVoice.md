@@ -1,12 +1,14 @@
 ---
-title: "pVoice"
-date: "2016-06-21"
+title: pVoice
+date: '2016-06-21'
 description: ""
-project: "Software"
-tags: [ ]
-categories: ['Software']
+project: Software
+tags: []
+categories:
+    - Software
 project_url: ""
 download_url: ""
+moderated: true
 ---
 
 

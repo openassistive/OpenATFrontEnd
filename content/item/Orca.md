@@ -1,12 +1,19 @@
 ---
-title: "Orca"
-date: "2016-06-21"
-description: "Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via user-customizable combinations of speech, braille, and/or magnification."
-project: "Software"
-tags: ['Text to Speech','General Tools','Viewing the screen','Alternative Access','General Tools' ]
-categories: ['Software']
+title: Orca
+date: '2016-06-21'
+description: 'Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via user-customizable combinations of speech, braille, and/or magnification.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'General Tools'
+    - 'Viewing the screen'
+    - 'Alternative Access'
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://live.gnome.org/Orca/DownloadInstall"
+download_url: 'http://live.gnome.org/Orca/DownloadInstall'
+moderated: true
 ---
 Orca development has been led by the Sun Microsystems, Inc., Accessibility Program Office via continued engagement with its end users and generous contributions from the Mozilla Foundation and wonderful community members.
 

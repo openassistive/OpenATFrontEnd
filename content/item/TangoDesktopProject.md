@@ -1,12 +1,18 @@
 ---
-title: "Tango Desktop Project"
-date: "2016-06-21"
-description: "The Tango Desktop Project exists to help create a consistent graphical user interface experience for free and Open Source software."
-project: "Software"
-tags: ['Symbol Library','General Tools','Symbols','General Tools' ]
-categories: ['Software']
+title: 'Tango Desktop Project'
+date: '2016-06-21'
+description: 'The Tango Desktop Project exists to help create a consistent graphical user interface experience for free and Open Source software.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'General Tools'
+    - Symbols
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://tango.freedesktop.org/Tango_Icon_Library#Download"
+download_url: 'http://tango.freedesktop.org/Tango_Icon_Library#Download'
+moderated: true
 ---
 While the look and feel of an application is determined by many individual components, some organization is necessary in order to unify the appearance and structure of individual icon sets used within those components.
 

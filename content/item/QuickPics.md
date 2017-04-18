@@ -1,12 +1,17 @@
 ---
-title: "QuickPics"
-date: "2016-06-21"
-description: "Software application to develop communication and language boards."
-project: "Software"
-tags: ['Alternative and Augmentative Communication','Communication', 'Possible-404']
-categories: ['Software']
+title: QuickPics
+date: '2016-06-21'
+description: 'Software application to develop communication and language boards.'
+project: Software
+tags:
+    - 'Alternative and Augmentative Communication'
+    - Communication
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.patrickecker.org/quickpics.htm"
+download_url: 'http://www.patrickecker.org/quickpics.htm'
+moderated: true
 ---
 QuickPics is a easy to use software application to develop communication and language boards. The program allows design and development of communication boards with visual graphics using an interface that is similar to a word processing program. Graphics are included in the program and are searchable by keyword. The storybook graphics are colorful and engaging.
 

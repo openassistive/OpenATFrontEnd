@@ -1,12 +1,17 @@
 ---
-title: "Free Speech for Android"
-date: "2016-06-21"
-description: "Free Speech is a free and open source augmentative and alternative communication (AAC) program that provides a low-cost alternative to dedicated speech generating devices (SGD)."
-project: "Software"
-tags: ['Text to Speech','Alternative and Augmentative Communication','Communication' ]
-categories: ['Software']
+title: 'Free Speech for Android'
+date: '2016-06-21'
+description: 'Free Speech is a free and open source augmentative and alternative communication (AAC) program that provides a low-cost alternative to dedicated speech generating devices (SGD).'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Alternative and Augmentative Communication'
+    - Communication
+categories:
+    - Software
 project_url: ""
 download_url: ""
+moderated: true
 ---
 Free Speech for Android is a free and open source sound board for people who have problems speaking. When you press a button, a sound is played.   
   

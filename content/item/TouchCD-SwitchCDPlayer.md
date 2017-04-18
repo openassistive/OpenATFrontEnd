@@ -1,12 +1,20 @@
 ---
-title: "TouchCD - Switch CD Player"
-date: "2016-06-21"
-description: "A very simple switch controlled CD player"
-project: "Software"
-tags: ['Computer Automation','Switch Input Software','Educational and Learning','Other function','Learning and Education','Other need' ]
-categories: ['Software']
+title: 'TouchCD - Switch CD Player'
+date: '2016-06-21'
+description: 'A very simple switch controlled CD player'
+project: Software
+tags:
+    - 'Computer Automation'
+    - 'Switch Input Software'
+    - 'Educational and Learning'
+    - 'Other function'
+    - 'Learning and Education'
+    - 'Other need'
+categories:
+    - Software
 project_url: ""
-download_url: "http://fullmeasure.co.uk/TouchCD/"
+download_url: 'http://fullmeasure.co.uk/TouchCD/'
+moderated: true
 ---
 TouchCD is a _very_ simple CD player that is controlled using a single switch or the keyboard's space bar.
 

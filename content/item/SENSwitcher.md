@@ -1,12 +1,17 @@
 ---
-title: "SENSwitcher"
-date: "2016-06-21"
-description: "From the Northern Grid for Learning web site...  \"\"SENSwitcher is a suite of programs designed to help teach early ICT skills to people with profound and multiple learning difficulties, those who need to develop skills with assistive input devices and very young children new to computers. It is, we believe the first time anyone anywhere has developed an online switch enabled application which targets ICT skills from purely experiential through cause and effect, switch building, timed activation, targeting and row scanning."
-project: "Software"
-tags: ['Educational and Learning','Learning and Education', 'Possible-404']
-categories: ['Software']
+title: SENSwitcher
+date: '2016-06-21'
+description: 'From the Northern Grid for Learning web site...  ""SENSwitcher is a suite of programs designed to help teach early ICT skills to people with profound and multiple learning difficulties, those who need to develop skills with assistive input devices and very young children new to computers. It is, we believe the first time anyone anywhere has developed an online switch enabled application which targets ICT skills from purely experiential through cause and effect, switch building, timed activation, targeting and row scanning.'
+project: Software
+tags:
+    - 'Educational and Learning'
+    - 'Learning and Education'
+    - Possible-404
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.northerngrid.org/index.php/component/content/article/81-sen/271-sen-switcher"
+download_url: 'http://www.northerngrid.org/index.php/component/content/article/81-sen/271-sen-switcher'
+moderated: true
 ---
 From the authors:  
 

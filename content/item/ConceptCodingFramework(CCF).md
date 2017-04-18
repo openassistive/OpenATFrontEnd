@@ -1,12 +1,19 @@
 ---
-title: "Concept Coding Framework (CCF)"
-date: "2016-06-21"
-description: "Around the world, people with impaired communication, including difficulties to read or write, may use symbols as an alternative or complement to character based texts. Referencing to, and exchanging these alternatively coded messages over the Internet is difficult due to the lack of standardised encoding schemes and common practises. The Concept Coding Framework (CCF) is being developed to overcome some of these difficulties."
-project: "Software"
-tags: ['Symbol Library','Alternative and Augmentative Communication','Communication','Accessing the Web','Symbols' ]
-categories: ['Software']
+title: 'Concept Coding Framework (CCF)'
+date: '2016-06-21'
+description: 'Around the world, people with impaired communication, including difficulties to read or write, may use symbols as an alternative or complement to character based texts. Referencing to, and exchanging these alternatively coded messages over the Internet is difficult due to the lack of standardised encoding schemes and common practises. The Concept Coding Framework (CCF) is being developed to overcome some of these difficulties.'
+project: Software
+tags:
+    - 'Symbol Library'
+    - 'Alternative and Augmentative Communication'
+    - Communication
+    - 'Accessing the Web'
+    - Symbols
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.conceptcoding.org/downloads"
+download_url: 'http://www.conceptcoding.org/downloads'
+moderated: true
 ---
 News
 ----

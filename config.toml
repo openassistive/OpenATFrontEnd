@@ -58,19 +58,25 @@ canonifyurls = true
   identifier = "hardware"
   name = "Hardware"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories/hardware"
+  url = "/categories/hardware/"
 [[menu.main]]
   weight = 1
   identifier = "software"
   name = "Software"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories/software"
+  url = "/categories/software/"
 [[menu.main]]
   weight = 2
   identifier = "all"
   name = "All tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  url = "/tags/"
+[[menu.main]]
+  weight = 2
+  identifier = "un-moderated"
+  name = "Un-moderated"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tag\"></i>"
+  url = "/tags/un-moderated/"
 [[menu.main]]
   weight = 3
   identifier = "about"
@@ -206,11 +212,11 @@ type = "text"
 required = true
 [[params.add.fields]]
 can_edit = true
-name = "project"
+name = "category"
 label = "Type"
 type = "select"
 required = true
-options = [ "Software", "Hardware" ]
+options = [ ["software","Software"], ["hardware","Hardware"] ]
 [[params.add.fields]]
 can_edit = true
 name = "authors"

@@ -1,12 +1,16 @@
 ---
-title: "ReadPlease"
-date: "2016-06-21"
-description: "Reads any text you see on your screen - all purpose text-to-speech software.  Available in a freeware version, and a payed plus version.  This is not open source."
-project: "Software"
-tags: ['Text to Speech','Viewing the screen' ]
-categories: ['Software']
+title: ReadPlease
+date: '2016-06-21'
+description: 'Reads any text you see on your screen - all purpose text-to-speech software.  Available in a freeware version, and a payed plus version.  This is not open source.'
+project: Software
+tags:
+    - 'Text to Speech'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://www.readplease.com/downloads/setupreadplease2003.exe"
+download_url: 'http://www.readplease.com/downloads/setupreadplease2003.exe'
+moderated: true
 ---
 
 

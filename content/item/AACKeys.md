@@ -1,13 +1,17 @@
 ---
-title: "AAC Keys"
-date: "2016-06-21"
-description: "AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and Macintosh computers. AAC Keys receives commands through your computer\'s serial port and translates them into keystrokes and mouse movements, giving you full control of your computer from another device such as an AAC system. (If your computer has only USB ports, an inexpensive adapter is available.)"
-project: "Software"
-tags: ['Alternative and Augmentative Communication','Communication','Using the Mouse' ]
+title: 'AAC Keys'
+date: '2016-06-21'
+description: 'AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and Macintosh computers. AAC Keys receives commands through your computer\''s serial port and translates them into keystrokes and mouse movements, giving you full control of your computer from another device such as an AAC system. (If your computer has only USB ports, an inexpensive adapter is available.)'
+project: Software
+tags:
+    - 'Alternative and Augmentative Communication'
+    - Communication
+    - 'Using the Mouse'
 categories:
-- software
+    - software
 project_url: ""
-download_url: "http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html"
+download_url: 'http://www.aacinstitute.org/Resources/ProductsandServices/AACKeys/AACKeys.html'
+moderated: true
 ---
 From the authors:
 -----------------

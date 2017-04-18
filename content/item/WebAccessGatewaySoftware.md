@@ -1,12 +1,16 @@
 ---
-title: "Web Access Gateway Software"
-date: "2016-06-21"
-description: "This software intercepts web pages before they appear on your screen, making them easier to see if you are visually impaired."
-project: "Software"
-tags: ['Other function','Viewing the screen' ]
-categories: ['Software']
+title: 'Web Access Gateway Software'
+date: '2016-06-21'
+description: 'This software intercepts web pages before they appear on your screen, making them easier to see if you are visually impaired.'
+project: Software
+tags:
+    - 'Other function'
+    - 'Viewing the screen'
+categories:
+    - Software
 project_url: ""
-download_url: "http://people.pwf.cam.ac.uk/ssb22/access"
+download_url: 'http://people.pwf.cam.ac.uk/ssb22/access'
+moderated: true
 ---
 What the authors say:  
 

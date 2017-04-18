@@ -1,12 +1,16 @@
 ---
-title: "mouseTrap"
-date: "2016-06-21"
-description: "mouseTrap is an application (for Linux) that intends to provide control of the mouse pointer using a Web Cam and face detection. The users can move the pointer using the face or other parts of it."
-project: "Software"
-tags: ['Environmental Control','Using the Mouse' ]
-categories: ['Software']
+title: mouseTrap
+date: '2016-06-21'
+description: 'mouseTrap is an application (for Linux) that intends to provide control of the mouse pointer using a Web Cam and face detection. The users can move the pointer using the face or other parts of it.'
+project: Software
+tags:
+    - 'Environmental Control'
+    - 'Using the Mouse'
+categories:
+    - Software
 project_url: ""
-download_url: "http://git.gnome.org/browse/mousetrap/"
+download_url: 'http://git.gnome.org/browse/mousetrap/'
+moderated: true
 ---
 **1) History:**
 

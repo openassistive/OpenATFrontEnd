@@ -1,12 +1,20 @@
 ---
-title: "SITPLUS"
-date: "2016-06-21"
-description: "SITPLUS is a free software (GNU GPL) framework whose main goal is to provide ludic-therapeutic activities for people with disabilities. It offers new forms of interaction based on computer vision, voice and other peripherals to produce a result in the form of image and sound."
-project: "Software"
-tags: ['Switch Input Software','Environmental Control','Educational and Learning','Communication','Alternative Access','Learning and Education' ]
-categories: ['Software']
+title: SITPLUS
+date: '2016-06-21'
+description: 'SITPLUS is a free software (GNU GPL) framework whose main goal is to provide ludic-therapeutic activities for people with disabilities. It offers new forms of interaction based on computer vision, voice and other peripherals to produce a result in the form of image and sound.'
+project: Software
+tags:
+    - 'Switch Input Software'
+    - 'Environmental Control'
+    - 'Educational and Learning'
+    - Communication
+    - 'Alternative Access'
+    - 'Learning and Education'
+categories:
+    - Software
 project_url: ""
-download_url: "http://sitplus.crea-si.com/downloads"
+download_url: 'http://sitplus.crea-si.com/downloads'
+moderated: true
 ---
 From the authors:
 -----------------

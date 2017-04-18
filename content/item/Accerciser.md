@@ -1,12 +1,15 @@
 ---
-title: "Accerciser"
-date: "2016-06-21"
-description: "Accerciser is an interactive Python accessibility explorer for the GNOME desktop. It uses AT-SPI to inspect and control widgets, allowing you to check if an application is providing correct information to assistive technologies and automated test frameworks."
-project: "Software"
-tags: ['General Tools' ]
-categories: ['Software']
+title: Accerciser
+date: '2016-06-21'
+description: 'Accerciser is an interactive Python accessibility explorer for the GNOME desktop. It uses AT-SPI to inspect and control widgets, allowing you to check if an application is providing correct information to assistive technologies and automated test frameworks.'
+project: Software
+tags:
+    - 'General Tools'
+categories:
+    - Software
 project_url: ""
-download_url: "http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz"
+download_url: 'http://ftp.gnome.org/pub/GNOME/sources/accerciser/1.3/accerciser-1.3.1.tar.gz'
+moderated: true
 ---
 This is to announce the first development release of Accerciser for the 1.4.0 (GNOME 2.24) cycle.
 
