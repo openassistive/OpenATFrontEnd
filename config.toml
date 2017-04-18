@@ -192,6 +192,19 @@ canonifyurls = true
   card_picture = "/images/logo.png"
   formspree_email = "contact@openassistive.org"
 
+[[params.service_by_url_finder]]
+name = "github"
+regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}github.com(/.*)?$"
+[[params.service_by_url_finder]]
+name = "sourceforge"
+regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}sourceforge.net(/.*)?$"
+[[params.service_by_url_finder]]
+name = "instructables"
+regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}instructables.com(/.*)?$"
+[[params.service_by_url_finder]]
+name = "thingiverse"
+regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}thingiverse.com(/.*)?$"
+
 
 [params.add]
 select_url="/add/"
