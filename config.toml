@@ -210,6 +210,7 @@ regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}thingiverse.com(/.*)?$"
 select_url="/add/"
 submit_url="/add/submit"
 done_url="/add/thankyou"
+recaptcha_site_key="INSERT RECAPTCHA KEY HERE"
 
 [[params.add.fields]]
 can_edit = false
