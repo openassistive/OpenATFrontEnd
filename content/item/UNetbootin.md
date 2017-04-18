@@ -16,5 +16,7 @@ image_download: 'http://a.fsdn.com/con/app/proj/unetbootin/screenshots/300347.jp
 license: ""
 date: '2017-04-18T06:08:26Z'
 moderated: false
+thumb: images/UNetbootin-thumb.png
+image: images/UNetbootin.png
 ---
 UNetbootin allows you to create bootable Live USB drives for Ubuntu, Fedora, and other Linux distributions without burning a CD. It runs on Windows, Linux, and Mac OS X. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
