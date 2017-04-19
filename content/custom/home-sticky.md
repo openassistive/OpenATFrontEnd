@@ -5,6 +5,9 @@ title = "A Library For Open Software And Hardware Projects"
 
 OpenAssistive is a catalogue of Open Source Assistive technology solutions.
 
+Insert your project here.
+
+<!-- SHORTENING TEXT FOR NOW
 ## What is Assistive Technology? 
 
 Open Source Assistive Technology Software (OATS) combine the benfits of open development with accessibility. Open accessibiity tools and programs may be openly shared, modified or studied. They are free or low cost, and yet reliable as problems are rapidly fixed. With open accessibility, users, friends and support staff discuss what they would like with developers and other 'techies' to create the software that they want. Good accessibility ideas can be freely shared and built on. Open accessibility ensures that people with disabilities, including the elderly and children, can get the most from computers and ICT. 
@@ -33,3 +36,5 @@ Alternatively you can host your own metadata
 ## EEk! I have a problem
 
 Great. Im sure we haven't found half the bugs yet! Drop us a line or if you want - fix it!
+
+ -->
