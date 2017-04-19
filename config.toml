@@ -210,7 +210,7 @@ regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}thingiverse.com(/.*)?$"
 select_url="/add/"
 submit_url="/add/submit"
 done_url="/add/thankyou"
-recaptcha_site_key="6LdLlx0UAAAAAC5_hClwK8NquKPXi"
+recaptcha_site_key="6LdLlx0UAAAAAC5_hClwK8NquKPXiCw-Zi76nw1"
 
 [[params.add.fields]]
 can_edit = false
