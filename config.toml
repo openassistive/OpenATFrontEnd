@@ -57,13 +57,13 @@ canonifyurls = true
   weight = 1
   identifier = "hardware"
   name = "Hardware"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-cogs\"></i>"
   url = "/categories/hardware/"
 [[menu.main]]
   weight = 1
   identifier = "software"
   name = "Software"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-code-o\"></i>"
   url = "/categories/software/"
 [[menu.main]]
   weight = 2
@@ -75,7 +75,7 @@ canonifyurls = true
   weight = 2
   identifier = "un-moderated"
   name = "Un-moderated"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tag\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-circle-o-notch\"></i>"
   url = "/tags/un-moderated/"
 [[menu.main]]
   weight = 3
