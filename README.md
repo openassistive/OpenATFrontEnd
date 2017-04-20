@@ -7,8 +7,8 @@ a front-end to OpenAssistive.
 
 1. Install Hugo: https://gohugo.io
 2. git clone https://github.com/openassistive/OpenATFrontEnd.git
-3. cd OpenATFrontend && mkdir themes && cd themes && git clone https://github.com/openassistive/openat-hugrid.git
-4. cd .. && hugo server --buildDrafts
+3. cd OpenATFrontend && git submodule foreach --recursive git checkout master
+4. hugo server --buildDrafts
 
 
 ## To run locally (following the inital run)
