@@ -95,13 +95,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
   url = "/#contact"
 
-[[menu.links]]
-  weight = 0
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/openassistive"
-
 [[menu.misc]]
   weight = 0
   identifier = "rss"
