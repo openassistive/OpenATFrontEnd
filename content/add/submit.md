@@ -5,6 +5,7 @@ title = "Submit your project"
 draft = false
 subview = "submit"
 showPagination = false
+comments = false
 +++
 
 Confirm, Edit, Add tags....
