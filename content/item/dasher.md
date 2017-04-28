@@ -6,7 +6,7 @@ datemod: '2017-04-21T03:18:11Z'
 download_url: 'https://github.com/ipomoena/dasher/releases'
 project_url: 'https://github.com/ipomoena/dasher'
 tags:
-    - alternative-access
+    - accessing-the-web
     - un-moderated
 categories:
     - software
