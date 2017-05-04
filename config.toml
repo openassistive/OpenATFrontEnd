@@ -21,7 +21,7 @@ disqusShortname = "openassistive"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
-MetaDataFormat = yaml 
+MetaDataFormat = "yaml" 
 
 [permalinks]
   post = "/:year/:month/:slug/"
