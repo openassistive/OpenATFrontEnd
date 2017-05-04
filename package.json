@@ -1,0 +1,19 @@
+{
+  "name": "openatfrontend-scripts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reindex": "node scripts/algolia_reindex_items.js content/item/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^3.22.1",
+    "htmlsave": "^1.0.0",
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6",
+    "yamljs": "^0.2.9"
+  }
+}

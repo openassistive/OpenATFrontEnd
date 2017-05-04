@@ -1,5 +1,5 @@
+const helper = require('./helper')
 const fs = require('fs')
-const yamljs = require('yamljs')
 
 if(process.argv.length < 4) {
   console.log("Usage: modifyitems.js modifier file [[file] ...]");
@@ -17,27 +17,6 @@ if(idx < 1 || idx + 1 == modifier_str.length) {
 var funcname = modifier_str.slice(0, idx),
     modulename = modifier_str.slice(idx + 1);
 
-function parseItem(data) {
-  var lines = data.split(/\r\n|\n/g);
-  // parse yamljs
-  var firstIdx = lines.indexOf('---'),
-      secondIdx = lines.indexOf('---', firstIdx + 1);
-  if(firstIdx != 0 || secondIdx <= firstIdx) 
-    throw new Error("Invalid format");
-  return {
-    data: data,
-    fm: yamljs.parse(lines.slice(0, secondIdx).join('\n')),
-    content: lines.slice(secondIdx + 1).join('\n')
-  };
-}
-function stringifyItem(item) {
-  var content = '---\n';    
-  content += yamljs.stringify(item.fm, 4);
-  content += '---\n';
-  content += item.content;
-  return content;
-}
-
 var modifier;
 try {
   modifier = require(modulename)[funcname];
@@ -52,12 +31,12 @@ try {
 for(let file of files) {
   try {
     var filedata = fs.readFileSync(file),
-        item = parseItem(filedata.toString('utf8'));
+        item = helper.parseItem(filedata.toString('utf8'));
     modifier(item);
     // fix newline
     var newline = '\r\n', // DOS-mode for convenience
                   // item.data.indexOf('\r\n') == -1 ? '\n' : '\r\n',
-        out = stringifyItem(item).replace(/\r\n|\n/g, newline);
+        out = helper.stringifyItem(item).replace(/\r\n|\n/g, newline);
     fs.writeFileSync(file, out);
   } catch(err) {
     console.error("At " + file)
