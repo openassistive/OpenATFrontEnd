@@ -19,7 +19,7 @@ relayed_by_ip: 135.196.99.211
 moderated: false
 moderated_short_title: PoweredMobilityTrainingDeviceforToddlers
 image_download_sha: 0ca7f7fa8f8c036e6c6c1d3f5aed9975fd9530c7d3b537d2a5fe04651df93091
-thumb: images/PoweredMobilityTrainingDeviceforToddlers-k4l-thumb.png
-image: images/PoweredMobilityTrainingDeviceforToddlers-k4l.png
+thumb: items/PoweredMobilityTrainingDeviceforToddlers-k4l-thumb.png
+image: items/PoweredMobilityTrainingDeviceforToddlers-k4l.png
 ---
 This instructable will go through the steps required for building a powered mobility training device for young children. The device consists of a 4 wheel platform, of which two are drive wheels controlled by a standard 9 pin direction input interface. This instructable offers two approaches to build this device. One approach uses an off the shelf baby cruizer as the platform, while the other requires a DIY platform. The second, DIY approach, is the one this instructable will focus on. Both approaches require a standard car seat for the child to use the device.

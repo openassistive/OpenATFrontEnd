@@ -19,8 +19,8 @@ relayed_by_ip: 135.196.99.211
 moderated: false
 moderated_short_title: UniversalWirelessSwitchAccess
 image_download_sha: 178916b0398bfed36c95126621c65d16743de46dc18215a62fc654af31d45c2f
-thumb: images/UniversalWirelessSwitchAccess-u2g-thumb.png
-image: images/UniversalWirelessSwitchAccess-u2g.png
+thumb: items/UniversalWirelessSwitchAccess-u2g-thumb.png
+image: items/UniversalWirelessSwitchAccess-u2g.png
 ---
 ssing a computer and especially a tablet without fingers is a challenge. Fortunaltely, most of the OS are equiped with accessibility tools designed to help users to access more easily their computer and tablet.
 
