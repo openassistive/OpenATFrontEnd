@@ -16,7 +16,7 @@ image_download: 'https://cdn.instructables.com/FUG/PJ2A/GJQEDL1W/FUGPJ2AGJQEDL1W
 license: ""
 date: '2017-05-08T21:41:11Z'
 relayed_by_ip: 135.196.99.211
-moderated: false
+moderated: true
 moderated_short_title: TalkingJoystickMouse
 image_download_sha: 9f25520f4a3a989dddf4743a2f7d92323488f26379ca779d3464d3298e5a8ed3
 thumb: items/TalkingJoystickMouse-nw1-thumb.png
