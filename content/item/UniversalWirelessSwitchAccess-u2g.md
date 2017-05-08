@@ -22,7 +22,7 @@ image_download_sha: 178916b0398bfed36c95126621c65d16743de46dc18215a62fc654af31d4
 thumb: items/UniversalWirelessSwitchAccess-u2g-thumb.png
 image: items/UniversalWirelessSwitchAccess-u2g.png
 ---
-ssing a computer and especially a tablet without fingers is a challenge. Fortunaltely, most of the OS are equiped with accessibility tools designed to help users to access more easily their computer and tablet.
+Using a computer and especially a tablet without fingers is a challenge. Fortunaltely, most of the OS are equiped with accessibility tools designed to help users to access more easily their computer and tablet.
 
 To further extend those possibility, it is possible to connect external switch to help, for example, with some screen scrolling to choose an item on the screen, to navigate and to select. 
 
