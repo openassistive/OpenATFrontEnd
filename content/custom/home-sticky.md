@@ -3,9 +3,8 @@ date = "2016-10-04T19:21:17+01:00"
 title = "A Library For Open Software And Hardware Projects"
 +++
 
-OpenAssistive is a catalogue of Open Source Assistive technology solutions.
+OpenAssistive is a catalogue of Open Source Assistive technology solutions. You can [search](#search) for a project or look for a project under a [tag](/tags/) or if you want to add a new project simply add your GitHub, Instructables, Pinshape, Sourceforge or Thingiverse page of your project here (see the [add page](/add) for more details): 
 
-Insert your project here.
 
 <!-- SHORTENING TEXT FOR NOW
 ## What is Assistive Technology? 
