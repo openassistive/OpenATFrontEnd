@@ -49,12 +49,6 @@ MetaDataFormat = "yaml"
 
 # Menu Configuration
 [[menu.main]]
-  weight = 0
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
-[[menu.main]]
   weight = 1
   identifier = "hardware"
   name = "Hardware"
@@ -78,30 +72,24 @@ MetaDataFormat = "yaml"
   name = "All tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags/"
-[[menu.main]]
+  
+[[menu.misc]]
   weight = 2
   identifier = "un-moderated"
   name = "Un-moderated"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-circle-o-notch\"></i>"
   url = "/tags/un-moderated/"
-[[menu.main]]
-  weight = 3
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
-[[menu.main]]
+[[menu.misc]]
   weight = 4
   name = "Add"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
   url = "/add"
-[[menu.main]]
+[[menu.misc]]
   weight = 4
   identifier = "contact"
   name = "Contact"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
   url = "/#contact"
-
 [[menu.misc]]
   weight = 0
   identifier = "rss"
