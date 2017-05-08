@@ -8,7 +8,6 @@ showPagination = false
 comments = false
 +++
 
-
 Simply add your project URL by entering it here. We currently support:
 
 * Github (e.g. http://github.com/user/projectname)

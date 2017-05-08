@@ -5,6 +5,7 @@ title = "How to add/edit your own project files (Advanced)"
 +++
 
 So you know your GitHub from your BitBucket or you know your Gcode from your STL. Welcome..
+<!--more-->
 
 As well as the super simple "Add" system you can have more control over your projects on OpenAssistive by adding & maintaining your own project files. There are a few different ways in achieving this depending on your level of knowledge of GitHub and Markdown;
 

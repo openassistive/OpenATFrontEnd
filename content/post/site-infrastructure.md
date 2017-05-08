@@ -5,7 +5,7 @@ title = "Site Infrastructure - what makes the cogs work"
 
 So some of you will want to know how this all works. Well in short we are using a [JAMstack](http://jamstack.org) (Javascript, APIS and Markup).
 
-In particular we use the following bits of technology:
+In particular we use the following bits of technology <!--more-->:
 
 - The main grunt work is done by [Hugo](http://gohugo.io). A static site generator. Its amazing. If you want to look at making your own static site look no further than Hugo. Why is it so good?
 	- A lot of static site generators are really designed for Blogs. You can kind of get them to work to your own needs but its a bit messy
