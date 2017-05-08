@@ -31,7 +31,7 @@ As well as the super simple "Add" system you can have more control over your pro
 	* license: what Licence, if any, are you using (NB: It really helps if you do)
 	* image: Do you have an image? If so add the path to it here. NB: we crop it to 500px wide and will make a thumb from it. You have been warned!
 	 
-	You can then add any content you like to the body (i.e. after that last ---). Note though it has to be markdown formatted. 
+	You can then add any content you like to the body (i.e. after that last ---). Note though it has to be [markdown formatted](https://daringfireball.net/projects/markdown/). 
 
 	E.g. 
 

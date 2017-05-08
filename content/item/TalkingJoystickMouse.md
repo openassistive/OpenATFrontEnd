@@ -6,8 +6,8 @@ download_url: 'http://www.instructables.com/id/Talking-Joystick-Mouse/'
 project_url: 'http://www.instructables.com/id/Talking-Joystick-Mouse'
 description: 'With Instructables you can share what you make with the world, and tap into an ever-growing community of creative experts.'
 tags:
-    - alternative-access
-    - un-moderated
+    - alternative-mice
+    - joysticks
 categories:
     - hardware
 original_url: 'http://www.instructables.com/id/Talking-Joystick-Mouse'
@@ -22,4 +22,10 @@ image_download_sha: 9f25520f4a3a989dddf4743a2f7d92323488f26379ca779d3464d3298e5a
 thumb: items/TalkingJoystickMouse-nw1-thumb.png
 image: items/TalkingJoystickMouse-nw1.png
 ---
-I work in Assistive Technology, which is technology designed to help people with disabilities stay independent. We encountered a man who had quadriplegia due to a motor vehicle accident.  He had a little motion in one hand and wanted to use a computer, but he could not use a regular mouse.  If he could use the computer, he could go online, surf the internet, research whatever struck his fancy, chat with other people, email, etc. - it would open a lot of doors for him and greatly increase his standard of living.  We tried a commercially available joystick mouse, and he could use it successfully.  The problem was cost: the commercial model was $550 (since then, it has dropped to $400 ) which neither he nor his family could afford. I built a joystick mouse for him out of a USB gamepad and arcade machine components.  This mouse had two ...
+
+> I built a joystick mouse for him out of a USB gamepad and arcade machine components.  This mouse had two features lacking in the commercial model: 1) It could launch programs or commands, greatly increasing the efficiency of computer use  2) it could talk, giving auditory feedback regarding which button was pressed, as he could not move his head to look at his hands. 
+
+
+{{< alert info >}}
+Great instructable showing how to modify a games joystick. Note it uses Autohotkey to convert Joystick to Mouse movement. Check out other Joy to mouse software if you dont want to mess with that
+{{< /alert >}}
