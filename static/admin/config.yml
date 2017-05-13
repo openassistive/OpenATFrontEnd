@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: openassistive/OpenATFrontend # Path to your Github repository
+  branch: master # Branch to update
+publish_mode: editorial_workflow
+media_folder: "static/images" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - name: "post" # Used in routes, e.g. /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "/content/post/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "item" # Used in routes, e.g. /admin/collections/blog
+    label: "Items" # Used in the UI
+    folder: "/content/item/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Project Type", name: "project", widget: "string"}
+      - {label: "Project URL", name: "project_url", widget: "string"}
+      - {label: "Download URL", name: "download_url", widget: "string"}
+      - {label: "Moderated?", name: "moderated", widget: "string"}
+      - {label: "Licence", name: "licence", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
