@@ -1,24 +1,20 @@
 ---
-title: at-spi
+title: 'ATK - Accessible Toolkit'
+authors: 'The GNOME Project'
+project_url: 'https://developer.gnome.org/at-spi-cspi/'
+download_url: 'https://developer.gnome.org/at-spi-cspi/
+description: 'The AT-SPI library provides interfaces which are used by accessibility technologies.'
+license: ""
+thumb: 'images/gnome-atk-thumb.jpg'
+image: 'images/gnome-spi.png'
 date: '2016-06-21'
-description: 'at-spi (assistive technology service provider interface) is the primary assistive technology infrastructure for the Solaris and Linux operating environments.'
 project: Software
 tags:
     - 'General Tools'
 categories:
     - Software
-project_url: ""
-download_url: 'http://ftp.gnome.org/pub/GNOME/sources/at-spi/1.21/at-spi-1.21.5.tar.gz'
 moderated: true
 ---
- Applications and toolkits supporting the AT-SPI include the GNOME GTK+ toolkit, the Java platform's Swing toolkit, OpenOffice, and Mozilla.
+The AT-SPI library provides interfaces which are used by accessibility technologies.
 
-A second download is at:
-
-<a href="">http://ftp.gnome.org/pub/GNOME/sources/at-spi/1.21/at-spi-1.21.5.tar.bz2</a>
-
-### Links:
-- <a href="mailto:Li.Yuan@Sun.COM">Contact Address</a>
-- <a href="http://developer.gnome.org/projects/gap/">Project Home Page</a>
-
-### Download: http://ftp.gnome.org/pub/GNOME/sources/at-spi/1.21/at-spi-1.21.5.tar.gz 
+This module is heading towards planned deprecation. It will continue to be supported and API/ABI stable throughout the GNOME 2.x series, but we do not recommend using it in new applications unless you require functionality that has not already been moved elsewhere.
