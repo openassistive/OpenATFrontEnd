@@ -1,7 +1,13 @@
 ---
 title: 'Accessible Radio'
+authors: 'Dr Alistair King'
+project_url: 'http://www.webbie.org.uk/bbcliveradio/index.htm'
+download_url: 'http://www.webbie.org.uk/bbcliveradio/setup.exe'
+description: 'A simple way to listen to one of dozens of live BBC radio stations online with a couple of key presses.'
+license: ""
+thumb: items/accessible-radio-thumb.png
+image: items/accessible-radio.png
 date: '2016-06-21'
-description: 'Accessible Radio is a way to listen to radio stations on the internet that is easy and simple to use and is designed to work with any screen reader.'
 project: Software
 tags:
     - 'Text to Speech'
@@ -9,13 +15,8 @@ tags:
     - 'Accessing the Web'
 categories:
     - Software
-project_url: ""
-download_url: 'http://www.webbie.org.uk/accessibleradio/index.htm'
 moderated: true
 ---
-Accessible Radio lets you listen to any of the BBC Radio stations.
+This simple application lets you listen to one of dozens of live BBC radio stations online with a couple of key presses. It's easy to use with any screenreader - much simpler than the BBC site. So you can enjoy listening to radio stations without lots of technical knowledge or difficulty.
 
-### Links:
-- <a href="http://www.webbie.org.uk/accessibleradio/index.htm">Project Home Page</a>
-
-### Download: http://www.webbie.org.uk/accessibleradio/index.htm 
+BBC Live Radio is free. You can get it from the link below. You have to run the setup.exe file that you get from the link, and everything will be installed for you. You will then have a desktop shortcut called "BBC Live Radio" you can use to start the program. You can also find "BBC Live Radio" in your Start menu.
