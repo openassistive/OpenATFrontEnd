@@ -6,7 +6,7 @@ download_url: 'https://aacinstitute.org/aac-keys/'
 description: 'AAC Keys is a keyboard and mouse emulation program for Microsoft Windows-based and Macintosh computers. '
 license: ""
 thumb: items/aackeys-splash-thumb.jpg
-image: items/aackeys-splash.png
+image: items/aackeys-splash.jpg
 date: '2016-06-21'
 project: Software
 tags:

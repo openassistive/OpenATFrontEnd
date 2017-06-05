@@ -5,7 +5,7 @@ project_url: 'https://wiki.gnome.org/action/show/Apps/Accerciser?action=show&red
 download_url: 'ftp.gnome.org/pub/GNOME/sources/accerciser/'
 description: 'Accerciser is an interactive Python accessibility explorer for the GNOME desktop.'
 license: ""
-thumb: items/accerciser-thumb.jpg
+thumb: items/accerciser-thumb.png
 image: items/accerciser.png
 date: '2016-06-21'
 project: Software
