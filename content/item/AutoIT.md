@@ -5,8 +5,8 @@ project_url: 'https://www.autoitscript.com/'
 download_url: 'https://www.autoitscript.com/site/autoit/downloads/'
 description: 'AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages.'
 license: ""
-thumb: 'images/autoit-thumb.jpg'
-image: 'images/autoit.png'
+thumb: 'items/autoit-thumb.jpg'
+image: 'items/autoit.png'
 date: '2016-06-21'
 project: Software
 tags:
