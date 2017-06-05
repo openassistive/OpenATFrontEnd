@@ -1,23 +1,18 @@
 ---
-title: atk
+title: 'ATK - Accessible Toolkit'
+authors: 'The GNOME Project'
+project_url: 'https://developer.gnome.org/atk/'
+download_url: 'https://developer.gnome.org/atk/'
+description: 'ATK provides the set of accessibility interfaces that are implemented by other toolkits and applications. Using the ATK interfaces, accessibility tools have full access to view and control running applications.'
+license: ""
+thumb: 'images/gnome-atk-thumb.jpg'
+image: 'images/gnome-atk.png'
 date: '2016-06-21'
-description: 'The interface definitions of accessibility infrastructure.  (GNOME)'
 project: Software
 tags:
     - 'General Tools'
 categories:
     - Software
-project_url: ""
-download_url: 'http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.bz2'
 moderated: true
 ---
-Second download at
-
-<a href="">http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.gz</a>
-
-### Links:
-- <a href="http://developer.gnome.org/projects/gap/guide/gad/index.html">Help</a>
-- <a href="mailto:Li.Yuan@Sun.COM">Contact Address</a>
-- <a href="http://developer.gnome.org/projects/gap/guide/gad/index.html">Project Home Page</a>
-
-### Download: http://ftp.gnome.org/pub/GNOME/sources/atk/1.21/atk-1.21.5.tar.bz2 
+ATK provides the set of accessibility interfaces that are implemented by other toolkits and applications. Using the ATK interfaces, accessibility tools have full access to view and control running applications.
