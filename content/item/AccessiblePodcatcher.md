@@ -5,8 +5,8 @@ project_url: 'http://www.webbie.org.uk/accessiblepodcatcher/index.htm'
 download_url: 'http://www.webbie.org.uk/accessiblepodcatcher/index.htm'
 description: 'A simple way for blind and screen reader users to use podcasts.'
 license: ""
-thumb: images/accessible-podcatcher-thumb.jpg
-image: images/accessible-podcatcher.png
+thumb: items/accessible-podcatcher-thumb.jpg
+image: items/accessible-podcatcher.png
 project: Software
 tags:
     - 'Text to Speech'

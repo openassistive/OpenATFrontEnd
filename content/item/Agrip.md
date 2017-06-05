@@ -5,8 +5,8 @@ project_url: 'https://github.com/matatk/agrip'
 download_url: 'https://github.com/matatk/agrip'
 description: 'AudioQuake and the Level Description Language were successful experiments started in 2003 to see if it was possible to make a mainstream First-person Shooter (FPS) accessible to blind and vision-impaired gamers. '
 license: ""
-thumb: images/agrip-thumb.jpg
-image: images/agrip.png
+thumb: items/agrip-thumb.jpg
+image: items/agrip.png
 date: '2016-06-21'
 project: Software
 tags:
