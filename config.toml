@@ -83,7 +83,7 @@ MetaDataFormat = "yaml"
   weight = 4
   name = "Add"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
-  url = "/add"
+  url = "/add/"
 [[menu.misc]]
   weight = 4
   identifier = "contact"
@@ -163,10 +163,10 @@ MetaDataFormat = "yaml"
   #     url: /#search
   #     icon: search
   #     class: st-search-show-outputs
-  [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+  #[params.header.rightLink]
+  #  class = ""
+  #  icon = ""
+  #  url = "/#about"
 
   # Customize like of athor avatar in sidebar
   # [params.sidebar.profile]
@@ -197,7 +197,6 @@ regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}instructables.com(/.*)?$"
 [[params.service_by_url_finder]]
 name = "thingiverse"
 regexp = "^https?://([a-zA-Z\\d-]+\\.){0,}thingiverse.com(/.*)?$"
-
 
 [params.add]
 select_url="/add/"
