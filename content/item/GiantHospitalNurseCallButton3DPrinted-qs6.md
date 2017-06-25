@@ -1,6 +1,6 @@
 ---
 title: 'Giant Hospital Nurse Call Button 3D Printed'
-authors: 'John Xenon
+authors: 'John Xenon'
 datemod: '2017-05-08T22:39:07Z'
 download_url: 'http://www.instructables.com/id/Giant-hospital-nurse-call-button-3D-printed/'
 project_url: 'http://www.instructables.com/id/Giant-hospital-nurse-call-button-3D-printed'
