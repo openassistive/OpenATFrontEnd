@@ -2,7 +2,7 @@
 title: Jambu
 authors: 'Steve Lee'
 date: '2016-06-21'
-description: 'Jambu is a program that provides access to the web and computer programs without a mouse or keyboard.
+description: 'Jambu is a program that provides access to the web and computer programs without a mouse or keyboard.'
 project: Software
 license: BSD
 image: items/jambu.png
