@@ -2,7 +2,7 @@
 title: 'Linear Glide Arm Trough for Children With Disabilities'
 authors: CATEA
 datemod: '2017-05-08T22:37:37Z'
-download_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral/'
+download_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral'
 project_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral'
 description: 'This movable arm support helps with access to touch screen devices.
 tags:
