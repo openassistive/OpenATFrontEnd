@@ -3,8 +3,8 @@ title: 'TouchCD - Switch CD Player'
 date: '2016-06-21'
 authors: 'Steve Lee'
 license: Freeware
-images: items/blank.jpg
-thumb: items/blank-thumb.jpb
+images: items/blank.png
+thumb: items/blank-thumb.png
 description: 'A very simple switch controlled CD player'
 project: Software
 tags:

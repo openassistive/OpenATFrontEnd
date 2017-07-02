@@ -5,8 +5,8 @@ authors: Steve Lee'
 date: '2016-06-21'
 project: Software
 license: GPL 2.0 licence
-image: items/blank.jpg
-thumb: items/blank-thumb.jpg
+image: items/blank.png
+thumb: items/blank-thumb.png
 tags: []
 categories:
     - Software

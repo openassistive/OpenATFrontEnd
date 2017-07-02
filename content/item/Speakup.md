@@ -14,8 +14,8 @@ categories:
 project_url: "http://www.linux-speakup.org/speakup.html"
 download_url: 'http://www.linux-speakup.org/download.html'
 moderated: true
-image: items/speakup.png
-thumb: items/speakup-thumb.png
+image: items/speakups.png
+thumb: items/speakups-thumb.png
 ---
 Speakup allows you to interact with applications and the GNU/Linux operating system with audible feedback from the console using a synthetic speech device.
 

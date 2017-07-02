@@ -5,7 +5,7 @@ project_url: 'https://www.w3.org/Amaya/Overview.html'
 download_url: 'https://www.w3.org/Amaya/User/BinDist.html'
 description: 'Amaya is a web editor used to create and update documents directly on the Web.'
 license: ""
-thumb: items/amaya-thumb.jpg
+thumb: items/amaya-thumb.png
 image: items/amaya.png
 date: '2016-06-21'
 project: Software

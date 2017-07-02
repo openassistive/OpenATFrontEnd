@@ -10,7 +10,7 @@ tags:
     - 'Using the Mouse'
 categories:
     - Software
-image: items/open-eyes-png
+image: items/open-eyes.png
 thumb: items/open-eyes-thumb.png
 project_url: 'http://thirtysixthspan.com/openEyes/'
 download_url: 'http://thirtysixthspan.com/openEyes/'

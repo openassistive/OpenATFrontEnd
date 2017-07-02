@@ -5,8 +5,8 @@ date: '2016-06-21'
 description: 'A screen reader using software or hardware speech synthesizer.'
 project: Software
 license: Unknown
-image: items/blank.jpg
-thumb: items/blank-thumb.jpg
+image: items/blank.png
+thumb: items/blank-thumb.png
 tags:
     - 'Text to Speech'
     - 'Other function'

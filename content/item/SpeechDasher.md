@@ -13,8 +13,8 @@ categories:
     - Software
 project_url: "http://www.keithv.com/software/speechdasher/"
 download_url: 'http://www.keithv.com/software/speechdasher/'
-image: items/speed-dasher.png
-thumb: items/speed-dasher-thumb.png
+image: items/speech-dasher.jpg
+thumb: items/speech-dasher-thumb.jpg
 moderated: true
 ---
 It is hoped that Speech Dasher will provide a text input interface which is:

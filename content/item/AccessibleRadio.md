@@ -1,11 +1,11 @@
 ---
 title: 'Accessible Radio'
-authors: 'Dr Alistair King'
+authors: 'Alastair King'
 project_url: 'http://www.webbie.org.uk/bbcliveradio/index.htm'
 download_url: 'http://www.webbie.org.uk/bbcliveradio/setup.exe'
 description: 'A simple way to listen to one of dozens of live BBC radio stations online with a couple of key presses.'
 license: ""
-thumb: items/accessible-radio-thumb.png
+thumb: items/webbie-thumb.png
 image: items/accessible-radio.png
 date: '2016-06-21'
 project: Software

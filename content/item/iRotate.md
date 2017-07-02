@@ -6,7 +6,7 @@ date: '2016-06-21'
 description: 'Allows you to rotate the screen by 90,180 and 270 degrees.'
 project: Software
 image: items/irotate.jpg
-thumb: items/irotate-thumb-jpg
+thumb: items/irotate-thumb.jpg
 tags:
     - 'General Tools'
 categories:
