@@ -4,7 +4,7 @@ authors: xadow
 datemod: '2017-05-08T22:51:01Z'
 download_url: 'http://www.pinshape.com/items/25796-3d-printed-self-aligning-cupbottle-holder/download/25796'
 project_url: 'http://www.pinshape.com/items/25796-3d-printed-self-aligning-cupbottle-holder'
-description: 'A self aligning cup/bottle holder for use with crutches, walkers and wheelchairs.
+description: 'A self aligning cup/bottle holder for use with crutches, walkers and wheelchairs.'
 tags:
     - living-aid
 categories:
