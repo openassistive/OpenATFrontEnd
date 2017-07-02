@@ -2,7 +2,7 @@
 title: E-triloquist
 authors: unknown
 date: '2016-06-21'
-description: 'E-triloquist a PC-based communication aid for a speech impaired person. It serves as an electronic voice for those who can't speak on their own.'
+description: 'E-triloquist a PC-based communication aid for a speech impaired person. It serves as an electronic voice for those who cannot speak on their own.'
 license: unknown
 image: items/etriloquist.png
 thumb: items/etriloquist-thumb.png
