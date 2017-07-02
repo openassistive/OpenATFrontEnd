@@ -1,5 +1,5 @@
 ---
-title: 'Sclera Symbols
+title: 'Sclera Symbols'
 date: '2016-06-21'
 description: 'A resource of free symbols (pictograms).'
 project: Software
