@@ -2,7 +2,7 @@
 title: 'Sensory Switch Driver'
 authors: 'Smartbox Assistive Technology'
 date: '2016-06-21'
-description: 'Smartbox/'s free Switch Driver software replicates mouse and keyboard commands with switches.'
+description: 'The Smartbox free Switch Driver software replicates mouse and keyboard commands with switches.'
 project: Software
 license: Freeware
 tags:
