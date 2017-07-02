@@ -2,7 +2,7 @@
 title: 'ATK - Accessible Toolkit'
 authors: 'The GNOME Project'
 project_url: 'https://developer.gnome.org/at-spi-cspi/'
-download_url: 'https://developer.gnome.org/at-spi-cspi/
+download_url: 'https://developer.gnome.org/at-spi-cspi/'
 description: 'The AT-SPI library provides interfaces which are used by accessibility technologies.'
 license: ""
 thumb: items/gnome-thumb.jpg
