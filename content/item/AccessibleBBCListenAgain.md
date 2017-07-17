@@ -1,6 +1,6 @@
 ---
 title: 'Accessible BBC Listen Again'
-authors: 'Dr Alistair King'
+authors: 'Alastair King'
 project_url: 'http://www.webbie.org.uk/'
 download_url: 'http://www.webbie.org.uk/download.htm'
 description: 'A selection of programs that make BBC content more accessible.'

@@ -26,3 +26,4 @@ _testmain.go
 *.prof
 
 scripts/node_modules/
+themes/hugo-tranquilpeak-theme/

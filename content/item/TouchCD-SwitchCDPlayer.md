@@ -1,6 +1,10 @@
 ---
 title: 'TouchCD - Switch CD Player'
 date: '2016-06-21'
+authors: 'Steve Lee'
+license: Freeware
+images: items/blank.png
+thumb: items/blank-thumb.png
 description: 'A very simple switch controlled CD player'
 project: Software
 tags:
@@ -12,20 +16,14 @@ tags:
     - 'Other need'
 categories:
     - Software
-project_url: ""
+project_url: 'http://fullmeasure.co.uk/TouchCD/'
 download_url: 'http://fullmeasure.co.uk/TouchCD/'
 moderated: true
 ---
-TouchCD is a _very_ simple CD player that is controlled using a single switch or the keyboard's space bar.
+TouchCD is a _very_ simple CD player that is controlled using a single switch or the keyboard's space bar. It:
 
-1. Allows simple control of music with minimum dexterity;
-2. Helps develop 'cause and effect' understanding;
-3. Helps to encourage the developement of switch skills;
-4. Works with a <a href="">JoyCable</a> USB switch adaptor;
+1. allows simple control of music with minimum dexterity
+2. helps develop 'cause and effect' understanding
+3. Helps to encourage the developement of switch skills
+4. works with a JoyCable or other switch adaptor.
 
-### Links:
-- <a href="http://www.oatsoft.org/Software/TouchCD/help">Help</a>
-- <a href="mailto:touchcd@fullmeasure.co.uk">Contact Address</a>
-- <a href="http://fullmeasure.co.uk/touchcd">Project Home Page</a>
-
-### Download: http://fullmeasure.co.uk/TouchCD/ 

@@ -4,8 +4,9 @@ authors: 'The GNOME Project'
 project_url: 'https://developer.gnome.org/at-spi-cspi/'
 download_url: 'https://developer.gnome.org/at-spi-cspi/'
 description: 'The AT-SPI library provides interfaces which are used by accessibility technologies.'
-thumb: 'items/gnome-thumb.jpg'
-image: 'items/gnome-spi.png'
+license: ""
+thumb: items/gnome-thumb.jpg
+image: items/gnome-spi.png
 date: '2016-06-21'
 project: Software
 tags:

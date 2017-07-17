@@ -5,7 +5,7 @@ project_url: 'http://www.webbie.org.uk/rssnewsreader/index.htm'
 download_url: 'http://www.webbie.org.uk/rssnewsreader/RSSNewsReader3.msi'
 description: 'Accessible RSS is an accessible application that lets you access RSS feeds quickly and easily.'
 license: ""
-thumb: items/accessible-radio-thumb.png
+thumb: items/webbie-thumb.png
 image: items/accessible-radio.png
 date: '2016-06-21'
 project: Software

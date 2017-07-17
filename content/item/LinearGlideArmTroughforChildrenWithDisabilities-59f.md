@@ -2,9 +2,9 @@
 title: 'Linear Glide Arm Trough for Children With Disabilities'
 authors: CATEA
 datemod: '2017-05-08T22:37:37Z'
-download_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral/'
+download_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral'
 project_url: 'http://www.instructables.com/id/Linear-Glide-Arm-Trough-for-Children-with-Cerebral'
-description: 'With Instructables you can share what you make with the world, and tap into an ever-growing community of creative experts.'
+description: 'This movable arm support helps with access to touch screen devices.'
 tags:
     - alternative-access
     - supports
@@ -22,4 +22,6 @@ image_download_sha: 76027ba15b1cc8a3b52d7abfb2a2e17eca0b17bd0a0c32ff0276504f5b46
 thumb: items/LinearGlideArmTroughforChildrenWithDisabilities-59f-thumb.png
 image: items/LinearGlideArmTroughforChildrenWithDisabilities-59f.png
 ---
-> Some kids with upper extremity limitations have difficulty using a tablet. This may be because they cannot keep their forearms off the tablet surface or do not have adequate strength to slide their arms on the table surface. We were asked to design and fabricate a simple arm trough that supports the forearm and allow adequate range of motion to use a tablet or other table-mounted device.Design Parameters The device should be able to cradle the user's arm while allowing them to move their arm linearly and have a full 360 degrees of rotation. This range of motion will allow the user to operate a tablet with greater ease of use. The device should also be comfortable to the user, simple to use, and easy assemble.
+Some kids with upper extremity limitations have difficulty using a tablet. This may be because they cannot keep their forearms off the tablet surface or do not have adequate strength to slide their arms on the table surface. We were asked to design and fabricate a simple arm trough that supports the forearm and allow adequate range of motion to use a tablet or other table-mounted device.
+
+The device is designed to cradle the user's arm while allowing them to move their arm linearly and have a full 360 degrees of rotation. This range of motion will allow the user to operate a tablet with greater ease of use. The device should also be comfortable to the user, simple to use, and easy assemble.
