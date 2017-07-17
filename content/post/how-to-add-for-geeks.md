@@ -1,8 +1,7 @@
-+++
-date = "2017-04-10T00:00:00Z"
-title = "How to add/edit your own project files (Advanced)"
-
-+++
+---
+title: How to add/edit your own project files (Advanced)
+date: '2017-04-10T00:00:00Z'
+---
 
 So you know your GitHub from your BitBucket or you know your Gcode from your STL. Welcome..
 <!--more-->
@@ -28,7 +27,7 @@ As well as the super simple "Add" system you can have more control over your pro
 	* download_url: This is the URL for people to simply download the binary or final file (e.g. STL file or zip)
 	* project_url: Whats the URL of your project home page? (could be the URL of this very readme file if you don't have one)
 	* description: This is a short, brief one-line description
-	* license: what Licence, if any, are you using (NB: It really helps if you do)
+	* license: what Licence, if any, are you using (NB: It really helps if you do). [Have a read of this for more information and some suggestions](/2017/05/choose-a-licence.-please./). 
 	* image: Do you have an image? If so add the path to it here. NB: we crop it to 500px wide and will make a thumb from it. You have been warned!
 	 
 	You can then add any content you like to the body (i.e. after that last ---). Note though it has to be [markdown formatted](https://daringfireball.net/projects/markdown/). 
