@@ -24,9 +24,9 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Project Type", name: "project", widget: "select", options: ['Software', 'Hardware']}
-      - {label: "Project URL", name: "project_url", widget: "text"}
-      - {label: "Download URL", name: "download_url", widget: "text"}
+      - {label: "Project URL", name: "project_url", widget: "string"}
+      - {label: "Download URL", name: "download_url", widget: "string"}
       - {label: "Moderated?", name: "moderated", widget: "boolean"}
-      - {label: "Licence", name: "licence", widget: "text"}
+      - {label: "Licence", name: "licence", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
