@@ -1,4 +1,4 @@
 [submodule "themes/hugo-tranquilpeak-theme"]
 	path = themes/hugo-tranquilpeak-theme
-	url = git@github.com:openassistive/hugo-tranquilpeak-theme.git
+	url = https://github.com/openassistive/hugo-tranquilpeak-theme.git
 	branch = master
