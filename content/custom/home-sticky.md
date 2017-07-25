@@ -2,14 +2,14 @@
 date = "2016-10-04T19:21:17+01:00"
 +++
 
-{{< image classes="center" src="images/OpenATtitle_new.png" title="A library for Open Software and Hardware" title-style="font-size:1.1em" >}}
+{{< image classes="center" src="images/OpenATtitle_new.png" title="A catalogue for Open Software and Hardware" title-style="font-size:1.1em" >}}
 
 <div class="home-lookup-wrp">
 {{< openat-lookup >}}
 </div>
 
-<div class="intro">
+<div class="intro" style="text-align: center;">
 
-OpenAssistive is a catalogue of Open Source Assistive technology solutions. You can <a href="/#search">search</a> for a project or look for a project under a <a href="/tags/">tag</a> or if you want to add a new project simply add your GitHub, Instructables, Pinshape, Sourceforge or Thingiverse page of your project here (see the <a href="/add">add page</a> for more details): 
+OpenAssistive allows you to share your own open assistive technology hardware and software projects, or find those of others. Either search or browse by <a href="/tags/">tag</a>. You can keep your project where you chose on GitHub, Instructables, Pinshape, Sourceforge, Thingiverse or Dropbox, just share your project url and OpenAssistive will catalogue your work. Simple!  <br/><br/> <div style="font-size: 80%;">(<a href="/add"> See the help page for more details </a>)</div>
 
 </div>
