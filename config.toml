@@ -140,7 +140,7 @@ MetaDataFormat = "yaml"
   # and use relative url : `your-image.png`
   # https://www.flickr.com/photos/ggaiduk/14748021651/in/photolist-otet2n-7WNKU2-887XpT-9K5K92-a3fXZS-9tu8H8-g19ivQ-aXXPox-6oAtq7-nUMY3D-eiBzHD-fAzg8C-nvpSxF-qySiod-eWWsFf-8PGN3T-gems7e-doCNd3-oEx3uv-mXQjmB-ebKjsV-gKqnmp-qfoxc6-9km6ai-HFr3gA-9QZKu2-9iwmMk-ohB1EA-j8ho5B-8xDGS8-angiRo-q7Ewre-dxyaQh-9Ys7uT-HWZujv-exWJqb-quwWRQ-puLE5x-dXGARJ-aqC6w1-fjQgd6-ntjn75-onhiXR-dF1buW-4DyMbo-3oRaXa-eibj2n-cYWD7N-bv12Th-9jzAJT
   # https://www.flickr.com/photos/sonotoki/8582261104/in/photolist-e5oke3-rwCoAG-t6uSSv-nqAKh7-w4A13R-hqyw7F-sToJ2r-znCDDe-NmKDsX-eM5fdk-sYGiMq-CgveDB-KYiJuS-bbtqVD-8ytzyo-t2WANw-nskE2A-wgKfe4-n5m7Rs-P3U9sS-ojVCPd-fSgX4P-ehot9S-nSjyxx-a4QUoS-PfK7r3-hHbbJe-bXPUpm-n5kx3A-egYCN5-n7Xbjt-N4udhV-sVEyTw-N6Bm87-qVcRFD-GFTaQD-K5u161-zDVF2S-Gd7voB-eEH7n9-E14uV9-f6gjHk-eAKEZB-tRhaFW-of3p1g-oiX1Sf-8kCX7r-FWNou4-ESWpsd-ehy4U5
-  coverImage = "new.png"
+  # coverImage = "new.png"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
