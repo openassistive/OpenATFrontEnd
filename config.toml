@@ -86,10 +86,10 @@ MetaDataFormat = "yaml"
   url = "/add/"
 [[menu.misc]]
   weight = 4
-  identifier = "contact"
-  name = "Contact"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope-o\"></i>"
-  url = "/#contact"
+  identifier = "help"
+  name = "Help"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/help/"
 [[menu.misc]]
   weight = 0
   identifier = "rss"

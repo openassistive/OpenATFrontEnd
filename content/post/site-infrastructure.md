@@ -1,7 +1,7 @@
-+++
-date = "2017-04-10T00:00:00Z"
-title = "Site Infrastructure - what makes the cogs work"
-+++
+---
+date: "2017-04-10T00:00:00Z"
+title: "Site Infrastructure - what makes the cogs work"
+---
 
 So some of you will want to know how this all works. Well in short we are using a [JAMstack](http://jamstack.org) (Javascript, APIS and Markup).
 

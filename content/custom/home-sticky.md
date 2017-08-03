@@ -2,7 +2,7 @@
 date = "2016-10-04T19:21:17+01:00"
 +++
 
-{{< image classes="center" src="images/OpenATtitle_new.png" title="A catalogue for Open Software and Hardware" title-style="font-size:1.1em" >}}
+{{< home-logo image-src="images/logo_purple.png" image-alt="Open Assistive Logo" title="Open Assistive" caption="A catalogue for Open Software and Hardware" caption-style="font-size:1.1em" >}}
 
 <div class="home-lookup-wrp">
 {{< openat-lookup >}}

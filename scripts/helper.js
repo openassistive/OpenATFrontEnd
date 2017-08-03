@@ -7,8 +7,10 @@ function parseItem(data) {
   // parse yamljs
   var firstIdx = lines.indexOf('---'),
       secondIdx = lines.indexOf('---', firstIdx + 1);
-  if(firstIdx != 0 || secondIdx <= firstIdx) 
+  if(firstIdx != 0 || secondIdx <= firstIdx)  {
+    console.log(data)
     throw new Error("Invalid format");
+  }
   return {
     data: data,
     fm: yamljs.parse(lines.slice(0, secondIdx).join('\n')),
