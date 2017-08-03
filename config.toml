@@ -15,7 +15,7 @@
 baseurl = "https://openassistive.org"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "OpenAssistive"
+title = "Open Assistive"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "openassistive"
 # googleAnalytics = "UA-123-45"
@@ -33,7 +33,7 @@ MetaDataFormat = "yaml"
 
 
 [author]
-  name = "OpenAssistive"
+  name = "Open Assistive"
   bio = "The network for sharing and supporting Open Assistive solutions"
   job = "Your job title"
   location = "UK"
