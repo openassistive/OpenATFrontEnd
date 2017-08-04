@@ -6,7 +6,7 @@ date: '2017-04-10T00:00:00Z'
 So you know your GitHub from your BitBucket or you know your Gcode from your STL. Welcome..
 <!--more-->
 
-As well as the super simple "Add" system you can have more control over your projects on OpenAssistive by adding & maintaining your own project files. There are a few different ways in achieving this depending on your level of knowledge of GitHub and Markdown;
+As well as the super simple "Add" system you can have more control over your projects on Open Assistive by adding & maintaining your own project files. There are a few different ways in achieving this depending on your level of knowledge of GitHub and Markdown;
 
 1. Host your descriptor file yourself. Create a plain-text file called `YourProjectName.md` in a folder accessible by the world. This could be a dropbox folder that you then share - or it could be on a webserver somewhere. It needs to have some 'metadata' in the header which looks like this:
 

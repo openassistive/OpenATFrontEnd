@@ -115,7 +115,7 @@ MetaDataFormat = "yaml"
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "OpenAssistive"
+  description = "Open Assistive"
 
   # Customization
   # Define the behavior of the sidebar
