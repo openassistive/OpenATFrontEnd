@@ -178,7 +178,7 @@ MetaDataFormat = "yaml"
 
 [params.contact]
   card_picture = "/images/logo.png"
-  formspree_email = "contact@openassistive.org"
+  formspree_email = "willwade+openat@gmail.com"
 
 [params.algolia]
 appid="6O7YN8U09P"
