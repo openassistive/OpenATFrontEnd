@@ -10,6 +10,6 @@ date = "2016-10-04T19:21:17+01:00"
 
 <div class="intro" style="text-align: center;">
 
-OpenAssistive allows you to share your own open assistive technology hardware and software projects, or find those of others. Either search or browse by <a href="/tags/">tag</a>. You can keep your project where you chose on GitHub, Instructables, Pinshape, Sourceforge, Thingiverse or Dropbox, just share your project url and OpenAssistive will catalogue your work. Simple!  <br/><br/> <div style="font-size: 80%;">(<a href="/add"> See the help page for more details </a>)</div>
+Open Assistive allows you to share your own open assistive technology hardware and software projects, or find those of others. Either search or browse by <a href="/tags/">tag</a>. You can keep your project where you chose on GitHub, Instructables, Pinshape, Sourceforge, Thingiverse or Dropbox.  Just paste your project url above and Open Assistive will catalogue your work. Simple!  <br/><br/> <div style="font-size: 80%;">(<a href="/add"> See the help page for more details </a>)</div>
 
 </div>

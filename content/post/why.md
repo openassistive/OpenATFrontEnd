@@ -1,6 +1,6 @@
 ---
 date: "2017-04-11T00:00:00Z"
-title: "OpenAssistive - the Mission"
+title: "Open Assistive - the Mission"
 ---
 
 <!--more-->
