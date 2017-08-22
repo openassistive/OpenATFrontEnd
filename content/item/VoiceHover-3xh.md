@@ -8,8 +8,7 @@ project_url: 'https://github.com/shikhar394/VoiceHover'
 tags:
     - alternative-access
     - alternative-mice
-    - head-mouse
-    - un-moderated
+    - face-mouse
 categories:
     - software
 description: 'Project files for the project VoiceHover presented, developed and winner of Assistive Tech Track at HackNYU 2017.'
@@ -24,4 +23,5 @@ image_download_sha: 37732f57a68a08d95f5859b6f9fd2e94b1e1b8153850e8ab909a4195e823
 thumb: items/VoiceHover-3xh-thumb.png
 image: items/VoiceHover-3xh.png
 ---
-Project files for the project VoiceHover presented, developed and winner of Assistive Tech Track at HackNYU 2017.
+VOICE[H]OVER works much like the head mounted laser and print out, but is notably different because of its ability to export inputs into a .txt file that can be read by a Python code that will speak with natural language. When used effectively, it can be used to eliminate the necessity of help from others. It is unlike other options of this technology because it is affordable and only needs a computer with a webcam.
+

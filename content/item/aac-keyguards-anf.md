@@ -7,7 +7,6 @@ download_url: 'https://github.com/ACECentre/aac-keyguards/releases'
 project_url: 'https://github.com/ACECentre/aac-keyguards'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - hardware
 description: 'Need to make a keyguard for an Augmentative and Alternative Communication (AAC) device? Here''s the place to start!'
@@ -22,7 +21,6 @@ image_download_sha: 1340d229ee12286c4923c9ab522a7ae76da377d4e86a463b9fe22826637b
 thumb: items/aac-keyguards-anf-thumb.png
 image: items/aac-keyguards-anf.png
 ---
-# Keyguards for Augmentative and Alternative Communication (AAC) Devices
 Some people who directly access (touch) an AAC device to help them communication benefit from using a keyguard to help guide their touches. This can help improve their accuracy and reduce mishits or unintended activations of the screeen and can make communication faster and more efficient. A keyguard is a piece of clear plastic that covers the screen of the device with cutouts for the areas that need to be tocuhed to activate a command or generate speech.
 
 I've also created a repository for [touch guides](https://github.com/paulhewett/aac-touchguides). These are often very similar but typically use larger openings on thicker 3mm material.

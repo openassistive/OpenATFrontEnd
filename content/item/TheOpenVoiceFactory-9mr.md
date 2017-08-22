@@ -8,7 +8,6 @@ project_url: 'http://theopenvoicefactory.org'
 tags:
     - alternative-and-augmentative-communication
     - communication
-    - un-moderated
 categories:
     - software
 description: 'The Open Voice Factory - open software for people with communication difficulties'
@@ -23,4 +22,9 @@ image_download_sha: e5a5a2e74d5a1cd5ced16fbc96cb000450c1f1e81b79e51960f2a1221f6b
 thumb: items/TheOpenVoiceFactory-9mr-thumb.png
 image: items/TheOpenVoiceFactory-9mr.png
 ---
-The Open Voice Factory - open software for people with communication difficulties
+The Open Voice Factory converts communication boards into communication devices.
+
+Anyone can create an aid by editing a PowerPoint template to add their one pages or utterances. When you upload your template to the factory, it will create a working communication aid for you.
+
+The resulting programs run on any platform, from tablets to laptops to phones, without installation or complex setup.
+
