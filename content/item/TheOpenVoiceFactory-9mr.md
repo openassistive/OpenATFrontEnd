@@ -1,0 +1,26 @@
+---
+title: 'The Open Voice Factory'
+short_title: TheOpenVoiceFactory-9mr
+authors: 'Joseph Reddington et al'
+datemod: '2017-07-28T21:17:47Z'
+download_url: 'http://theopenvoicefactory.org'
+project_url: 'http://theopenvoicefactory.org'
+tags:
+    - alternative-and-augmentative-communication
+    - communication
+    - un-moderated
+categories:
+    - software
+description: 'The Open Voice Factory - open software for people with communication difficulties'
+original_url: 'https://github.com/eQualityTime/TheOpenVoiceFactory'
+image_download: 'https://avatars0.githubusercontent.com/u/4369547?v=4&s=40'
+license: GPL
+date: '2017-08-22T12:14:50Z'
+relayed_by_ip: 82.69.122.199
+moderated: false
+moderated_short_title: TheOpenVoiceFactory
+image_download_sha: e5a5a2e74d5a1cd5ced16fbc96cb000450c1f1e81b79e51960f2a1221f6b946d
+thumb: items/TheOpenVoiceFactory-9mr-thumb.png
+image: items/TheOpenVoiceFactory-9mr.png
+---
+The Open Voice Factory - open software for people with communication difficulties
