@@ -16,7 +16,7 @@ image_download: 'https://avatars0.githubusercontent.com/u/4369547?v=4&s=40'
 license: GPL
 date: '2017-08-22T12:14:50Z'
 relayed_by_ip: 82.69.122.199
-moderated: false
+moderated: true
 moderated_short_title: TheOpenVoiceFactory
 image_download_sha: e5a5a2e74d5a1cd5ced16fbc96cb000450c1f1e81b79e51960f2a1221f6b946d
 thumb: items/TheOpenVoiceFactory-9mr-thumb.png

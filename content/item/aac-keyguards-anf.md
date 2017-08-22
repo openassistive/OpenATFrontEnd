@@ -15,7 +15,7 @@ image_download: 'https://avatars1.githubusercontent.com/u/2620062?v=4&s=40'
 license: ""
 date: '2017-07-23T21:02:58Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: aac-keyguards
 image_download_sha: 1340d229ee12286c4923c9ab522a7ae76da377d4e86a463b9fe22826637b95dd
 thumb: items/aac-keyguards-anf-thumb.png
