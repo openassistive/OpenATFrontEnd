@@ -5,8 +5,8 @@ project_url: 'https://autohotkey.com/'
 download_url: 'https://autohotkey.com/download/'
 description: 'The ultimate automation scripting language for Windows.'
 license: ""
-thumb: 'images/autohotkey-thumb.jpg'
-image: 'images/autohotkey.png'
+thumb: 'items/autohotkey-thumb.jpg'
+image: 'items/autohotkey.png'
 date: '2016-06-21'
 project: Software
 tags:
