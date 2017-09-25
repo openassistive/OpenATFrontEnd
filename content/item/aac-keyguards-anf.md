@@ -18,8 +18,8 @@ relayed_by_ip: 80.192.71.80
 moderated: true
 moderated_short_title: aac-keyguards
 image_download_sha: 1340d229ee12286c4923c9ab522a7ae76da377d4e86a463b9fe22826637b95dd
-thumb: items/aac-keyguards-anf-thumb.png
-image: items/aac-keyguards-anf.png
+thumb: items/aac-keyguards-anf-thumb.jpg
+image: items/aac-keyguards-anf.jpg
 ---
 Some people who directly access (touch) an AAC device to help them communication benefit from using a keyguard to help guide their touches. This can help improve their accuracy and reduce mishits or unintended activations of the screeen and can make communication faster and more efficient. A keyguard is a piece of clear plastic that covers the screen of the device with cutouts for the areas that need to be tocuhed to activate a command or generate speech.
 
