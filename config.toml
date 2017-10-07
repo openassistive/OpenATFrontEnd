@@ -204,46 +204,63 @@ submit_url="/add/submit"
 done_url="/add/thankyou"
 recaptcha_site_key="6LdLlx0UAAAAAC5_hOClwK8NquKPXiCw-Zi76nw1"
 
-[[params.add.fields]]
+[params.add.submit_form]
+basic_fields = [ 'short_title', 'title', 'category', 'authors', 'license',
+                 'download_url', 'project_url' ]
+more_fields = [ 'description', 'main_description' ]
+
+[params.add.field.short_title]
 can_edit = false
 name = "short_title"
 label = "Short Title"
 type = "text"
 required = true
-[[params.add.fields]]
+[params.add.field.title]
 can_edit = true
 name = "title"
 label = "Title"
 type = "text"
 required = true
-[[params.add.fields]]
+[params.add.field.category]
 can_edit = true
 name = "category"
 label = "Type"
 type = "select"
 required = true
 options = [ ["software","Software"], ["hardware","Hardware"] ]
-[[params.add.fields]]
+[params.add.field.authors]
 can_edit = true
 name = "authors"
 label = "Authors"
 type = "name"
 required = true
-[[params.add.fields]]
+[params.add.field.license]
 can_edit = true
 name = "license"
 label = "License"
 type = "text"
 required = false
-[[params.add.fields]]
+[params.add.field.download_url]
 can_edit = true
 name = "download_url"
 label = "Download URL"
 type = "url"
 required = true
-[[params.add.fields]]
+[params.add.field.project_url]
 can_edit = true
 name = "project_url"
 label = "Project URL"
 type = "url"
+required = true
+[params.add.field.description]
+can_edit = true
+name = "description"
+label = "Description"
+type = "textarea"
+required = true
+[params.add.field.main_description]
+can_edit = true
+name = "main_description"
+label = "Content"
+type = "textarea"
 required = true
