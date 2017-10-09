@@ -6,11 +6,11 @@ We don't aim to take credit for the sites contents. We want YOU to be the real h
 
 ## Will Wade
 
-Will is a Occupational Therapist working at the Ace centre. In a previous life Will used to mess around with code. Found out more at http://willwa.de.
+[Will](http://twitter.com/willwade) is a Occupational Therapist working at the Ace centre. In a previous life Will used to mess around with code. Found out more at http://willwa.de.
 
 ## Paul Hewett
 
-Paul is Ace centre's design engineer. Paul kicked Will up the backside to get this project off the ground and really was the inital instigator for getting this all working. Find out more about Paul at http://design4uslab.com
+[Paul](https://twitter.com/paulhewtweet) is Ace centre's design engineer. Paul kicked Will up the backside to get this project off the ground and really was the inital instigator for getting this all working. 
 
 ## Some coding was also volunteered by
 
@@ -22,5 +22,5 @@ Hossein kindly stepped in when Will & Paul got tied up with their real day jobs.
 
 * [Steve Lee](http://fullmeasure.co.uk) For suggesting that the inital colours were disgusting and all round cheering us on
 * Mats Lundalv. For helping the world drive forward on the Open source AT crusade and helping get us the OATSoft files
-* Simon Judge. For being generally enthusiastic about this site, Open AT in general. 
+* [Simon Judge](https://twitter.com/si_judge). For being generally enthusiastic about this site, Open AT in general.
 * David Colven - and everyone else who contributed to the development of OATSoft.
