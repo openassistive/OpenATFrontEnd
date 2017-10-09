@@ -18,10 +18,10 @@ defaultContentLanguage = "en-us"
 title = "Open Assistive"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "openassistive"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-107841834-1"
 paginate = 7
 canonifyurls = true
-MetaDataFormat = "yaml" 
+MetaDataFormat = "yaml"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -72,7 +72,7 @@ MetaDataFormat = "yaml"
   name = "All tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags/"
-  
+
 [[menu.misc]]
   weight = 2
   identifier = "un-moderated"
