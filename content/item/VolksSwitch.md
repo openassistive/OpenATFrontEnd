@@ -1,23 +1,22 @@
 ---
-title: 'Modified AT Switch Design'
+title: 'Modified AT Switch Design - The Volkswitch'
 authors: khackbarth
 datemod: '2017-08-30T00:02:49Z'
 download_url: 'http://www.thingiverse.com/thing:2507266/zip'
-project_url: 'http://www.thingiverse.com/thing%3A2507266'
-description: 'This is a remix of the AT Switch by atmakers.  This design has focused on a thicker and horizontally supported center post on the base to house the mi'
+project_url: 'http://volksswitch.org'
+description: 'This is a remix of the AT Switch by atmakers. The Volksswitch (“The People’s AT Switch”). Read the Project page for detail on why and how this has been designed'
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A2507266'
-short_title: ModifiedatSwitchDesign-2z4
+short_title: VolksSwitch
 image_download: 'https://cdn.thingiverse.com/renders/45/cd/f2/9e/c6/e9dadddd5bdbc766b7b85b6dd201ca6a_preview_featured.JPG'
 license: 'Creative Commons (CC Attribution Unported 3.0)'
 date: '2017-10-04T21:13:14Z'
 relayed_by_ip: 86.135.126.192
-moderated: false
-moderated_short_title: ModifiedatSwitchDesign
+moderated: true
+moderated_short_title: VolksSwitch
 image_download_sha: 992b066a0ae141d1129c72f6607430f0771ac1d5d708bd3ecdcf230e36012626
 thumb: items/ModifiedatSwitchDesign-2z4-thumb.png
 image: items/ModifiedatSwitchDesign-2z4.png
@@ -43,37 +42,3 @@ I took the recommendation from kurtschaefer for installing the threaded insert a
 
 There's a great Camera to GoPro mount design by tmorris9 that you can print to mount to the switch and can be found here:  
 [https://www.thingiverse.com/thing:991531](https://www.thingiverse.com/thing:991531)
-
-# Print Settings
-
-**Printer:**
-
-Monoprice Select Mini
-
-**Rafts:**
-
-No
-
-**Supports:**
-
-No
-
-**Resolution:**
-
-0.1 mm
-
-**Infill:**
-
-20%
-
-**Notes:**
-
-Print the button and the collar upside down. Only the button needs supports and only from the print bed. I printed the base with 3 shells (i.e., walls that are 1.2 mm thick using a 0.4 mm nozzle). I chose to use thicker walls on the base so that the threaded insert would have a good amount of plastic to bite into.
-
-# How I Designed This
-
-
-
-**midline section showing all parts**
-
-I used Fusion 360 as my CAD tool and have included the f3d file in case you need to make changes based on your filament and printer.
