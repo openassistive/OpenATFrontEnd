@@ -1,6 +1,6 @@
 ---
 title: 'The Open Voice Factory'
-short_title: TheOpenVoiceFactory-9mr
+short_title: TheOpenVoiceFactory
 authors: 'Joseph Reddington et al'
 datemod: '2017-07-28T21:17:47Z'
 download_url: 'http://theopenvoicefactory.org'
@@ -19,8 +19,8 @@ relayed_by_ip: 82.69.122.199
 moderated: true
 moderated_short_title: TheOpenVoiceFactory
 image_download_sha: e5a5a2e74d5a1cd5ced16fbc96cb000450c1f1e81b79e51960f2a1221f6b946d
-thumb: items/TheOpenVoiceFactory-9mr-thumb.png
-image: items/TheOpenVoiceFactory-9mr.png
+thumb: items/TheOpenVoiceFactor-thumb.png
+image: items/TheOpenVoiceFactory.png
 ---
 The Open Voice Factory converts communication boards into communication devices.
 
