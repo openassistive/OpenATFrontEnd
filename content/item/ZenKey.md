@@ -8,9 +8,7 @@ image: items/zenkey.jpg
 thumb: items/zenkey-thumb.jpg
 tags:
     - 'Computer Automation'
-    - 'General Tools'
     - 'Using the Mouse'
-    - 'Accessing the Web'
     - 'Alternative Access'
 categories:
     - Software

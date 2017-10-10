@@ -10,8 +10,6 @@ license: unknown
 tags:
     - 'Text to Speech'
     - 'Text input Projects'
-    - 'Accessing the Web'
-    - 'General Tools'
 categories:
     - Software
 project_url: "http://dimio.altervista.org/eng/"

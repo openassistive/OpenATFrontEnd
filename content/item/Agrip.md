@@ -12,7 +12,7 @@ project: Software
 tags:
     - 'Computer Automation'
     - 'Alternative Access'
-    - 'General Tools'
+    - 'Developer Tools'
 categories:
     - Software
 moderated: true

@@ -10,7 +10,7 @@ image: items/accerciser.png
 date: '2016-06-21'
 project: Software
 tags:
-    - 'General Tools'
+    - 'Developer Tools'
 categories:
     - Software
 moderated: true

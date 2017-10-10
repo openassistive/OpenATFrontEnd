@@ -12,7 +12,6 @@ tags:
     - 'Alternative and Augmentative Communication'
     - 'Accessing the Web'
     - 'Alternative Access'
-    - 'General Tools'
 categories:
     - Software
 project_url: "http://jambu.fullmeasure.co.uk/"
