@@ -10,9 +10,8 @@ image: items/amaya.png
 date: '2016-06-21'
 project: Software
 tags:
-    - 'General Tools'
+    - 'framework'
     - 'Accessing the Web'
-    - 'General Tools'
 categories:
     - Software
 moderated: true

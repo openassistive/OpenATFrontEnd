@@ -12,7 +12,6 @@ tags:
     - 'Using the Mouse'
     - 'Accessing the Web'
     - 'Alternative Access'
-    - 'General Tools'
 categories:
     - Software
 project_url: 'http://zenkey.sourceforge.net/'

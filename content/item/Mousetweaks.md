@@ -9,8 +9,6 @@ thumb: items/gnome-thumb.jpg
 authors:
 tags:
     - 'Switch Input Software'
-    - 'Alternative and Augmentative Communication'
-    - 'General Tools'
     - 'Using the Mouse'
 categories:
     - Software

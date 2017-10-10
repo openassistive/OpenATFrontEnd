@@ -7,10 +7,8 @@ authors: GNOME Project
 license: Unknown
 tags:
     - 'Text to Speech'
-    - 'General Tools'
     - 'Viewing the screen'
     - 'Alternative Access'
-    - 'General Tools'
 categories:
     - Software
 image: items/orca.jpg

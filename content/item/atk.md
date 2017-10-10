@@ -10,7 +10,7 @@ image: 'images/gnome-atk.png'
 date: '2016-06-21'
 project: Software
 tags:
-    - 'General Tools'
+    - 'Framework'
 categories:
     - Software
 moderated: true

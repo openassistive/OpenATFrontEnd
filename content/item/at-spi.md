@@ -1,5 +1,5 @@
 ---
-title: 'ATK - Accessible Toolkit'
+title: 'ATK - SPI - Accessible Toolkit'
 authors: 'The GNOME Project'
 project_url: 'https://developer.gnome.org/at-spi-cspi/'
 download_url: 'https://developer.gnome.org/at-spi-cspi/'
@@ -10,7 +10,7 @@ image: items/gnome-spi.png
 date: '2016-06-21'
 project: Software
 tags:
-    - 'General Tools'
+    - 'Framework'
 categories:
     - Software
 moderated: true
