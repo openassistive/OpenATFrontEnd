@@ -2,14 +2,14 @@
 title: 'Modified AT Switch Design - The Volkswitch'
 authors: khackbarth
 datemod: '2017-08-30T00:02:49Z'
-download_url: 'http://www.thingiverse.com/thing:2507266/zip'
+download_url: 'http://www.thingiverse.com/thing:2563119/zip'
 project_url: 'http://volksswitch.org'
 description: 'This is a remix of the AT Switch by atmakers. The Volksswitch (“The People’s AT Switch”). Read the Project page for detail on why and how this has been designed'
 tags:
     - switches
 categories:
     - hardware
-original_url: 'http://www.thingiverse.com/thing%3A2507266'
+original_url: 'http://www.thingiverse.com/thing%3A2563119'
 short_title: VolksSwitch
 image_download: 'https://cdn.thingiverse.com/renders/45/cd/f2/9e/c6/e9dadddd5bdbc766b7b85b6dd201ca6a_preview_featured.JPG'
 license: 'Creative Commons (CC Attribution Unported 3.0)'
