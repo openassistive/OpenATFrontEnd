@@ -61,7 +61,10 @@ So where are we at now? Lets recap.
 [OpenATFrontEnd](http://github.com/openassistive/OpenATFrontEnd)
 
 * Hugo built site using a [forked tranquilpeak theme](https://github.com/openassistive/hugo-tranquilpeak-theme). 
-* All items are infact just small text files (markdown) in a folder that anyone can contribute to either by forking the project or using the backend..
+* We use Algolia for searching the site. The indexes are made and sent to Algolia each time the site is built
+* We use disqus for comments
+* We have two main types of content. _Blogs_ (this) and Hardware / Software _items_
+* All content items are infact just small text files (markdown) in a folder that anyone can contribute to either by forking the project or using the backend..
 
 [OpenATBackEnd](http://github.com/openassistive/OpenATBackEnd)
 
