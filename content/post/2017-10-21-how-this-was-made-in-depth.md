@@ -58,12 +58,12 @@ So we came up with a different model where a backend API would simply screen scr
 
 So where are we at now? Lets recap.
 
-OpenATFrontEnd
+[OpenATFrontEnd](http://github.com/openassistive/OpenATFrontEnd)
 
-* Hugo built site using a forked tranquilpeak theme. 
+* Hugo built site using a [forked tranquilpeak theme](https://github.com/openassistive/hugo-tranquilpeak-theme). 
 * All items are infact just small text files (markdown) in a folder that anyone can contribute to either by forking the project or using the backend..
 
-OpenATBackEnd
+[OpenATBackEnd](http://github.com/openassistive/OpenATBackEnd)
 
 * A nodejs based API that grabs a URL passed to it and if its one of the sites we scrape will scrape the data and turn it into the correct markdown format for the hugo site
 * When items are added they get marked as 'unmoderated'. A repo maintainer would have to edit the file to make it moderated. 
