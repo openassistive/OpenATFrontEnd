@@ -22,6 +22,7 @@ googleAnalytics = "UA-107841834-1"
 paginate = 7
 canonifyurls = true
 MetaDataFormat = "yaml"
+enableRobotsTXT = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
