@@ -47,11 +47,26 @@ For a site that realistically a user may only have one or two projects they want
 
 So we came up with a different model where a backend API would simply screen scrape data from these sites (or folk could host their own meta-data file) and the API would verify it and add it directly to GitHub - and re-build the hugo site making it live. Sounds too good to be true? Well yes. Have you ever tried writing a script to deploy to GitHub pages? Its not straightforward. Well not if you ask me. We could write the API (and that would take the majority of the time) - but hosting and deploying were still a problem
 
-**Step forward Netlify. **
+  **Step forward Netlify.**
 
 [Netlify](https://www.netlify.com) solved a lot of our headaches. What does it do in a nutshell:
 
 * It watches our GitHub repo for changes. These changes can either come from the maintainers updating content [items](https://github.com/openassistive/OpenATFrontEnd/tree/master/content/item) or from the [backend API hosted on heroku](http://api.openassistive.org/docs/v1/). When it sees a change it simply builds the site, runs the Algolia index and moves the output to their own awesomely quick static hosting (It can do other things too!)
-*  It also looks after our ssl issue
+* It also looks after our ssl issue
 * It lets us know by Slack of any changes to the site (ooh! We got a new entry)
 * _And because we are all opensource this is totally for free! Wooooo! These guys rock!_
+
+So where are we at now? Lets recap.
+
+OpenATFrontEnd
+
+* Hugo built site using a forked tranquilpeak theme. 
+* All items are infact just small text files (markdown) in a folder that anyone can contribute to either by forking the project or using the backend..
+
+OpenATBackEnd
+
+* A nodejs based API that grabs a URL passed to it and if its one of the sites we scrape will scrape the data and turn it into the correct markdown format for the hugo site
+* When items are added they get marked as 'unmoderated'. A repo maintainer would have to edit the file to make it moderated. 
+* It runs on heroku and costs us nothing (it may cost us nothing if we move to lamda)
+
+And thats it! We now have a Open Assistive Technology database that anyone can add data to without creating accounts or logging in and we can pass onto to others in the future to maintain - hassle free. **Awesome**.
