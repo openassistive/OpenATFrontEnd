@@ -7,7 +7,6 @@ project_url: 'http://www.thingiverse.com/thing%3A2563119'
 description: 'As I was working on a master’s degree in special education and a certificate in assistive technology, I had the opportunity to survey the domain'
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A2563119'
@@ -16,7 +15,7 @@ image_download: 'https://cdn.thingiverse.com/renders/b1/5e/62/1a/07/3f9f9d503e9e
 license: 'Creative Commons - Attribution'
 date: '2017-10-22T10:27:34Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: VolksswitchthePeoplesatSwitchProofofConcept
 image_download_sha: 01637065c1ae30a6e3ad50d0902c9e7052389212d371384847f5d598a4fb7550
 thumb: items/VolksswitchthePeoplesatSwitchProofofConcept-88w-thumb.png
