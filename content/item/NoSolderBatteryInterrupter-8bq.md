@@ -8,7 +8,6 @@ description: "\nA battery interrupter is a tool that adds a switch jack to (aka 
 tags:
     - alternative-access
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.instructables.com/id/No-Solder-Battery-Interrupter'
@@ -16,7 +15,7 @@ short_title: NoSolderBatteryInterrupter-8bq
 license: 'Creative Commons BY-NC-SA)'
 date: '2017-10-22T10:54:51Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: NoSolderBatteryInterrupter
 ---
 This is usually done for the purpose of allowing a person with disabilities to use that device, by using an &quot;ability switch,&quot; which can be anything from a plastic button to a muscle twitch sensor.  These switches are almost always wired to a 3.5mm (1/8&quot;) mono plug, and can be connected to anything with a matching jack.  They are used with power wheelchairs, computers, speech devices, toys, remote controls, and so on.

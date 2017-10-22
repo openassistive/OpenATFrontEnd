@@ -8,7 +8,6 @@ description: 'The idea for this project was to bring computing freedom back to t
 tags:
     - alternative-access
     - alternative-mice
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.instructables.com/id/One-Button-Mouse-Controller'
@@ -16,7 +15,7 @@ short_title: OneButtonMouseController-dn7
 license: GPL
 date: '2017-10-22T11:28:58Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: OneButtonMouseController
 ---
 This is tailored for my mother who has Multiple Scleroris. This project alters Arduino's Button Push Mouse Control program to use only one button.

@@ -17,7 +17,7 @@ image_download: 'http://www.messengervisual.com/img/logom.png'
 license: ""
 date: '2017-08-24T19:25:08Z'
 image: items/messengerVisual.png
-thunmb: items/messengerVisual-thumb.png
+thumb: items/messengerVisual-thumb.png
 ---
 Instant messaging service based on the use of standardized images, ARASAAC pictograms , which through an adapted platform allows communication to people with limitations of reading, writing and / or movement.
 

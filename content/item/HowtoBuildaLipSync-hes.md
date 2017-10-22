@@ -7,7 +7,6 @@ project_url: 'http://www.instructables.com/id/How-to-Build-a-LipSync'
 description: 'Touchscreen devices have become a staple piece of technology in this day and age. In 2016, upwards of 1.6 billion people in the world are using smartphones.'
 tags:
     - alternative-access
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.instructables.com/id/How-to-Build-a-LipSync'
@@ -15,7 +14,7 @@ short_title: HowtoBuildaLipSync-hes
 license: 'CC BY-NC-SA'
 date: '2017-10-22T11:13:26Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: HowtoBuildaLipSync
 ---
 Touchscreen devices have become a staple piece of technology in this day and age. In 2016, upwards of 1.6 billion people in the world are using smartphones. Most people cannot get through the day without using their smartphone. It keeps us connected. It keeps us organized. It is an integral part of our social lives. For people in wheelchairs whom experience difficulties with fine upper body motor control, the usage of mobile devices can be very challenging. Statistics show there are over 1 million people in the United States and Canada that have very limited or no use of their hands, making touchscreen devices very difficult or impossible to use.

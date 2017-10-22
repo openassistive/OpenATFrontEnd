@@ -7,7 +7,6 @@ download_url: 'https://github.com/pupil-labs/pupil/releases'
 project_url: 'https://github.com/pupil-labs/pupil'
 tags:
     - alternative-access
-    - un-moderated
 categories:
     - software
 description: 'Open source eye tracking.'
@@ -16,7 +15,7 @@ image_download: 'https://github.com/pupil-labs/pupil/wiki/media/icons/Pupil_Logo
 license: LGPL-3.0
 date: '2017-10-22T11:08:24Z'
 relayed_by_ip: 80.192.71.80
-moderated: false
+moderated: true
 moderated_short_title: pupil
 image_download_sha: b0bd088554161e73075160517ce67c9a16556aa67c012803d02cb6a520111dcb
 thumb: items/pupil-f5f-thumb.png
