@@ -208,7 +208,7 @@ recaptcha_site_key="6LdLlx0UAAAAAC5_hOClwK8NquKPXiCw-Zi76nw1"
 [params.add.submit_form]
 basic_fields = [ 'short_title', 'title', 'category', 'authors', 'license',
                  'download_url', 'project_url' ]
-more_fields = [ 'description', 'main_description' ]
+more_fields = [ 'description', 'main_description', 'image_download' ]
 
 [params.add.field.short_title]
 can_edit = false
@@ -264,4 +264,10 @@ can_edit = true
 name = "main_description"
 label = "Content"
 type = "textarea"
+required = true
+[params.add.field.image_download]
+can_edit = true
+name = "image_download"
+label = "Image download URL (should be square no larger than 500x500)"
+type = "text"
 required = true
