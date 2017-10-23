@@ -8,8 +8,9 @@ authors: 'Derrick Jay Parkhurst'
 tags:
     - 'Other function'
     - 'Using the Mouse'
+    -  eyegaze
 categories:
-    - Software
+    - Hardware
 image: items/open-eyes.png
 thumb: items/open-eyes-thumb.png
 project_url: 'http://thirtysixthspan.com/openEyes/'

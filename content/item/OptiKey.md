@@ -1,12 +1,13 @@
 ---
 title: OptiKey
-short_title: OptiKey-yoy
+short_title: OptiKey
 authors: OptiKey
 datemod: '2017-08-24T08:47:58Z'
 download_url: 'https://github.com/OptiKey/OptiKey/releases'
 project_url: 'http://www.optikey.org'
 tags:
     - alternative-access
+    - eyegaze
 categories:
     - software
 description: 'OptiKey - Full computer control and speech with your eyes'

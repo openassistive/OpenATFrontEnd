@@ -7,6 +7,7 @@ download_url: 'https://github.com/pupil-labs/pupil/releases'
 project_url: 'https://github.com/pupil-labs/pupil'
 tags:
     - alternative-access
+    - eyegaze
 categories:
     - software
 description: 'Open source eye tracking.'
