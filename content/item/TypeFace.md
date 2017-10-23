@@ -1,6 +1,6 @@
 ---
 title: TypeFace
-short_title: TypeFace-ypf
+short_title: TypeFace
 authors: pavja2
 datemod: '2016-01-31T10:04:46Z'
 download_url: 'https://github.com/pavja2/TypeFace/releases'
@@ -8,7 +8,6 @@ project_url: 'https://github.com/pavja2/TypeFace'
 tags:
     - eeg/emg
     - switch-input-software
-    - un-moderated
 categories:
     - software
 description: 'An EEG/Eye Motion-Based Assistive Input Tool with an innovative UI for switch scanning the alphabet'
@@ -17,11 +16,11 @@ image_download: 'https://camo.githubusercontent.com/41dcd3e7750e3c4b0c2e45334be7
 license: Unknown
 date: '2017-10-23T10:14:06Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: TypeFace
 image_download_sha: 3cc983e9628420817765f30bbff27b761a4ddaed080460f694f7a598ea6f0d87
-thumb: items/TypeFace-ypf-thumb.png
-image: items/TypeFace-ypf.png
+thumb: items/TypeFace-ypf-thumb.jpg
+image: items/TypeFace-ypf.jpg
 ---
 Typeface is about typing with your face! It's a project dedicated towards helping individuals suffering from paralysis communicate with loved ones in an intuitive and affordable way. 
 

@@ -7,16 +7,15 @@ project_url: 'http://www.thingiverse.com/thing%3A1471760'
 description: 'This is a low cost, printable AT button. It interfaces with any standard 3.5mm mono jack system'
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A1471760'
-short_title: AdaptiveAssistive35mmButton-ed0
+short_title: AdaptiveAssistive35mmButton
 image_download: 'https://cdn.thingiverse.com/renders/dd/16/be/f4/c0/eab09856bbbf44095b1b65a0d3a7c105_preview_featured.JPG'
 license: 'GNU - GPL '
 date: '2017-10-23T10:10:58Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: AdaptiveAssistive35mmButton
 image_download_sha: 078b6abf1de1f9ea77e0c7e6dc745db1d3003c6748fe59e4e993a6bdc97cd522
 thumb: items/AdaptiveAssistive35mmButton-ed0-thumb.png

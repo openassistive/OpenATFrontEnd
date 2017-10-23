@@ -1,6 +1,6 @@
 ---
 title: OpenChair
-short_title: OpenChair-daj
+short_title: OpenChair
 authors: majinstudios
 datemod: '2017-02-22T10:06:31Z'
 download_url: 'https://cdn.hackaday.io/files/13347571038048/OpenChair.zip'
@@ -8,20 +8,19 @@ project_url: 'https://github.com/majinstudios/OpenChair'
 tags:
     - mobility
     - powered-mobility
-    - un-moderated
 categories:
     - software
 description: 'With OpenChair we want to create the first wheelchair development platform in which users can code or design the adaptations necessary to fit their needs.'
 original_url: 'https://github.com/majinstudios/OpenChair'
 image_download: 'https://avatars0.githubusercontent.com/u/3091487?s=40&v=4'
-license: 'CC BY-SA 4.0)'
+license: 'CC BY-SA 4.0'
 date: '2017-10-23T10:18:24Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: OpenChair
 image_download_sha: aa4c1084b41ded46b415c9e5050ca8a804f0c1d5025284cddbeaaab1376881c2
-thumb: items/OpenChair-daj-thumb.png
-image: items/OpenChair-daj.png
+thumb: items/OpenChair-thumb.jpg
+image: items/OpenChair.jpg
 ---
 Wheelchairs are one of the most used accessibility devices worldwide, however, the prices for electric wheelchairs are still too high (starting at about 1000€) and they are certainly not open for the user to hack.
 
