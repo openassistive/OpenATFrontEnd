@@ -1,23 +1,23 @@
 ---
 title: 'FLipMouse (Finger and LipMouse)'
-short_title: FLipMouse-h4j
+short_title: FLipMouse
 authors: asterics
 datemod: '2017-09-11T20:33:41Z'
 download_url: 'https://github.com/asterics/FLipMouse/releases'
 project_url: 'https://github.com/asterics/FLipMouse'
 tags:
     - alternative-access
-    - alternative-mice
-    - un-moderated
+    - alternaive-mice
+    - joysticks
 categories:
-    - software
+    - hardware
 description: 'A sensitive, mouth operated mouse with sip & puff '
 original_url: 'https://github.com/asterics/FLipMouse'
 image_download: 'https://github.com/asterics/FLipMouse/raw/master/img/FLipmouse2.jpg'
 license: 'GNU General Public License v3.0'
 date: '2017-10-23T22:22:00Z'
 relayed_by_ip: 86.180.122.140
-moderated: false
+moderated: true
 moderated_short_title: FLipMouse
 image_download_sha: 1330919c86e69d1d4c7906ca83a7ce8fb3f33fb9e284e738314e63bf9063a934
 thumb: items/FLipMouse-h4j-thumb.png

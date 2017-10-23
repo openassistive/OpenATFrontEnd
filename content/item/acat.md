@@ -1,6 +1,6 @@
 ---
 title: 'Assistive Context-Aware Toolkit (ACAT)'
-short_title: acat-t00
+short_title: acat
 authors: intel
 datemod: '2017-10-22T05:25:16Z'
 download_url: 'https://github.com/intel/acat/releases'
@@ -8,7 +8,6 @@ project_url: 'https://github.com/intel/acat'
 tags:
     - switch-input-software
     - text-input-projects
-    - un-moderated
 categories:
     - software
 description: 'ACAT enables users to easily communicate with others through keyboard simulation, word prediction and speech synthesis. Users can perform a range of tasks such as editing, managing documents, navigating the Web and accessing emails.'
@@ -17,7 +16,7 @@ image_download: 'https://01.org/sites/default/files/styles/projects_detailed_pag
 license: 'Apache 2.0'
 date: '2017-10-23T22:13:22Z'
 relayed_by_ip: 86.180.122.140
-moderated: false
+moderated: true
 moderated_short_title: acat
 image_download_sha: 5aa44e49b2bedf84d5a6c1107529b4a3debd0c7c03df29c514ab1e7f7ab5abf3
 thumb: items/acat-t00-thumb.png
