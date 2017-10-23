@@ -23,4 +23,4 @@ image: items/BagCarrier.png
 ---
 A simple bag carrier to distribute the weight of two or more bags.
 
-See here for instructions on how to make. 
+See [here](https://www.dropbox.com/s/onrz2zdibveaueo/Bag_Carrier_v.1.0.0.0_Specs.pdf?dl=1) for instructions on how to make. 
