@@ -9,7 +9,7 @@ tags:
     - mobility
     - powered-mobility
 categories:
-    - software
+    - hardware
 description: 'With OpenChair we want to create the first wheelchair development platform in which users can code or design the adaptations necessary to fit their needs.'
 original_url: 'https://github.com/majinstudios/OpenChair'
 image_download: 'https://avatars0.githubusercontent.com/u/3091487?s=40&v=4'

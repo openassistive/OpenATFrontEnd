@@ -9,7 +9,7 @@ tags:
     - alternative-access
     - eyegaze
 categories:
-    - software
+    - hardware
 description: 'Open source eye tracking.'
 original_url: 'https://github.com/pupil-labs/pupil'
 image_download: 'https://github.com/pupil-labs/pupil/wiki/media/icons/Pupil_Logo_wiki-01.png'
