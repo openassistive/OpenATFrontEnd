@@ -8,10 +8,8 @@ authors: Unknown
 image: items/blank.png
 thumb: items/blank-thumb.png
 tags:
-    - 'Symbol Library'
     - 'Text to Speech'
     - 'Educational and Learning'
-    - Symbols
     - 'Alternative Access'
     - 'Learning and Education'
 categories:
