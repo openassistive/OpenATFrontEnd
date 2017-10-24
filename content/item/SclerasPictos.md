@@ -12,7 +12,6 @@ tags:
     - 'Alternative and Augmentative Communication'
     - 'Educational and Learning'
     - Communication
-    - Symbols
     - 'Learning and Education'
 categories:
     - Software

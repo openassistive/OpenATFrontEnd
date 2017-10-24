@@ -8,6 +8,8 @@ project_url: 'http://tawasolsymbols.org/'
 description: 'Arabic symbolset'
 tags:
     - 'Symbol Library'
+    - 'Alternative and Augmentative Communication'
+    - 'Educational and Learning'
 categories:
     - software
 original_url: 'http://tawasolsymbols.org/'

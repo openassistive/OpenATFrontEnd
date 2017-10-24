@@ -1,13 +1,12 @@
 ---
 title: KeyboardX
-short_title: KeyboardX-9qb
+short_title: KeyboardX
 authors: asterics
 datemod: '2017-09-11T20:34:09Z'
 download_url: 'https://github.com/asterics/KeyboardX/releases'
 project_url: 'https://github.com/asterics/KeyboardX'
 tags:
     - on-screen-keyboard-projects
-    - un-moderated
 categories:
     - software
 description: 'Multi-purpose on-screen keyboard (Windows)'
@@ -16,7 +15,7 @@ image_download: 'https://github.com/asterics/KeyboardX/wiki/img/showboard2_main.
 license: 'GNU General Public License v2'
 date: '2017-10-24T06:55:21Z'
 relayed_by_ip: 86.180.122.140
-moderated: false
+moderated: true
 moderated_short_title: KeyboardX
 image_download_sha: 9b2ce7157519bf62072b503daa58cb8ca650307a809286d8829385fb4890cdb6
 thumb: items/KeyboardX-9qb-thumb.png
