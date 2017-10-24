@@ -7,6 +7,7 @@ project_url: 'https://hackaday.io/project/13424-lipsync'
 description: 'Sensitive Mouth operated joystick with Sip & Puff controls integrated'
 tags:
     - alternative-access
+    - alternaive-mice
     - joysticks
 categories:
     - hardware
