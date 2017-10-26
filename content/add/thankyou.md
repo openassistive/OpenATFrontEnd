@@ -7,4 +7,5 @@ showPagination = false
 comments = false
 +++
 
-Thank you for submiting your project to us.
+Thank you for submiting your project to us. Your project should shortly be found on the [un-moderated page](/tags/un-moderated/). 
+
