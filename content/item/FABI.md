@@ -1,6 +1,6 @@
 ---
 title: 'FABI (Flexible Assistive Button Interface)'
-short_title: FABI-c03
+short_title: FABI
 authors: asterics
 datemod: '2017-09-11T20:33:57Z'
 download_url: 'https://github.com/asterics/FABI/releases'
@@ -8,7 +8,6 @@ project_url: 'https://github.com/asterics/FABI'
 tags:
     - alternative-access
     - switches
-    - un-moderated
 categories:
     - hardware
 description: "The FABI Interface can be actuated via dedicated buttons, momentary switches or self-made electrical contacts. FABI consists of a hardware module (a low-cost microcontroller which behaves as a computer mouse and/or keyboard) and a graphical software application for configuration of the desired functions\n"
@@ -17,7 +16,7 @@ image_download: 'https://github.com/asterics/FABI/raw/master/img/8.jpg'
 license: 'GNU General Public License v3.0'
 date: '2017-10-23T22:31:50Z'
 relayed_by_ip: 86.180.122.140
-moderated: false
+moderated: true
 moderated_short_title: FABI
 image_download_sha: a8cf0d9dc4a980c13fed49f64e361da5243fe42915ff767fda0e6fdb6a70c2e7
 thumb: items/FABI-c03-thumb.png

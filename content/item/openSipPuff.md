@@ -1,13 +1,12 @@
 ---
 title: openSip+Puff
-short_title: openSipPuff-f9g
+short_title: openSipPuff
 authors: 'Jason Webb'
 datemod: '2017-09-22T17:43:57Z'
 download_url: 'https://github.com/jasonwebb/openSipPuff/archive/master.zip'
 project_url: 'https://github.com/jasonwebb/openSipPuff'
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 description: 'Simple, low-cost "sip and puff" USB interface for expressive interactions, enabling breath-based control of keypresses, mouse actions and much more using USB HID.'
@@ -16,7 +15,7 @@ image_download: 'https://raw.githubusercontent.com/jasonwebb/openSipPuff/master/
 license: 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International'
 date: '2017-10-26T22:12:38Z'
 relayed_by_ip: 109.157.207.228
-moderated: false
+moderated: true
 moderated_short_title: openSipPuff
 image_download_sha: 29c41a9a2cea3dc4a3ee9673931e75386ab908657eed5695746080fb852604ff
 thumb: items/openSipPuff-f9g-thumb.png

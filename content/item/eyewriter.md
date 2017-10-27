@@ -1,13 +1,12 @@
 ---
 title: eyewriter
-short_title: eyewriter-6j9
+short_title: eyewriter
 authors: 'Free Art and Technology (FAT), OpenFrameworks, Graffiti Resarch Lab'
 datemod: '2017-10-02T19:54:36Z'
 download_url: 'http://www.instructables.com/id/The-EyeWriter-20/'
 project_url: 'http://eyewriter.org'
 tags:
     - eyegaze
-    - un-moderated
 categories:
     - hardware
 description: 'open source eye tracking and drawing toolkit'
@@ -16,7 +15,7 @@ image_download: 'https://cdn.instructables.com/FNB/NYGE/GHDSJEJ6/FNBNYGEGHDSJEJ6
 license: Unknown
 date: '2017-10-26T22:05:49Z'
 relayed_by_ip: 109.157.207.228
-moderated: false
+moderated: true
 moderated_short_title: eyewriter
 image_download_sha: 4a838889c24f5c385252a2773562dd2dce61e5c9fc35357cc8a934298d553b80
 thumb: items/eyewriter-6j9-thumb.png

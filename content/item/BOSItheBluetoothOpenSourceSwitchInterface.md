@@ -7,16 +7,15 @@ project_url: 'https://hackaday.io/project/13449-bosi-the-bluetooth-open-source-s
 description: 'Wireless (Bluetooth) switch system capable of making 12 wireless switches. '
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'https://hackaday.io/project/13449-bosi-the-bluetooth-open-source-switch-interface'
-short_title: BOSItheBluetoothOpenSourceSwitchInterface-9qk
+short_title: BOSItheBluetoothOpenSourceSwitchInterface
 image_download: 'https://cdn.hackaday.io/images/resize/600x600/5946421474603380375.jpg'
 license: Unknown
 date: '2017-10-26T23:03:27Z'
 relayed_by_ip: 109.157.207.228
-moderated: false
+moderated: true
 moderated_short_title: BOSItheBluetoothOpenSourceSwitchInterface
 image_download_sha: 3c11d918a9a8a848f75f7fb547c4a6d45f7024a392c5b9975a549607aadac2f6
 thumb: items/BOSItheBluetoothOpenSourceSwitchInterface-9qk-thumb.png
