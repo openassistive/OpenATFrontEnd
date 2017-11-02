@@ -19,7 +19,7 @@ relayed_by_ip: 82.69.122.199
 moderated: true
 moderated_short_title: TheOpenVoiceFactory
 image_download_sha: e5a5a2e74d5a1cd5ced16fbc96cb000450c1f1e81b79e51960f2a1221f6b946d
-thumb: items/TheOpenVoiceFactor-thumb.png
+thumb: items/TheOpenVoiceFactory-thumb.png
 image: items/TheOpenVoiceFactory.png
 ---
 The Open Voice Factory converts communication boards into communication devices.
