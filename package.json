@@ -5,7 +5,8 @@
   "main": "none",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "reindex": "node scripts/algolia_clear.js && node scripts/algolia_index_items.js content/item/ && node scripts/algolia_index_posts.js content/post/"
+    "reindex": "node scripts/algolia_clear.js && node scripts/algolia_index_items.js content/item/ && node scripts/algolia_index_posts.js content/post/",
+    "get-awesome": "/bin/bash scripts/GetAwesome.sh"
   },
   "author": "",
   "license": "ISC",
