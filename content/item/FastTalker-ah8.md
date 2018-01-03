@@ -7,7 +7,6 @@ download_url: 'https://github.com/miyamot0/FastTalker/releases'
 project_url: 'https://github.com/miyamot0/FastTalker'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - software
 description: 'Fast Talker is a cross platform application being used to evaluate the effectiveness of a speech generating device training protocol.'
@@ -16,7 +15,7 @@ image_download: 'https://github.com/miyamot0/FastTalker/raw/master/FT-Drag.gif?r
 license: 'GPL v3'
 date: '2018-01-03T14:02:11Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: FastTalker
 image_download_sha: a0bca96e5d25c3b505c476f391475347df05704cfc5470b5c6a3c0daac37578a
 thumb: items/FastTalker-ah8-thumb.png

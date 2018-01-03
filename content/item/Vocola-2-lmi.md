@@ -7,7 +7,6 @@ download_url: 'https://github.com/mdbridge/Vocola-2/releases'
 project_url: 'http://vocola.net/'
 tags:
     - voice-recognition
-    - un-moderated
 categories:
     - software
 description: 'Vocola is a voice command language―a language for creating commands to control a computer by voice. Vocola 2 is the version that works with Dragon NaturallySpeaking.'
@@ -16,7 +15,7 @@ image_download: 'https://avatars0.githubusercontent.com/u/15827795?s=40&v=4'
 license: MIT
 date: '2018-01-03T13:59:12Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: Vocola-2
 image_download_sha: 918761b9df9a420f6052a6159f2d9b65c82e3e911b3b4eb18a59aa39301342fa
 thumb: items/Vocola-2-lmi-thumb.png

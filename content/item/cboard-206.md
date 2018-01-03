@@ -7,7 +7,6 @@ download_url: 'https://github.com/shayc/cboard/releases'
 project_url: 'https://github.com/shayc/cboard'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - software
 description: 'AAC communication board with text-to-speech for the browser'
@@ -16,7 +15,7 @@ image_download: 'https://camo.githubusercontent.com/9bf6187bb0f04d4aa504adea19dc
 license: 'GPL v3'
 date: '2018-01-03T14:08:39Z'
 relayed_by_ip: 217.155.33.193
-moderated: false
+moderated: true
 moderated_short_title: cboard
 image_download_sha: 5bb005d8a5040ea8bec03377b04d2e9fcd2de18cf904ab59862dbd69c348405b
 thumb: items/cboard-206-thumb.png
