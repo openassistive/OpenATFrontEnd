@@ -8,7 +8,6 @@ project_url: 'https://github.com/paulhewett/wheelchair-static-stability-test-rig
 tags:
     - mobility
     - powered-mobility
-    - un-moderated
 categories:
     - hardware
 description: 'Currently in development, this system will test static stability of powered and manual wheelchair using load cells.'
