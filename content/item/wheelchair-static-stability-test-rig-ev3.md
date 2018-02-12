@@ -23,8 +23,6 @@ image_download_sha: ba314d6c99e1c9e494425bfdbd941e5f6b2600422499ed3328e7c63fa56e
 thumb: items/wheelchair-static-stability-test-rig-ev3-thumb.png
 image: items/wheelchair-static-stability-test-rig-ev3.png
 ---
-## Wheelchair Static Stability Test Rig
-
 This system can be sued to measure wheelchair static stability. The design's being published to allow better community development and feedback.
 
 ![Wheelchair Static Stability Test Rig](https://github.com/paulhewett/wheelchair-stability-test-rig/blob/master/Wheelchair%20Static%20Stability%20Test%20Rig.jpg?raw=true)
