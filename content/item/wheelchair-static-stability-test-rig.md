@@ -1,6 +1,6 @@
 ---
 title: 'Wheelchair Static Stability Test Rig'
-short_title: wheelchair-static-stability-test-rig-ev3
+short_title: wheelchair-static-stability-test-rig
 authors: paulhewett
 datemod: '2018-02-12T13:52:54Z'
 download_url: 'https://github.com/paulhewett/wheelchair-static-stability-test-rig/releases'
@@ -24,7 +24,7 @@ image: items/wheelchair-static-stability-test-rig-ev3.png
 ---
 This system can be sued to measure wheelchair static stability. The design's being published to allow better community development and feedback.
 
-You can use [these pages to see the instructions and to calculate theoretical stability](https://paulhewett.github.io/wheelchair-stability-test-rig/) based on scale measurement data.
+You can use [these pages to see the instructions and to calculate theoretical stability](https://paulhewett.github.io/wheelchair-static-stability-test-rig/) based on scale measurement data.
 
 I've currently just posted a version developed some years ago, with a view to some development soon. It is still a work in progress, so do bear with!
 
