@@ -10,7 +10,6 @@ tags:
     - alternative-access
     - alternative-and-augmentative-communication
     - on-screen-keyboard-projects
-    - un-moderated
 categories:
     - software
 original_url: 'https://sourceforge.net/projects/sawat'
@@ -18,7 +17,7 @@ short_title: SAWSpecialAccesstoWindows-tgz
 image_download: 'https://a.fsdn.com/con/app/proj/sawat/screenshots/330955.jpg/245/183/1.5'
 date: '2018-06-30T22:52:07Z'
 relayed_by_ip: 217.208.181.230
-moderated: false
+moderated: true
 moderated_short_title: SAWSpecialAccesstoWindows
 image_download_sha: eccfcf248145761d8e8054972638952366b18bd5c5e2d3747bebfe44b5a85ae4
 thumb: items/SAWSpecialAccesstoWindows-tgz-thumb.png
