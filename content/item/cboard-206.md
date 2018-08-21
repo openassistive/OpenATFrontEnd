@@ -10,7 +10,7 @@ tags:
     - alternative-and-augmentative-communication
 categories:
     - software
-description: 'Open-source AAC communication board with text-to-speech for the browser'
+description: 'AAC communication board with text-to-speech for the browser'
 original_url: 'https://github.com/cboard-org/cboard'
 image_download: 'https://camo.githubusercontent.com/9bf6187bb0f04d4aa504adea19dc200cc2c308ef/68747470733a2f2f692e696d6775722e636f6d2f6565483963554d2e6a7067'
 license: 'GPL v3'
