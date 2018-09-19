@@ -1,13 +1,12 @@
 ---
 title: pasco
-short_title: pasco-rzh
+short_title: pasco
 authors: 'Ace Centre'
 datemod: '2018-09-09T23:18:25Z'
 download_url: 'https://github.com/AceCentre/pasco/releases'
 project_url: 'https://github.com/AceCentre/pasco'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - software
 description: 'Phrase Auditory Scanning COmmunicator. Pasco allows individuals with a Visual and Physical difficulty to communicate. Language is organised in a simple text file and is read aloud via auditory cues. Multi-lingual support for cue and main voice. Recorded messages supported and spelling function. Available on iOS and the web. '
@@ -16,7 +15,7 @@ image_download: 'https://pasco.chat/img/icon.png'
 license: ""
 date: '2018-09-19T08:56:00Z'
 relayed_by_ip: 88.97.1.177
-moderated: false
+moderated: True
 moderated_short_title: pasco
 image_download_sha: be6ba0b659158a908068c4e8fc0f39c428fb953a15b9791e351dbb3e13900909
 thumb: items/pasco-rzh-thumb.png

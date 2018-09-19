@@ -1,6 +1,6 @@
 ---
 title: Cboard
-short_title: cboard-206
+short_title: cboard
 authors: shayc
 datemod: '2018-01-02T09:45:54Z'
 download_url: 'https://app.cboard.io'
