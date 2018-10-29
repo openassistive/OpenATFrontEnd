@@ -14,8 +14,8 @@ tags:
     - 'Learning and Education'
 categories:
     - Software
-project_url: 'http://straight-street.com/'
-download_url: 'http://straight-street.com/'
+project_url: 'https://mulberrysymbols.org'
+download_url: 'https://github.com/mulberrysymbols/mulberry-symbols/releases/latest'
 image: items/straight-street.png
 thumb: items/straight-street-thumb.png
 moderated: true
