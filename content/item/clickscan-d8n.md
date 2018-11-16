@@ -8,16 +8,15 @@ project_url: 'https://github.com/jamjolu/clickscan'
 tags:
     - accessing-the-web
     - switch-input-software
-    - un-moderated
 categories:
     - software
 description: 'ClickScan - A Windows utility to enhance a switch adapted mouse to provide auto-scan and other features.'
 original_url: 'https://github.com/jamjolu/clickscan'
 image_download: 'https://github.com/jamjolu/clickscan/raw/master/clickScanOn.png'
-license: none
+license: 'Creative Commons 3.0 - Share Alike'
 date: '2018-11-15T21:08:08Z'
 relayed_by_ip: 64.206.193.242
-moderated: false
+moderated: true
 moderated_short_title: clickscan
 image_download_sha: de09daa6dba097193dc480f1ac256becb56c2676284665425bbe2bc074efb4e1
 thumb: items/clickscan-d8n-thumb.png
