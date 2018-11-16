@@ -10,7 +10,6 @@ tags:
     - alternaive-mice
     - alternative-access
     - switch-input-software
-    - un-moderated
 categories:
     - software
 description: "SwitchWedge - A Windows ability switch enhancer for any switch interface.\n\n"
@@ -19,7 +18,7 @@ image_download: 'https://github.com/jamjolu/switchwedge/raw/master/SwitchWedge_.
 license: 'creative commons license 3.0 sharealike'
 date: '2018-11-16T20:25:31Z'
 relayed_by_ip: 64.206.193.242
-moderated: false
+moderated: true
 moderated_short_title: switchwedge
 image_download_sha: 29d0e4fae73504c9e1a0822f65e442ef94372e5bead98ab46c0d93e13e655d4a
 thumb: items/switchwedge-cix-thumb.png
