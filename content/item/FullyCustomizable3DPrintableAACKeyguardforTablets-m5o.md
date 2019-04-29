@@ -7,7 +7,6 @@ project_url: 'http://www.thingiverse.com/thing%3A2868839'
 description: 'We have created an OpenSCAD design that allows the user to identify their tablet, describe how the AAC app is laid out, describe their case, and choose a mounting method to mount the keyguard directly to the tablet or to the case. Once the keyguard is fully described you can generate and save an STL file that you can print on your 3D printer.'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A2868839'
@@ -16,7 +15,7 @@ license: ""
 image_download: 'https://cdn.thingiverse.com/renders/83/e5/a1/11/35/45534565bec4eb41610b815a960929e2_preview_featured.JPG'
 date: '2018-04-22T17:32:29Z'
 relayed_by_ip: 73.181.106.221
-moderated: false
+moderated: true
 moderated_short_title: FullyCustomizable3DPrintableAACKeyguardforTablets
 image_download_sha: 99e80102dd6c9eadfb4c8d0ba734a7db9c56ef6db37b7a59dbb53aed1a80f353
 thumb: items/FullyCustomizable3DPrintableAACKeyguardforTablets-m5o-thumb.png
