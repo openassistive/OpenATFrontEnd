@@ -17,7 +17,7 @@ authors: Volksswitch.org
 image_download: 'https://cdn.thingiverse.com/renders/ff/b0/2f/ec/06/c54344a5b8bda262ecf47b0990d35b06_preview_featured.jpg'
 date: '2019-04-23T16:08:37Z'
 relayed_by_ip: 73.153.67.79
-moderated: false
+moderated: true
 moderated_short_title: Customizable6thFingerToeStylus
 image_download_sha: 9c864b0d495c49b66a2cd188f13c9c4009821f0b204b52f9f557946c92603a78
 thumb: items/Customizable6thFingerToeStylus-brj-thumb.png
