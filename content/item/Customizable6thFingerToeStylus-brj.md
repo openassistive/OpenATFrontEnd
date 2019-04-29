@@ -8,7 +8,6 @@ description: 'This design was inspired by a request posted to the ATMakers.org p
 tags:
     - alternative-and-augmentative-communication
     - learning-and-education
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A3483326'
