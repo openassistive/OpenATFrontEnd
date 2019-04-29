@@ -16,7 +16,7 @@ authors: Volksswitch.org
 image_download: 'https://cdn.thingiverse.com/renders/67/5a/91/88/5a/7dc4dec52a7de72e3e47f16a9c69b4b9_preview_featured.JPG'
 date: '2019-04-23T16:02:42Z'
 relayed_by_ip: 73.153.67.79
-moderated: false
+moderated: true
 moderated_short_title: CustomizableUniversalCuffUtensilHolder
 image_download_sha: a3ac3f7d7e72bd9dd9f19bd926ea80e293829e636e07de2c1c8a360d4ca57054
 thumb: items/CustomizableUniversalCuffUtensilHolder-04i-thumb.png
