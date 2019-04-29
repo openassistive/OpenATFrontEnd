@@ -8,7 +8,6 @@ description: 'This universal cuff stylus gives people who have no fingers or peo
 tags:
     - alternative-and-augmentative-communication
     - learning-and-education
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A3490198'
