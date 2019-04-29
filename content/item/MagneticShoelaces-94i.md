@@ -7,7 +7,6 @@ project_url: 'https://wp.me/P9evBA-eO'
 description: 'Individuals with limited dexterity due either to problems with muscle control or to joint pain can have difficulty lacing and tying their shoes.  These magnetic shoelaces, originally designed by the Ruiz brothers at Adafruit, make it possible to easily put on,  tighten, and later, take off lace-up shoes.'
 tags:
     - living-aid
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A3028911'
@@ -16,7 +15,7 @@ authors: Volksswitch.org
 image_download: 'https://cdn.thingiverse.com/renders/e5/ee/71/cb/af/e608865c71ec5761ef31c3cfd19994fd_preview_featured.JPG'
 date: '2019-04-23T16:11:47Z'
 relayed_by_ip: 73.153.67.79
-moderated: false
+moderated: true
 moderated_short_title: MagneticShoelaces
 image_download_sha: a67b32552ea899eadaa9a95b208e97ef6ce45705550ff5332766a2012b02d77c
 thumb: items/MagneticShoelaces-94i-thumb.png
