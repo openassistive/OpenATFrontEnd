@@ -7,7 +7,6 @@ project_url: 'http://www.thingiverse.com/thing%3A3043598'
 description: 'Individuals with limited dexterity due either to problems with muscle control or to joint pain can have difficulty opening pop-top cans and opening small bottles.  This assistive device makes it easier to accomplish both tasks.'
 tags:
     - living-aid
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A3043598'
@@ -16,7 +15,7 @@ authors: Volksswitch.org
 image_download: 'https://cdn.thingiverse.com/renders/28/c0/07/6d/2b/d294849094b7b97edbfba502f595698f_preview_featured.JPG'
 date: '2019-04-23T16:10:25Z'
 relayed_by_ip: 73.153.67.79
-moderated: false
+moderated: true
 moderated_short_title: PopTopCanandBottleOpener
 image_download_sha: 5819f5237f55fda0326094876a6e25b549f39a4e8f7de7e1be6565ec57af7e44
 thumb: items/PopTopCanandBottleOpener-iyp-thumb.png
