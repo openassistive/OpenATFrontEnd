@@ -17,7 +17,7 @@ authors: Volksswitch.org
 image_download: 'https://cdn.thingiverse.com/renders/71/f5/ae/bd/d1/d21a8f742105d1c93d153f7041289394_preview_featured.JPG'
 date: '2019-04-23T16:05:49Z'
 relayed_by_ip: 73.153.67.79
-moderated: false
+moderated: true
 moderated_short_title: CustomizableUniversalCuffStylus
 image_download_sha: 1065bc5b008beaf2e62f30451a1fcf020e0c8a5f4e3ffa7af4b627d59af17f8a
 thumb: items/CustomizableUniversalCuffStylus-64q-thumb.png
