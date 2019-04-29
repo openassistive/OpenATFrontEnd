@@ -7,7 +7,6 @@ project_url: 'http://volksswitch.org/index.php/volks-devices/personalized-cuff-u
 description: 'Utensil holders give people with limited grip, hand strength, or dexterity a way to use items like eating utensils, toothbrushes, writing tools, and other small items. This device is focused on support for eating but the design could be extended easily to other objects. It was inspired by a post to the ATMakers.org page on Facebook asking for a utensil holder that accommodated knifes as well as forks and spoons. '
 tags:
     - living-aid
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A3492411'
