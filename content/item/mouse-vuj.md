@@ -4,15 +4,15 @@ short_title: ploopymouse
 authors: ploopyco
 datemod: '2019-10-16T12:20:44Z'
 download_url: 'https://github.com/ploopyco/mouse/releases'
-project_url: 'https://github.com/ploopyco/mouse'
+project_url: 'https://www.ploopy.co/'
 tags:
     - alternaive-mice
 categories:
     - hardware
 description: 'A trackball mouse. Mechanical files, PCBs, and firmware all included.'
 original_url: 'https://github.com/ploopyco/mouse'
-image_download: 'https://github.githubassets.com/images/search-key-slash.svg'
-license: "GPLv3"
+image_download: 'https://i.redd.it/y4t03p62ups31.jpg'
+license: "GPLv3, OHL CERN v1.2"
 date: '2019-10-16T12:25:58Z'
 relayed_by_ip: 80.209.142.44
 moderated: true
