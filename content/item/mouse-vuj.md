@@ -22,3 +22,7 @@ thumb: items/mouse-vuj-thumb.png
 image: items/mouse-vuj.png
 ---
 A trackball mouse. Mechanical files, PCBs, and firmware all included.
+
+An awesome - fully working - rollerball with high end components
+
+Check out the wiki [here](https://github.com/ploopyco/mouse/wiki/1.-Introduction)
