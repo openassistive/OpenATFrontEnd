@@ -18,8 +18,8 @@ relayed_by_ip: 80.209.142.44
 moderated: true
 moderated_short_title: ploopymouse
 image_download_sha: 7e2d30caebb4fdfbbb2cdfbf93e1877d14f4fe7ab030c80b28e4973604a4c16e
-thumb: items/mouse-vuj-thumb.png
-image: items/mouse-vuj.png
+thumb: items/ploopy-thumb.jpg
+image: items/ploopy.jpg
 ---
 A trackball mouse. Mechanical files, PCBs, and firmware all included.
 
