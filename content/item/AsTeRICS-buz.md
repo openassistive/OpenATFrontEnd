@@ -18,7 +18,7 @@ license: 'MIT / GPL'
 image_download: 'https://github.com/asterics/AsTeRICS-Grid/raw/master/app/img/asterics_icon.png'
 date: '2019-12-17T15:02:10Z'
 relayed_by_ip: 195.245.225.252
-moderated: false
+moderated: true
 moderated_short_title: AsTeRICS
 image_download_sha: 2b692330d53d9d0ef8e701fe381fa7c6cce65a9a953d903ff8d77e8bd740de0a
 thumb: items/AsTeRICS-buz-thumb.png
