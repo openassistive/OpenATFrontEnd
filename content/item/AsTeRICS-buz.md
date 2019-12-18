@@ -1,23 +1,15 @@
 ---
 title: 'AsTeRICS Framework'
 short_title: AsTeRICS-buz
-authors: 'AsTeRICS Foundation / FH Technikum Wien / This project has been partly funded by the European Commission,  Grant Agreement Number 247730 in the years 2010-2012. Since 2013, further development of AsTeRICS software and hardware components is hosted at:  https://github.com/asterics/AsTeRICS'
+authors: 'AsTeRICS Foundation / FH Technikum Wien'
 datemod: '2019-12-02T10:20:47Z'
 download_url: 'https://github.com/asterics/AsTeRICS/releases'
 project_url: 'https://github.com/asterics/AsTeRICS'
 tags:
-    - accessing-the-web
     - alternative-access
-    - computer-automation
     - developer-tools
-    - eeg/emg
-    - environmental-control
     - eyegaze
     - framework
-    - head-mouse
-    - switch-input-software
-    - using-the-mouse
-    - un-moderated
 categories:
     - software
 description: 'The Assistive Technology Rapid Integration & Construction Set'
@@ -33,3 +25,16 @@ thumb: items/AsTeRICS-buz-thumb.png
 image: items/AsTeRICS-buz.png
 ---
 The Assistive Technology Rapid Integration &amp; Construction Set
+
+AsTeRICS is a free and Open-Source graphical construction set for assistive technologies (AT). It allows the creation of flexible solutions for people with disabilities using a large set of sensors and actuators.
+
+Possible applications are
+
+- Computer input (mouse, keyboard, joystick)
+- Environmental Control (KNX, FS20, IR, EnOcean, openHAB)
+- Toys and Games (Playstation 3, computer games, RC-toys ...)
+- Brain/Neural computer interfaces (Enobio, OpenVIBE, OpenEEG)
+- Android Phone support (SMS, calls)
+- and many more!
+
+For more information see our website http://www.asterics.eu.
