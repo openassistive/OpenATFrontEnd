@@ -3,12 +3,12 @@ title: 'FAIO - Feather All-in-One Switch'
 short_title: FAIO-vbz
 authors: milador
 datemod: '2019-04-20T04:45:19Z'
-download_url: 'https://github.com/milador/FAIO/releases'
+download_url: 'https://github.com/milador/FAIO/#README'
 project_url: 'https://github.com/milador/FAIO'
 tags:
     - joysticks
     - switches
-    - un-moderated
+    - morse-code
 categories:
     - hardware
 description: 'Feather All-in-One Switch'
@@ -17,7 +17,7 @@ image_download: 'https://github.githubassets.com/images/search-key-slash.svg'
 license: 'Gnu - GPL V3'
 date: '2020-05-08T22:11:34Z'
 relayed_by_ip: 143.159.200.243
-moderated: false
+moderated: true
 moderated_short_title: FAIO
 image_download_sha: 7e2d30caebb4fdfbbb2cdfbf93e1877d14f4fe7ab030c80b28e4973604a4c16e
 thumb: items/FAIO-vbz-thumb.png
