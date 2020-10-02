@@ -24,4 +24,4 @@ image: items/hat-mouse.jpg
 ---
 Bluetooth input device using an orientation sensor. This is built using an nrf52840 Feather Sense. Neat as it uses the magnetomer and gyro to stabilise itself. 
 
-[Video & Reddit for more information](https://www.reddit.com/r/arduino/comments/j17v14/i_made_a_bluetooth_hat_mouse_move_the_cursor_by/)
+{{< youtube aJb6M_2izWQ >}}
