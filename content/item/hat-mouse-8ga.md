@@ -22,6 +22,8 @@ image_download_sha: 7e2d30caebb4fdfbbb2cdfbf93e1877d14f4fe7ab030c80b28e4973604a4
 thumb: items/hat-mouse-thumb.png
 image: items/hat-mouse.jpg
 ---
-Bluetooth input device using an orientation sensor. This is built using an nrf52840 Feather Sense. Neat as it uses the magnetomer and gyro to stabilise itself. 
+Bluetooth input device using an orientation sensor. This is built using an nrf52840 Feather Sense. The way it works is it reads accelerometer, gyroscope and magnetometer data, puts it through a sensor fusion algorithm to get orientation and then uses the yaw and pitch values to position the mouse cursor on the screen. It uses absolute cursor positioning instead of the most common relative mode, hence the custom HID report descriptor.
+
+Cursor re-centering is done by pressing the "user switch" button on the board.
 
 {{< youtube aJb6M_2izWQ >}}
