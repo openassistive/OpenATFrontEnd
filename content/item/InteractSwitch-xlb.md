@@ -3,7 +3,7 @@ title: 'Interact Switch'
 datemod: '2021-02-02T16:46:58Z'
 download_url: 'https://www.thingiverse.com/thing:4570894'
 project_url: 'https://www.thingiverse.com/thing:4570894'
-description: "The Interact Switch is a high-quality adaptive switch designed to meet and exceed the performance of commercial switches. You can read more about its development here:\nhttps://hackaday.io/projects/hacker/83144"
+description: "The Interact Switch is a high-quality adaptive switch designed to meet and exceed the performance of commercial switches. You can read more about its development here"
 tags:
     - switches
 categories:
