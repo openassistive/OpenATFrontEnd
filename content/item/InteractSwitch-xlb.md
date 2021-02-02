@@ -6,7 +6,6 @@ project_url: 'https://www.thingiverse.com/thing:4570894'
 description: "The Interact Switch is a high-quality adaptive switch designed to meet and exceed the performance of commercial switches. You can read more about its development here:\nhttps://hackaday.io/projects/hacker/83144"
 tags:
     - switches
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A4570894'
@@ -16,7 +15,7 @@ authors: 'Mike Turvey'
 license: 'Creative Commons'
 date: '2021-02-02T16:51:24Z'
 relayed_by_ip: 143.159.200.252
-moderated: false
+moderated: True
 moderated_short_title: InteractSwitch
 image_download_sha: 6d9018afea8731dd426d34aecbad58e3d9e57337d7de28363832ec00a48f5f4d
 thumb: items/InteractSwitch-xlb-thumb.png
