@@ -7,7 +7,6 @@ download_url: 'https://github.com/linediconsine/Tabae/releases'
 project_url: 'https://github.com/linediconsine/Tabae'
 tags:
     - alternative-and-augmentative-communication
-    - un-moderated
 categories:
     - software
 description: 'Tabae is a synthesized voice dashboard'
@@ -16,7 +15,7 @@ image_download: 'https://github.com/linediconsine/tabae/raw/main/public/apple-ic
 license: MIT
 date: '2021-10-21T09:09:42Z'
 relayed_by_ip: 213.205.198.131
-moderated: false
+moderated: true
 moderated_short_title: Tabae
 image_download_sha: 4778222b818084b5018561d8d6cddde2a967cd761f1332b76ee5c18e98ecdb92
 thumb: items/Tabae-ef2-thumb.png

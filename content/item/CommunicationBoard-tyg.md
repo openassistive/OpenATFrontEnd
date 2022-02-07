@@ -9,7 +9,7 @@ tags:
     - un-moderated
 categories:
     - hardware
-original_url: 'http://www.thingiverse.com/thing%3A4792283'
+original_url: 'http://www.thingiverse.com/thing:4792283'
 short_title: CommunicationBoard-tyg
 image_download: 'https://cdn.thingiverse.com/site/img/loading.gif'
 authors: 'Mark Gardner'

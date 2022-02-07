@@ -7,7 +7,6 @@ description: "EyeLink is a partner supported communication method that allows an
 tags:
     - alternative-and-augmentative-communication
     - eyegaze
-    - un-moderated
 categories:
     - hardware
 original_url: 'http://www.thingiverse.com/thing%3A4514958'
@@ -17,7 +16,7 @@ authors: 'Simon Judge'
 license: ShareAlike
 date: '2022-01-06T14:35:42Z'
 relayed_by_ip: 208.127.199.229
-moderated: false
+moderated: true
 moderated_short_title: EyeLinkCommunicationBoardsLazerCutorPrinted
 image_download_sha: 99397ad1b3c32a3fac643e3b64055831b8dc81ef22ae9e0dfe868321a8a1be9d
 thumb: items/EyeLinkCommunicationBoardsLazerCutorPrinted-go7-thumb.png

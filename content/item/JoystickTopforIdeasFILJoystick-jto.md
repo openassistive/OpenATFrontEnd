@@ -10,7 +10,7 @@ tags:
     - un-moderated
 categories:
     - hardware
-original_url: 'http://www.thingiverse.com/thing%3A5230714'
+original_url: 'http://www.thingiverse.com/thing:5230714'
 short_title: JoystickTopforIdeasFILJoystick-jto
 image_download: 'https://cdn.thingiverse.com/site/img/loading.gif'
 authors: 'Ace Centre'
