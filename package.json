@@ -14,7 +14,7 @@
     "algoliasearch": "^3.22.1",
     "htmlsave": "^1.0.0",
     "lodash": "^4.17.4",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "yamljs": "^0.2.9"
   }
 }
