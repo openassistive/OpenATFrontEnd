@@ -1,10 +1,14 @@
+ARG AlgoliaAPIKey
+ARG AlgoliaAppID
+ARG HUGO_VERSION
+ARG OpenATIndexName
 FROM debian
 
 # Copy git repo
 WORKDIR /app
 COPY . .
 
-# Install node
+# Install node (via version manager)
 SHELL [ "/bin/bash", "-l", "-c" ]
 RUN apt-get update && apt-get install -y curl
 RUN curl --silent -o- https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
@@ -13,6 +17,8 @@ RUN nvm use 10
 
 # Install deps
 RUN npm install
+
+# Run scripts
 RUN npm run get-awesome
 RUN npm run reindex 
 
