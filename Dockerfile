@@ -6,6 +6,7 @@ COPY . .
 
 # Install node
 RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+RUN ./nvm.sh
 RUN nvm install 10
 RUN nvm use 10
 
