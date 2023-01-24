@@ -1,5 +1,9 @@
 FROM node:10-alpine
 
+# Copy git repo
+WORKDIR /app
+COPY . .
+
 # Install deps
 RUN npm install
 
