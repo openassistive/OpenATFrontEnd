@@ -1,15 +1,17 @@
+FROM debian
+
 ARG AlgoliaAPIKey
 ARG AlgoliaAppID
 ARG HUGO_VERSION
 ARG OpenATIndexName
-FROM debian
+
+SHELL [ "/bin/bash", "-l", "-c" ]
 
 # Copy git repo
 WORKDIR /app
 COPY . .
 
 # Install node (via version manager)
-SHELL [ "/bin/bash", "-l", "-c" ]
 RUN apt-get update && apt-get install -y curl
 RUN curl --silent -o- https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 RUN nvm install
