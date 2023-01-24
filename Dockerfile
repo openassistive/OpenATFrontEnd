@@ -27,5 +27,6 @@ RUN npm run reindex
 # Download Hugo
 RUN curl -L https://github.com/gohugoio/hugo/releases/download/v0.20/hugo_0.20_Linux-64bit.tar.gz --output  ./hugo_0.20_Linux-64bit.tar.gz
 RUN tar -xf ./hugo_0.20_Linux-64bit.tar.gz
-RUN ./hugo_0.20_linux_amd64/hugo_0.20_linux_amd64 -b "/"
+RUN ./hugo_0.20_linux_amd64/hugo_0.20_linux_amd64 -b "/" --verbose
 RUN ls -l
+RUN ls -l hugo_0.20_linux_amd64
